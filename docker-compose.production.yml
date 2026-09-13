@@ -1,0 +1,48 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: insightx-postgres-v06
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: insightx
+      POSTGRES_USER: insightx
+      POSTGRES_PASSWORD: InsightX2026
+    ports:
+      - "55432:5432"
+    volumes:
+      - insightx_pgdata_v06:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U insightx -d insightx"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build: .
+    container_name: insightx-api-v06
+    restart: unless-stopped
+    command: uvicorn backend.main:app --host 0.0.0.0 --port 8000
+    environment:
+      INSIGHTX_DATABASE_URL: postgresql+psycopg2://insightx:InsightX2026@postgres:5432/insightx
+      INSIGHTX_ALLOWED_ORIGINS: "*"
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  frontend:
+    build: .
+    container_name: insightx-frontend-v06
+    restart: unless-stopped
+    command: streamlit run app.py --server.address 0.0.0.0 --server.port 8501
+    environment:
+      INSIGHTX_DATABASE_URL: postgresql+psycopg2://insightx:InsightX2026@postgres:5432/insightx
+    ports:
+      - "8501:8501"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  insightx_pgdata_v06:

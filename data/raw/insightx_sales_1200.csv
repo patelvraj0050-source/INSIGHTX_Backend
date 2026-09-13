@@ -1,0 +1,1204 @@
+Order Date,Order ID,Customer ID,Customer Segment,Product,Category,Region,State,Sales,Quantity,Discount,Cost,Profit,Payment Method,Shipping Mode
+2025-02-02,ORD-00001,CUST-10339,Corporate,Ink Cartridge,Office Supplies,North,Delhi,1329.31,5,0.05,952.64,376.67,Bank Transfer,Standard
+2025-05-17,ORD-00002,CUST-10069,Consumer,Ink Cartridge,Office Supplies,East,Jharkhand,1372.53,6,0.0,845.01,527.52,Bank Transfer,Standard
+2025-05-08,ORD-00003,CUST-10225,Corporate,Keyboard,Accessories,South,Kerala,1298.15,5,0.1,974.59,323.56,Cash,Standard
+2025-05-06,ORD-00004,CUST-10282,Small Business,Desk Organizer,Office Supplies,North,Delhi,1356.74,5,0.05,850.58,506.16,Bank Transfer,Standard
+2025-11-17,ORD-00005,CUST-10309,Small Business,Tablet Air,Electronics,West,Gujarat,4790.7,4,0.2,2866.22,1924.48,Credit Card,Standard
+2025-01-03,ORD-00006,CUST-10124,Small Business,Smartphone X,Electronics,South,Telangana,2837.61,2,0.0,2070.32,767.29,Debit Card,Standard
+2025-07-16,ORD-00007,CUST-10244,Consumer,Notebook Pack,Office Supplies,North,Uttar Pradesh,547.05,2,0.0,424.85,122.21,Debit Card,Standard
+2025-12-25,ORD-00008,CUST-10170,Corporate,Conference Table,Furniture,South,Tamil Nadu,5454.32,6,0.05,4561.14,893.18,Debit Card,Standard
+2025-11-16,ORD-00009,CUST-10038,Small Business,Monitor 27,Electronics,West,Rajasthan,1148.85,1,0.0,936.14,212.71,Bank Transfer,Standard
+2025-08-10,ORD-00010,CUST-10078,Corporate,Conference Table,Furniture,East,West Bengal,898.92,1,0.05,752.55,146.37,Bank Transfer,Same Day
+2025-12-31,ORD-00011,CUST-10262,Corporate,Printer Paper,Office Supplies,East,Jharkhand,804.39,3,0.1,649.96,154.43,UPI,Standard
+2025-05-27,ORD-00012,CUST-10241,Corporate,Keyboard,Accessories,South,Kerala,2860.29,6,0.05,2262.41,597.88,Debit Card,Standard
+2025-08-12,ORD-00013,CUST-10183,Corporate,Ink Cartridge,Office Supplies,North,Punjab,1330.77,5,0.1,775.89,554.88,UPI,Standard
+2025-07-18,ORD-00014,CUST-10274,Consumer,Bookshelf,Furniture,South,Telangana,5066.49,5,0.15,3890.21,1176.28,Debit Card,Express
+2025-01-18,ORD-00015,CUST-10242,Consumer,Tablet Air,Electronics,East,West Bengal,4108.63,4,0.1,2531.51,1577.12,Debit Card,Standard
+2025-01-15,ORD-00016,CUST-10119,Small Business,Standing Desk,Furniture,West,Goa,506.99,1,0.1,302.98,204.01,Credit Card,Standard
+2025-11-24,ORD-00017,CUST-10103,Small Business,Smartphone X,Electronics,North,Haryana,2750.15,3,0.05,1724.13,1026.01,Cash,Express
+2025-03-05,ORD-00018,CUST-10331,Small Business,Notebook Pack,Office Supplies,West,Rajasthan,294.14,1,0.0,243.25,50.89,Credit Card,Express
+2025-05-10,ORD-00019,CUST-10341,Consumer,Ink Cartridge,Office Supplies,South,Karnataka,1727.6,6,0.05,1387.53,340.07,UPI,Standard
+2025-08-16,ORD-00020,CUST-10011,Consumer,Smartphone X,Electronics,North,Punjab,6027.33,6,0.2,5211.42,815.91,Credit Card,Standard
+2025-07-30,ORD-00021,CUST-10277,Consumer,Tablet Air,Electronics,North,Haryana,2528.8,2,0.1,2209.39,319.41,Bank Transfer,Same Day
+2025-07-07,ORD-00022,CUST-10047,Small Business,Tablet Air,Electronics,East,Bihar,2850.5,3,0.05,2417.18,433.32,UPI,Standard
+2025-12-24,ORD-00023,CUST-10302,Corporate,USB Hub,Accessories,South,Karnataka,1414.76,3,0.05,876.98,537.78,Debit Card,Standard
+2025-10-15,ORD-00024,CUST-10207,Small Business,Desk Organizer,Office Supplies,South,Telangana,2021.23,7,0.15,1704.94,316.29,Debit Card,Standard
+2025-12-10,ORD-00025,CUST-10241,Consumer,Monitor 27,Electronics,North,Uttar Pradesh,4053.16,4,0.1,3370.57,682.59,Cash,Standard
+2025-08-29,ORD-00026,CUST-10246,Corporate,Mouse,Accessories,West,Goa,2203.9,6,0.1,1854.19,349.7,UPI,Express
+2025-12-24,ORD-00027,CUST-10212,Corporate,Office Chair,Furniture,East,Odisha,2292.17,4,0.15,1433.77,858.41,UPI,Express
+2025-08-08,ORD-00028,CUST-10088,Consumer,Bookshelf,Furniture,West,Gujarat,3753.05,5,0.1,2308.27,1444.78,Debit Card,Standard
+2025-07-17,ORD-00029,CUST-10283,Small Business,USB Hub,Accessories,West,Maharashtra,1934.53,4,0.1,1658.17,276.36,UPI,Standard
+2025-10-25,ORD-00030,CUST-10194,Corporate,Monitor 27,Electronics,North,Delhi,3167.51,2,0.0,2002.34,1165.18,Bank Transfer,Standard
+2025-11-14,ORD-00031,CUST-10191,Consumer,Monitor 27,Electronics,North,Delhi,9055.37,7,0.0,6253.52,2801.85,Credit Card,Express
+2025-01-25,ORD-00032,CUST-10112,Consumer,Printer Paper,Office Supplies,South,Tamil Nadu,996.24,5,0.2,714.1,282.14,Debit Card,Standard
+2025-11-29,ORD-00033,CUST-10004,Small Business,Monitor 27,Electronics,East,West Bengal,7426.12,6,0.1,4584.38,2841.73,UPI,Standard
+2025-09-10,ORD-00034,CUST-10194,Corporate,Printer Paper,Office Supplies,East,West Bengal,2312.82,7,0.05,1355.75,957.07,Bank Transfer,Express
+2025-11-24,ORD-00035,CUST-10121,Corporate,Smartphone X,Electronics,East,Jharkhand,1895.64,2,0.1,1664.81,230.84,Debit Card,Standard
+2025-09-19,ORD-00036,CUST-10231,Corporate,Tablet Air,Electronics,West,Gujarat,1507.92,1,0.0,1271.18,236.75,UPI,Standard
+2025-12-05,ORD-00037,CUST-10128,Consumer,Laptop Pro,Electronics,West,Gujarat,3465.03,5,0.15,2958.1,506.93,Credit Card,Standard
+2025-04-11,ORD-00038,CUST-10341,Corporate,Office Chair,Furniture,East,Jharkhand,1679.44,3,0.0,1117.45,561.99,UPI,Express
+2025-03-10,ORD-00039,CUST-10239,Small Business,Smartphone X,Electronics,West,Rajasthan,2926.15,4,0.15,1890.38,1035.77,UPI,Standard
+2025-03-13,ORD-00040,CUST-10160,Consumer,Smartphone X,Electronics,North,Haryana,1603.85,2,0.1,1135.14,468.71,Bank Transfer,Express
+2025-04-03,ORD-00041,CUST-10248,Corporate,USB Hub,Accessories,East,West Bengal,1619.71,3,0.05,1159.71,460.01,Debit Card,Express
+2025-03-20,ORD-00042,CUST-10227,Consumer,Office Chair,Furniture,South,Karnataka,2524.46,3,0.0,1468.43,1056.03,Cash,Express
+2025-06-11,ORD-00043,CUST-10218,Consumer,Office Chair,Furniture,North,Haryana,1885.61,3,0.15,1534.46,351.15,Credit Card,Standard
+2025-03-14,ORD-00044,CUST-10203,Consumer,Laptop Pro,Electronics,East,Jharkhand,6853.49,6,0.0,6024.22,829.27,Bank Transfer,Express
+2025-02-27,ORD-00045,CUST-10327,Small Business,Conference Table,Furniture,South,Tamil Nadu,4104.96,5,0.0,3031.95,1073.01,Bank Transfer,Standard
+2025-07-11,ORD-00046,CUST-10112,Consumer,Smartphone X,Electronics,South,Kerala,3484.47,4,0.15,2426.86,1057.62,Bank Transfer,Same Day
+2025-10-17,ORD-00047,CUST-10152,Consumer,Desk Organizer,Office Supplies,East,Bihar,202.25,1,0.05,141.13,61.11,Cash,Express
+2025-02-19,ORD-00048,CUST-10089,Corporate,Laptop Pro,Electronics,West,Goa,5133.58,4,0.05,3125.44,2008.14,Bank Transfer,Standard
+2025-07-06,ORD-00049,CUST-10200,Consumer,Keyboard,Accessories,North,Haryana,605.91,2,0.05,399.81,206.1,Bank Transfer,Express
+2025-08-29,ORD-00050,CUST-10346,Corporate,USB Hub,Accessories,West,Rajasthan,1360.53,3,0.15,994.06,366.47,Bank Transfer,Standard
+2025-09-15,ORD-00051,CUST-10213,Small Business,Smartphone X,Electronics,West,Gujarat,2659.2,3,0.05,1886.85,772.35,Debit Card,Standard
+2025-02-08,ORD-00052,CUST-10073,Consumer,Tablet Air,Electronics,West,Goa,1420.36,1,0.0,1056.05,364.31,Bank Transfer,Standard
+2025-09-25,ORD-00053,CUST-10323,Consumer,Laptop Pro,Electronics,South,Kerala,4242.62,3,0.05,3541.4,701.22,Cash,Standard
+2025-01-10,ORD-00054,CUST-10277,Small Business,Printer Paper,Office Supplies,North,Delhi,420.15,2,0.0,272.08,148.07,Bank Transfer,Express
+2025-03-28,ORD-00055,CUST-10155,Consumer,Laptop Pro,Electronics,North,Delhi,4715.64,6,0.05,2774.21,1941.43,Bank Transfer,Express
+2025-04-27,ORD-00056,CUST-10052,Consumer,Webcam,Accessories,South,Tamil Nadu,4144.4,7,0.0,2451.28,1693.12,UPI,Standard
+2025-11-08,ORD-00057,CUST-10141,Small Business,Desk Organizer,Office Supplies,East,Odisha,285.72,1,0.0,177.22,108.5,Debit Card,Express
+2025-03-12,ORD-00058,CUST-10282,Small Business,Webcam,Accessories,North,Uttar Pradesh,2302.61,5,0.05,1729.59,573.02,UPI,Express
+2025-10-13,ORD-00059,CUST-10202,Corporate,Standing Desk,Furniture,West,Maharashtra,2415.35,5,0.15,1986.52,428.83,UPI,Express
+2025-12-27,ORD-00060,CUST-10066,Corporate,USB Hub,Accessories,West,Goa,1099.94,3,0.0,930.6,169.34,Credit Card,Standard
+2025-12-17,ORD-00061,CUST-10056,Small Business,Laptop Pro,Electronics,North,Uttar Pradesh,4849.86,4,0.0,3736.98,1112.88,Debit Card,Standard
+2025-04-21,ORD-00062,CUST-10339,Corporate,Conference Table,Furniture,East,Bihar,5891.16,6,0.15,4129.36,1761.79,Debit Card,Express
+2025-02-04,ORD-00063,CUST-10157,Corporate,Conference Table,Furniture,North,Haryana,1879.55,3,0.15,1177.27,702.29,Cash,Standard
+2025-03-23,ORD-00064,CUST-10241,Small Business,Webcam,Accessories,North,Uttar Pradesh,480.12,1,0.1,336.29,,Bank Transfer,Standard
+2025-10-08,ORD-00065,CUST-10127,Corporate,Desk Organizer,Office Supplies,North,Haryana,941.46,3,0.05,639.93,301.53,Debit Card,Standard
+2025-03-13,ORD-00066,CUST-10032,Corporate,Webcam,Accessories,North,Delhi,592.29,2,0.05,498.12,94.17,Credit Card,Standard
+2025-08-24,ORD-00067,CUST-10145,Consumer,Monitor 27,Electronics,North,Haryana,3052.22,3,0.0,2215.96,836.26,Bank Transfer,Standard
+2025-05-17,ORD-00068,CUST-10243,Corporate,Mouse,Accessories,East,Odisha,705.84,2,0.0,457.29,248.56,Credit Card,Standard
+2025-10-07,ORD-00069,CUST-10117,Corporate,Conference Table,Furniture,West,Maharashtra,1621.5,2,0.05,1080.95,540.54,Cash,Express
+2025-08-10,ORD-00070,CUST-10212,Consumer,Bookshelf,Furniture,East,Jharkhand,6202.52,7,0.1,3851.4,2351.12,Bank Transfer,Same Day
+2025-08-02,ORD-00071,CUST-10154,Consumer,Keyboard,Accessories,West,Maharashtra,397.7,1,0.05,340.26,57.44,Bank Transfer,Standard
+2025-10-13,ORD-00072,CUST-10119,Small Business,Conference Table,Furniture,East,West Bengal,3234.53,5,0.1,1924.88,1309.65,Credit Card,Standard
+2025-12-15,ORD-00073,CUST-10090,Consumer,Office Chair,Furniture,South,Kerala,5846.48,6,0.05,3413.49,,Bank Transfer,Express
+2025-05-14,ORD-00074,CUST-10092,Consumer,Ink Cartridge,Office Supplies,West,Goa,1486.38,5,0.05,943.7,542.68,Cash,Standard
+2025-07-13,ORD-00075,CUST-10090,Consumer,Laptop Pro,Electronics,West,Goa,7290.35,7,0.15,6001.87,1288.48,UPI,Same Day
+2025-08-17,ORD-00076,CUST-10252,Consumer,Bookshelf,Furniture,West,Rajasthan,790.08,1,0.15,582.32,207.76,UPI,Standard
+2025-10-28,ORD-00077,CUST-10119,Corporate,Monitor 27,Electronics,West,Goa,2712.2,3,0.05,2082.3,629.9,Debit Card,Standard
+2025-06-25,ORD-00078,CUST-10260,Consumer,Monitor 27,Electronics,North,Haryana,2472.29,2,0.1,1699.26,773.04,Credit Card,Standard
+2025-05-17,ORD-00079,CUST-10109,Consumer,Webcam,Accessories,North,Uttar Pradesh,1915.2,5,0.05,1150.28,764.92,Bank Transfer,Standard
+2025-11-05,ORD-00080,CUST-10115,Small Business,Desk Organizer,Office Supplies,South,Tamil Nadu,1317.08,5,0.0,1102.2,214.89,Debit Card,Express
+2025-12-14,ORD-00081,CUST-10324,Consumer,Standing Desk,Furniture,North,Uttar Pradesh,4122.21,7,0.1,2628.19,1494.02,Cash,Standard
+2025-07-27,ORD-00082,CUST-10307,Consumer,Conference Table,Furniture,East,Jharkhand,2875.05,3,0.0,1696.04,1179.01,Credit Card,Express
+2025-02-07,ORD-00083,CUST-10141,Small Business,Standing Desk,Furniture,South,Karnataka,1828.39,2,0.05,1374.61,453.79,Credit Card,Express
+2025-04-16,ORD-00084,CUST-10095,Corporate,Printer Paper,Office Supplies,West,Gujarat,1626.83,7,0.1,984.21,642.62,UPI,Express
+2025-06-18,ORD-00085,CUST-10251,Corporate,Keyboard,Accessories,West,Rajasthan,2809.55,5,0.0,1710.25,1099.3,Credit Card,Express
+2025-09-14,ORD-00086,CUST-10025,Small Business,Keyboard,Accessories,West,Rajasthan,3342.44,6,0.0,2741.18,601.26,Credit Card,Standard
+2025-09-02,ORD-00087,CUST-10160,Small Business,Bookshelf,Furniture,North,Uttar Pradesh,2381.3,4,0.05,1732.35,648.94,Bank Transfer,Standard
+2025-10-27,ORD-00088,CUST-10210,Consumer,Bookshelf,Furniture,East,West Bengal,3280.4,4,0.2,2140.31,1140.1,Credit Card,Express
+2025-01-11,ORD-00089,CUST-10237,Corporate,Standing Desk,Furniture,West,Rajasthan,2214.83,3,0.1,1516.25,698.58,Credit Card,Standard
+2025-06-19,ORD-00090,CUST-10038,Corporate,Notebook Pack,Office Supplies,East,Bihar,2313.84,6,,1848.23,465.61,Credit Card,Standard
+2025-09-13,ORD-00091,CUST-10002,Consumer,Conference Table,Furniture,West,Rajasthan,1411.03,2,0.0,846.49,564.55,Debit Card,Standard
+2025-12-27,ORD-00092,CUST-10097,Small Business,Ink Cartridge,Office Supplies,North,Punjab,1542.48,7,0.1,948.54,593.94,Bank Transfer,Standard
+2025-02-21,ORD-00093,CUST-10042,Consumer,Printer Paper,Office Supplies,East,Jharkhand,562.06,2,0.0,429.91,132.15,Cash,Express
+2025-11-17,ORD-00094,CUST-10178,Small Business,Office Chair,Furniture,East,Odisha,2646.81,4,0.1,2017.12,629.7,UPI,Standard
+2025-01-03,ORD-00095,CUST-10322,Corporate,Standing Desk,Furniture,East,West Bengal,2608.79,3,0.15,2274.18,334.61,Cash,Express
+2025-03-13,ORD-00096,CUST-10101,Corporate,Standing Desk,Furniture,North,Haryana,4177.71,5,0.05,2892.5,1285.21,Credit Card,Same Day
+2025-11-06,ORD-00097,CUST-10159,Consumer,Smartphone X,Electronics,East,West Bengal,4515.87,5,0.05,2707.37,1808.5,Cash,Standard
+2025-10-15,ORD-00098,CUST-10076,Small Business,Tablet Air,Electronics,West,Gujarat,8493.55,7,0.0,6295.94,2197.61,UPI,Express
+2025-12-22,ORD-00099,CUST-10016,Corporate,Desk Organizer,Office Supplies,West,,2286.53,6,0.0,1764.07,522.46,Bank Transfer,Standard
+2025-08-08,ORD-00100,CUST-10247,Consumer,Bookshelf,Furniture,South,Tamil Nadu,2073.53,2,0.05,1289.49,784.04,Cash,Standard
+2025-08-13,ORD-00101,CUST-10090,Consumer,Monitor 27,Electronics,South,Karnataka,2050.92,2,0.15,1529.7,521.22,UPI,Standard
+2025-07-15,ORD-00102,CUST-10192,Corporate,Ink Cartridge,Office Supplies,North,Uttar Pradesh,1640.04,7,0.05,1048.53,591.51,Bank Transfer,Standard
+2025-07-06,ORD-00103,CUST-10240,Consumer,Ink Cartridge,Office Supplies,West,Rajasthan,800.26,4,0.1,666.95,133.31,UPI,Standard
+2025-07-07,ORD-00104,CUST-10294,Corporate,Tablet Air,Electronics,South,Kerala,1400.05,1,0.1,1162.81,237.24,Cash,Standard
+2025-04-17,ORD-00105,CUST-10065,Corporate,Keyboard,Accessories,North,Punjab,3069.7,6,0.0,2176.07,893.62,Bank Transfer,Standard
+2025-11-08,ORD-00106,CUST-10204,Consumer,Webcam,Accessories,North,Delhi,2326.23,5,0.0,2023.88,302.36,Cash,Standard
+2025-05-11,ORD-00107,CUST-10319,Corporate,Notebook Pack,Office Supplies,East,Jharkhand,360.04,1,0.05,314.65,45.39,Cash,Express
+2025-08-11,ORD-00108,CUST-10170,Consumer,Desk Organizer,Office Supplies,West,Goa,1130.0,6,0.1,699.21,430.78,Credit Card,Standard
+2025-09-02,ORD-00109,CUST-10015,Small Business,Smartphone X,Electronics,West,Gujarat,6533.1,5,0.05,4509.89,2023.21,Debit Card,Express
+2025-07-16,ORD-00110,CUST-10092,Small Business,Webcam,Accessories,South,Kerala,1556.17,5,0.1,1182.84,373.33,Bank Transfer,Same Day
+2025-08-12,ORD-00111,CUST-10279,Consumer,Conference Table,Furniture,East,Odisha,3775.23,7,0.15,2285.72,1489.51,UPI,Express
+2025-01-18,ORD-00112,CUST-10278,Corporate,Webcam,Accessories,West,Rajasthan,1460.11,4,0.15,1014.48,445.63,Credit Card,Standard
+2025-04-26,ORD-00113,CUST-10111,Corporate,Printer Paper,Office Supplies,East,West Bengal,860.08,4,0.2,566.24,293.85,UPI,Express
+2025-06-13,ORD-00114,CUST-10069,Small Business,Tablet Air,Electronics,North,Punjab,6856.86,5,0.15,5935.4,921.46,Cash,Express
+2025-05-24,ORD-00115,CUST-10103,Consumer,Smartphone X,Electronics,West,Maharashtra,1777.45,2,0.15,1250.4,527.06,Credit Card,Same Day
+2025-11-28,ORD-00116,CUST-10085,Corporate,Printer Paper,Office Supplies,South,Karnataka,619.71,2,0.15,501.23,118.49,Debit Card,Same Day
+2025-11-24,ORD-00117,CUST-10260,Small Business,Printer Paper,Office Supplies,North,Haryana,1888.58,6,0.1,1314.47,574.11,Debit Card,Standard
+2025-09-17,ORD-00118,CUST-10295,Consumer,Monitor 27,Electronics,North,Uttar Pradesh,2315.38,2,0.15,1434.48,880.9,Credit Card,Standard
+2025-05-09,ORD-00119,CUST-10017,Corporate,Desk Organizer,Office Supplies,East,Jharkhand,1242.14,4,0.2,1042.09,200.05,Bank Transfer,Express
+2025-01-19,ORD-00120,CUST-10260,Consumer,Webcam,Accessories,North,Punjab,738.11,2,0.1,428.2,309.92,Cash,Standard
+2025-10-03,ORD-00121,CUST-10264,Corporate,Conference Table,Furniture,North,Haryana,1471.46,2,0.1,878.14,593.32,Debit Card,Standard
+2025-11-19,ORD-00122,CUST-10215,Consumer,Conference Table,Furniture,North,Punjab,2978.75,5,0.1,2053.3,925.45,Cash,Express
+2025-06-28,ORD-00123,CUST-10305,Small Business,Tablet Air,Electronics,West,Maharashtra,5106.13,6,0.15,4013.77,1092.36,UPI,Express
+2025-10-29,ORD-00124,CUST-10014,Consumer,Ink Cartridge,Office Supplies,East,Bihar,1440.47,4,0.05,983.13,457.33,Cash,Standard
+2025-12-06,ORD-00125,CUST-10245,Consumer,Standing Desk,Furniture,West,Goa,743.82,1,0.15,446.21,297.61,UPI,Standard
+2025-07-19,ORD-00126,CUST-10045,Small Business,Keyboard,Accessories,East,Odisha,659.08,2,0.15,445.11,213.97,UPI,Standard
+2025-03-18,ORD-00127,CUST-10314,Small Business,Standing Desk,Furniture,East,Odisha,1119.13,2,0.2,731.34,387.78,UPI,Standard
+2025-01-09,ORD-00128,CUST-10175,Corporate,Ink Cartridge,Office Supplies,West,Rajasthan,1932.7,7,0.05,1124.11,808.59,Credit Card,Same Day
+2025-10-04,ORD-00129,CUST-10032,Corporate,Laptop Pro,Electronics,West,Goa,3798.45,3,0.1,2812.52,985.92,Cash,Express
+2025-07-25,ORD-00130,CUST-10262,Consumer,Laptop Pro,Electronics,North,Delhi,2578.7,3,0.15,1585.89,992.82,Credit Card,Standard
+2025-02-26,ORD-00131,CUST-10263,Corporate,Printer Paper,Office Supplies,West,Rajasthan,281.38,1,0.2,187.47,93.91,Bank Transfer,Standard
+2025-01-20,ORD-00132,CUST-10163,Consumer,Bookshelf,Furniture,South,Telangana,3334.57,4,0.15,2575.48,759.09,Debit Card,Express
+2025-12-20,ORD-00133,CUST-10109,Consumer,Conference Table,Furniture,North,Punjab,6854.67,7,0.1,5466.84,1387.83,UPI,Express
+2025-04-27,ORD-00134,CUST-10007,Small Business,USB Hub,Accessories,East,Bihar,964.73,3,0.1,635.79,328.94,Debit Card,Standard
+2025-04-30,ORD-00135,CUST-10318,Corporate,Mouse,Accessories,North,Uttar Pradesh,2425.13,5,0.0,1646.07,779.05,Credit Card,Standard
+2025-08-18,ORD-00136,CUST-10065,Consumer,Webcam,Accessories,West,Rajasthan,519.45,2,0.2,339.76,179.69,Credit Card,Standard
+2025-05-14,ORD-00137,CUST-10295,Consumer,Smartphone X,Electronics,South,Tamil Nadu,2056.17,2,0.05,1782.83,273.33,Debit Card,Express
+2025-11-30,ORD-00138,CUST-10207,Small Business,Ink Cartridge,Office Supplies,East,Bihar,1858.99,6,0.1,1184.46,674.52,Bank Transfer,Standard
+2025-09-06,ORD-00139,CUST-10240,Consumer,Mouse,Accessories,South,Kerala,412.45,1,0.15,261.89,150.56,Debit Card,Standard
+2025-05-11,ORD-00140,CUST-10243,Consumer,Standing Desk,Furniture,West,Rajasthan,2584.93,4,0.05,1844.38,740.56,Credit Card,Same Day
+2025-04-08,ORD-00141,CUST-10301,Consumer,Tablet Air,Electronics,East,Jharkhand,4611.53,3,0.0,2936.58,1674.94,Bank Transfer,Express
+2025-11-10,ORD-00142,CUST-10012,Consumer,Mouse,Accessories,East,Odisha,290.93,1,0.0,182.41,108.51,Bank Transfer,Same Day
+2025-08-04,ORD-00143,CUST-10347,Consumer,Conference Table,Furniture,South,Karnataka,3254.64,4,0.15,1981.31,1273.33,Credit Card,Standard
+2025-12-02,ORD-00144,CUST-10016,Small Business,Desk Organizer,Office Supplies,North,Uttar Pradesh,2534.97,7,0.1,1957.13,577.84,Cash,Standard
+2025-05-06,ORD-00145,CUST-10350,Consumer,Keyboard,Accessories,East,Jharkhand,451.59,1,0.0,344.84,106.74,Cash,Same Day
+2025-01-08,ORD-00146,CUST-10092,Corporate,Ink Cartridge,Office Supplies,West,Rajasthan,1951.29,6,0.1,1512.35,438.95,Bank Transfer,Same Day
+2025-11-25,ORD-00147,CUST-10297,Corporate,Standing Desk,Furniture,East,Jharkhand,3637.45,4,0.05,2953.57,683.88,Credit Card,Same Day
+2025-03-29,ORD-00148,CUST-10030,Corporate,Bookshelf,Furniture,East,Jharkhand,5533.5,6,0.15,3751.2,1782.3,Credit Card,Express
+2025-11-05,ORD-00149,CUST-10162,Corporate,Standing Desk,Furniture,East,West Bengal,948.39,1,0.05,811.37,137.02,Debit Card,Standard
+2025-09-17,ORD-00150,CUST-10190,Corporate,Monitor 27,Electronics,West,Maharashtra,9683.39,7,0.0,7746.34,1937.05,UPI,Standard
+2025-03-26,ORD-00151,CUST-10335,Corporate,Notebook Pack,Office Supplies,South,Telangana,233.03,1,0.0,191.41,41.62,Credit Card,Standard
+2025-10-04,ORD-00152,CUST-10044,Corporate,Keyboard,Accessories,South,Karnataka,3290.19,7,0.1,2619.94,670.25,UPI,Same Day
+2025-01-30,ORD-00153,CUST-10013,Corporate,Smartphone X,Electronics,West,Gujarat,4590.29,5,0.05,3155.99,1434.3,UPI,Standard
+2025-05-24,ORD-00154,CUST-10227,Corporate,Laptop Pro,Electronics,North,Haryana,4206.71,3,0.15,2797.08,1409.63,Bank Transfer,Express
+2025-05-11,ORD-00155,CUST-10018,Corporate,Mouse,Accessories,West,Gujarat,332.06,1,0.05,234.68,97.37,UPI,Same Day
+2025-08-28,ORD-00156,CUST-10273,Consumer,Laptop Pro,Electronics,North,Haryana,4584.93,5,0.05,2792.73,1792.21,Debit Card,Same Day
+2025-07-15,ORD-00157,CUST-10014,Corporate,Office Chair,Furniture,West,Maharashtra,1079.58,1,0.05,772.31,307.26,Debit Card,Same Day
+2025-08-12,ORD-00158,CUST-10340,Corporate,Standing Desk,Furniture,North,Punjab,3409.22,5,0.05,2021.47,1387.75,UPI,Standard
+2025-06-23,ORD-00159,CUST-10187,Consumer,Desk Organizer,Office Supplies,North,Delhi,1340.5,6,0.15,779.07,561.42,Cash,Standard
+2025-09-28,ORD-00160,CUST-10332,Small Business,Smartphone X,Electronics,North,Punjab,2809.94,2,0.0,2415.0,394.94,Cash,Same Day
+2025-02-28,ORD-00161,CUST-10045,Consumer,Notebook Pack,Office Supplies,West,Goa,348.1,2,0.2,273.88,74.21,Bank Transfer,Standard
+2025-09-20,ORD-00162,CUST-10096,Consumer,Bookshelf,Furniture,South,Telangana,1255.27,2,0.05,939.64,315.63,Bank Transfer,Standard
+2025-01-19,ORD-00163,CUST-10160,Small Business,Desk Organizer,Office Supplies,West,Maharashtra,581.89,2,0.0,397.04,184.85,Credit Card,Same Day
+2025-02-01,ORD-00164,CUST-10011,Consumer,Laptop Pro,Electronics,West,Gujarat,923.12,1,0.05,693.41,229.71,Cash,Express
+2025-09-22,ORD-00165,CUST-10037,Consumer,Conference Table,Furniture,North,Uttar Pradesh,1425.49,2,0.0,1208.07,217.43,Bank Transfer,Standard
+2025-02-27,ORD-00166,CUST-10116,Consumer,Office Chair,Furniture,East,Bihar,2374.83,5,0.15,1842.19,532.64,Debit Card,Standard
+2025-10-09,ORD-00167,CUST-10258,Small Business,Laptop Pro,Electronics,South,Kerala,2938.45,3,0.1,2235.41,703.04,Bank Transfer,Standard
+2025-02-18,ORD-00168,CUST-10248,Corporate,Monitor 27,Electronics,South,Tamil Nadu,5929.66,6,0.05,4257.86,1671.8,Cash,Same Day
+2025-02-23,ORD-00169,CUST-10031,Corporate,Laptop Pro,Electronics,East,Jharkhand,4191.28,6,0.1,2865.62,1325.66,Bank Transfer,Standard
+2025-12-07,ORD-00170,CUST-10021,Corporate,Conference Table,Furniture,South,Karnataka,5264.67,6,0.1,4156.79,1107.88,UPI,Standard
+2025-03-06,ORD-00171,CUST-10230,Corporate,Smartphone X,Electronics,West,Rajasthan,4236.87,4,0.2,3704.27,532.6,Credit Card,Standard
+2025-11-30,ORD-00172,CUST-10126,Small Business,Mouse,Accessories,East,West Bengal,712.29,3,0.2,503.9,208.4,UPI,Express
+2025-05-08,ORD-00173,CUST-10278,Small Business,Conference Table,Furniture,West,Maharashtra,4838.96,7,0.1,3375.95,1463.0,Credit Card,Same Day
+2025-10-19,ORD-00174,CUST-10105,Consumer,USB Hub,Accessories,South,Kerala,962.65,2,0.15,681.97,280.67,Cash,Standard
+2025-12-09,ORD-00175,CUST-10127,Small Business,USB Hub,Accessories,West,Goa,1593.27,4,0.15,1127.5,465.77,UPI,Standard
+2025-02-12,ORD-00176,CUST-10077,Corporate,Smartphone X,Electronics,West,Rajasthan,4055.46,4,0.1,3557.4,498.06,Cash,Standard
+2025-05-01,ORD-00177,CUST-10094,Consumer,Ink Cartridge,Office Supplies,East,Odisha,1545.39,6,0.1,1224.0,321.39,Credit Card,Standard
+2025-07-29,ORD-00178,CUST-10248,Consumer,Keyboard,Accessories,South,Karnataka,1371.93,4,0.0,943.55,428.38,Debit Card,Standard
+2025-11-12,ORD-00179,CUST-10165,Corporate,Desk Organizer,Office Supplies,South,Karnataka,1855.69,6,0.15,1283.12,572.57,Debit Card,Standard
+2025-03-10,ORD-00180,CUST-10231,Consumer,Bookshelf,Furniture,North,Delhi,6574.53,7,0.2,4662.91,1911.62,UPI,Standard
+2025-03-10,ORD-00181,CUST-10028,Corporate,Conference Table,Furniture,South,Karnataka,3515.25,3,0.0,2077.56,1437.69,UPI,Standard
+2025-05-15,ORD-00182,CUST-10188,Consumer,Smartphone X,Electronics,South,Tamil Nadu,5673.44,7,0.15,4188.96,1484.48,Credit Card,Standard
+2025-03-16,ORD-00183,CUST-10161,Corporate,Office Chair,Furniture,East,West Bengal,1222.09,2,0.2,1006.28,215.8,UPI,Standard
+2025-04-08,ORD-00184,CUST-10319,Consumer,Mouse,Accessories,East,West Bengal,2174.35,7,0.05,1692.01,482.33,Bank Transfer,Standard
+2025-02-17,ORD-00185,CUST-10149,Small Business,Keyboard,Accessories,North,Punjab,677.2,2,0.1,433.08,244.11,Debit Card,Express
+2025-10-30,ORD-00186,CUST-10037,Consumer,Laptop Pro,Electronics,North,Haryana,5373.77,6,0.15,4290.48,1083.3,Cash,Standard
+2025-10-18,ORD-00187,CUST-10245,Consumer,Desk Organizer,Office Supplies,East,Jharkhand,777.16,3,0.2,618.49,158.67,Cash,Standard
+2025-02-22,ORD-00188,CUST-10053,Consumer,Smartphone X,Electronics,West,Gujarat,6453.82,7,0.0,4251.53,2202.29,Credit Card,Same Day
+2025-07-15,ORD-00189,CUST-10319,Corporate,USB Hub,Accessories,North,Uttar Pradesh,552.82,1,0.05,423.94,128.88,Cash,Standard
+2025-08-24,ORD-00190,CUST-10135,Corporate,Smartphone X,Electronics,West,Goa,3032.47,4,0.1,2314.63,717.83,UPI,Express
+2025-08-18,ORD-00191,CUST-10275,Corporate,Webcam,Accessories,South,Tamil Nadu,1830.82,7,0.05,1523.12,307.69,Debit Card,Standard
+2025-12-26,ORD-00192,CUST-10230,Consumer,Webcam,Accessories,West,Maharashtra,532.25,1,0.05,330.43,201.82,Bank Transfer,Express
+2025-08-23,ORD-00193,CUST-10163,Small Business,Smartphone X,Electronics,West,Rajasthan,2789.94,2,0.0,1781.24,1008.7,Debit Card,Standard
+2025-09-08,ORD-00194,CUST-10205,Corporate,Tablet Air,Electronics,South,Tamil Nadu,1074.43,1,0.0,779.81,294.62,Bank Transfer,Standard
+2025-01-12,ORD-00195,CUST-10064,Consumer,Webcam,Accessories,West,Gujarat,1277.34,3,0.1,757.77,519.57,Cash,Express
+2025-01-29,ORD-00196,CUST-10026,Corporate,Laptop Pro,Electronics,West,Maharashtra,2573.53,3,0.1,1813.51,760.02,Debit Card,Express
+2025-08-14,ORD-00197,CUST-10269,Corporate,Bookshelf,Furniture,North,Delhi,3001.52,5,0.1,2450.64,550.88,Credit Card,Standard
+2025-11-28,ORD-00198,CUST-10336,Corporate,USB Hub,Accessories,South,Karnataka,733.22,2,0.15,457.98,275.24,Debit Card,Express
+2025-05-26,ORD-00199,CUST-10302,Consumer,Ink Cartridge,Office Supplies,West,Maharashtra,496.12,2,0.05,356.2,139.91,Cash,Standard
+2025-08-23,ORD-00200,CUST-10107,Consumer,Standing Desk,Furniture,East,West Bengal,1844.63,2,0.05,1617.61,227.02,Cash,Same Day
+2025-03-18,ORD-00201,CUST-10126,Corporate,Office Chair,Furniture,North,Punjab,4905.89,7,0.0,3590.01,1315.88,Cash,Express
+2025-06-16,ORD-00202,CUST-10126,Consumer,Laptop Pro,Electronics,South,Karnataka,9501.75,7,0.0,6931.5,2570.25,Credit Card,Standard
+2025-10-02,ORD-00203,CUST-10246,Consumer,Webcam,Accessories,East,Jharkhand,1008.26,2,0.05,753.82,254.45,Credit Card,Express
+2025-08-29,ORD-00204,CUST-10219,Small Business,Tablet Air,Electronics,West,Gujarat,1801.61,2,0.0,1145.47,656.14,Debit Card,Same Day
+2025-02-11,ORD-00205,CUST-10279,Corporate,Smartphone X,Electronics,West,Gujarat,787.85,1,0.0,491.74,296.11,Debit Card,Express
+2025-11-17,ORD-00206,CUST-10331,Consumer,Smartphone X,Electronics,West,Rajasthan,8063.44,7,0.0,6315.34,1748.1,Bank Transfer,Standard
+2025-12-05,ORD-00207,CUST-10138,Consumer,Mouse,Accessories,West,Gujarat,2398.82,5,0.1,1676.13,722.69,Cash,Express
+2025-06-24,ORD-00208,CUST-10232,Corporate,Smartphone X,Electronics,North,Punjab,7269.57,6,0.1,4848.6,2420.97,Debit Card,Express
+2025-05-05,ORD-00209,CUST-10176,Consumer,Webcam,Accessories,West,Goa,1221.2,3,0.2,719.8,501.4,Credit Card,Standard
+2025-07-13,ORD-00210,CUST-10335,Consumer,Notebook Pack,Office Supplies,East,Odisha,1157.0,5,0.15,964.73,192.28,Cash,Express
+2025-10-20,ORD-00211,CUST-10124,Consumer,USB Hub,Accessories,North,Punjab,316.75,1,0.1,186.79,129.96,Debit Card,Standard
+2025-06-15,ORD-00212,CUST-10066,Corporate,Keyboard,Accessories,North,Delhi,2258.39,5,0.0,1817.99,440.4,Bank Transfer,Express
+2025-01-11,ORD-00213,CUST-10133,Corporate,Webcam,Accessories,West,Maharashtra,1537.5,5,0.1,1067.94,469.56,UPI,Express
+2025-01-27,ORD-00214,CUST-10217,Consumer,USB Hub,Accessories,South,Kerala,1551.04,3,0.0,1178.18,372.86,Debit Card,Standard
+2025-10-24,ORD-00215,CUST-10334,Consumer,Tablet Air,Electronics,North,Haryana,4411.37,5,0.05,2886.37,1525.0,Debit Card,Same Day
+2025-10-15,ORD-00216,CUST-10291,Corporate,Desk Organizer,Office Supplies,North,Uttar Pradesh,1174.4,5,0.05,735.9,438.5,UPI,Standard
+2025-10-09,ORD-00217,CUST-10007,Corporate,Office Chair,Furniture,West,Goa,3408.41,4,0.05,2522.28,886.13,Credit Card,Standard
+2025-02-16,ORD-00218,CUST-10179,Corporate,Bookshelf,Furniture,West,Rajasthan,1678.58,2,0.05,1323.87,354.71,Bank Transfer,Standard
+2025-03-04,ORD-00219,CUST-10056,Consumer,USB Hub,Accessories,South,Tamil Nadu,427.4,1,0.1,272.96,154.44,UPI,Standard
+2025-05-25,ORD-00220,CUST-10127,Corporate,Webcam,Accessories,East,Jharkhand,2498.89,7,0.15,1776.48,722.41,UPI,Express
+2025-03-26,ORD-00221,CUST-10331,Small Business,Desk Organizer,Office Supplies,East,Jharkhand,659.54,2,0.15,470.51,189.03,UPI,Standard
+2025-05-22,ORD-00222,CUST-10345,Corporate,Standing Desk,Furniture,East,Bihar,3033.87,3,0.1,1956.22,1077.65,UPI,Same Day
+2025-07-23,ORD-00223,CUST-10054,Consumer,Bookshelf,Furniture,North,Haryana,5176.34,5,0.1,3879.74,1296.6,Debit Card,Same Day
+2025-04-13,ORD-00224,CUST-10050,Corporate,Standing Desk,Furniture,South,Tamil Nadu,1961.14,2,0.0,1223.32,737.82,Debit Card,Express
+2025-02-15,ORD-00225,CUST-10244,Consumer,Conference Table,Furniture,West,Gujarat,2657.62,3,0.1,1947.84,709.79,Bank Transfer,Standard
+2025-05-27,ORD-00226,CUST-10144,Consumer,Office Chair,Furniture,South,Kerala,4350.4,5,0.1,2671.27,1679.13,Debit Card,Express
+2025-09-21,ORD-00227,CUST-10152,Consumer,Monitor 27,Electronics,West,Maharashtra,5451.07,5,0.05,3955.64,1495.43,Debit Card,Standard
+2025-08-14,ORD-00228,CUST-10306,Small Business,Laptop Pro,Electronics,North,Uttar Pradesh,4958.23,5,0.05,3339.27,1618.96,Cash,Express
+2025-04-28,ORD-00229,CUST-10323,Consumer,Ink Cartridge,Office Supplies,North,Haryana,251.69,1,0.2,180.13,71.56,Credit Card,Standard
+2025-04-24,ORD-00230,CUST-10316,Small Business,Office Chair,Furniture,West,Gujarat,2051.5,4,0.1,1456.82,594.68,Bank Transfer,Same Day
+2025-08-02,ORD-00231,CUST-10275,Corporate,Mouse,Accessories,West,Goa,991.82,4,0.1,845.41,146.41,UPI,Standard
+2025-03-04,ORD-00232,CUST-10344,Corporate,Desk Organizer,Office Supplies,East,Odisha,1677.45,5,0.1,1219.48,457.98,Cash,Standard
+2025-11-01,ORD-00233,CUST-10252,Consumer,Monitor 27,Electronics,South,Karnataka,1501.4,2,0.05,1239.48,261.92,Credit Card,Same Day
+2025-11-14,ORD-00234,CUST-10310,Corporate,Laptop Pro,Electronics,North,Punjab,2214.56,2,0.1,1434.36,780.2,Credit Card,Standard
+2025-01-10,ORD-00235,CUST-10190,Consumer,Laptop Pro,Electronics,South,Telangana,7485.75,6,0.05,5132.41,2353.33,UPI,Express
+2025-12-21,ORD-00236,CUST-10018,Corporate,Keyboard,Accessories,South,Karnataka,1613.03,5,0.05,971.89,641.14,Debit Card,Same Day
+2025-01-09,ORD-00237,CUST-10286,Consumer,Smartphone X,Electronics,East,Jharkhand,8486.49,6,0.1,5993.37,2493.12,Credit Card,Standard
+2025-06-17,ORD-00238,CUST-10326,Consumer,Bookshelf,Furniture,South,Kerala,1363.53,2,0.0,1064.39,299.14,Cash,Standard
+2025-09-01,ORD-00239,CUST-10110,Corporate,USB Hub,Accessories,West,Gujarat,3392.67,7,0.15,2820.84,571.83,UPI,Standard
+2025-04-30,ORD-00240,CUST-10150,Consumer,Keyboard,Accessories,West,Gujarat,1005.79,2,0.05,754.12,251.68,Debit Card,Express
+2025-03-16,ORD-00241,CUST-10201,Consumer,Monitor 27,Electronics,South,Karnataka,4360.43,5,0.1,3366.34,994.08,Cash,Same Day
+2025-01-18,ORD-00242,CUST-10229,Small Business,Laptop Pro,Electronics,South,Telangana,1595.13,2,0.1,1010.01,585.13,Cash,Standard
+2025-09-23,ORD-00243,CUST-10237,Consumer,Monitor 27,Electronics,West,Rajasthan,6542.13,7,0.1,3867.46,2674.67,Bank Transfer,Express
+2025-01-14,ORD-00244,CUST-10138,Consumer,Tablet Air,Electronics,East,Bihar,3006.76,3,0.1,2458.05,548.71,Debit Card,Standard
+2025-06-26,ORD-00245,CUST-10300,Consumer,Smartphone X,Electronics,North,Delhi,4673.39,6,0.2,2944.75,1728.63,Cash,Standard
+2025-05-24,ORD-00246,CUST-10285,Consumer,Notebook Pack,Office Supplies,South,Tamil Nadu,1095.53,3,0.1,665.37,430.16,Credit Card,Express
+2025-12-20,ORD-00247,CUST-10330,Corporate,USB Hub,Accessories,North,Delhi,1890.88,6,0.1,1628.56,262.32,Cash,Express
+2025-12-06,ORD-00248,CUST-10202,Consumer,Bookshelf,Furniture,East,Odisha,4022.39,4,0.1,3495.69,526.71,Debit Card,Standard
+2025-10-26,ORD-00249,CUST-10028,Corporate,Notebook Pack,Office Supplies,East,Odisha,206.76,1,0.05,158.15,48.61,Credit Card,Standard
+2025-09-24,ORD-00250,CUST-10296,Corporate,Smartphone X,Electronics,East,Jharkhand,3133.72,2,0.05,2173.52,960.2,Credit Card,Standard
+2025-07-18,ORD-00251,CUST-10028,Consumer,Mouse,Accessories,North,Uttar Pradesh,1656.69,5,0.05,1375.0,281.68,Debit Card,Standard
+2025-05-08,ORD-00252,CUST-10068,Small Business,Printer Paper,Office Supplies,South,Kerala,525.27,2,0.05,336.92,188.35,UPI,Standard
+2025-03-02,ORD-00253,CUST-10100,Small Business,USB Hub,Accessories,East,West Bengal,875.29,2,0.05,620.42,254.87,Bank Transfer,Express
+2025-12-20,ORD-00254,CUST-10065,Consumer,USB Hub,Accessories,West,Gujarat,1190.98,4,0.05,818.33,372.65,Credit Card,Standard
+2025-05-21,ORD-00255,CUST-10254,Consumer,Office Chair,Furniture,West,Maharashtra,1994.29,2,0.1,1702.74,291.54,Credit Card,Standard
+2025-06-06,ORD-00256,CUST-10155,Consumer,Smartphone X,Electronics,North,Punjab,1000.21,1,0.0,856.11,144.1,UPI,Express
+2025-02-21,ORD-00257,CUST-10077,Consumer,Smartphone X,Electronics,South,Tamil Nadu,5324.52,5,0.15,4127.92,1196.6,Debit Card,Standard
+2025-04-12,ORD-00258,CUST-10002,Corporate,Conference Table,Furniture,West,Goa,4399.69,5,0.05,2697.99,1701.7,Credit Card,Standard
+2025-08-20,ORD-00259,CUST-10076,Corporate,Mouse,Accessories,West,Goa,2567.63,6,0.1,1860.65,706.98,UPI,Same Day
+2025-06-05,ORD-00260,CUST-10243,Consumer,Bookshelf,Furniture,North,Uttar Pradesh,4131.61,7,0.0,2700.42,1431.2,Cash,Standard
+2025-08-02,ORD-00261,CUST-10279,Consumer,Ink Cartridge,Office Supplies,West,Goa,208.78,1,0.05,176.52,32.26,Bank Transfer,Standard
+2025-03-19,ORD-00262,CUST-10104,Consumer,Bookshelf,Furniture,South,Tamil Nadu,1986.33,3,0.0,1234.55,751.79,Credit Card,Standard
+2025-01-30,ORD-00263,CUST-10026,Small Business,Tablet Air,Electronics,East,West Bengal,1845.7,2,0.1,1100.58,745.12,UPI,Standard
+2025-11-20,ORD-00264,CUST-10196,Small Business,Bookshelf,Furniture,West,Maharashtra,4329.43,7,0.05,3426.0,903.43,Cash,Standard
+2025-06-07,ORD-00265,CUST-10275,Consumer,Ink Cartridge,Office Supplies,South,Kerala,1243.23,4,0.2,890.14,353.1,Bank Transfer,Standard
+2025-05-12,ORD-00266,CUST-10025,Corporate,Ink Cartridge,Office Supplies,West,Rajasthan,282.06,1,0.05,234.53,47.52,Debit Card,Standard
+2025-04-15,ORD-00267,CUST-10279,Corporate,Bookshelf,Furniture,West,Maharashtra,4394.39,5,0.1,2647.13,1747.26,Bank Transfer,Express
+2025-08-29,ORD-00268,CUST-10060,Corporate,Laptop Pro,Electronics,West,Gujarat,1022.57,1,0.05,838.84,183.73,UPI,Standard
+2025-07-25,ORD-00269,CUST-10091,Corporate,Printer Paper,Office Supplies,West,Gujarat,438.98,2,0.1,259.53,179.46,Debit Card,Standard
+2025-05-23,ORD-00270,CUST-10219,Small Business,Smartphone X,Electronics,West,Gujarat,6899.41,6,0.05,4059.76,2839.65,UPI,Standard
+2025-12-06,ORD-00271,CUST-10018,Consumer,USB Hub,Accessories,West,Goa,1413.19,4,0.05,1015.23,397.96,Bank Transfer,Same Day
+2025-11-26,ORD-00272,CUST-10107,Consumer,Tablet Air,Electronics,West,Goa,6381.93,6,0.0,4125.2,2256.73,Cash,Standard
+2025-03-14,ORD-00273,CUST-10049,Small Business,Laptop Pro,Electronics,West,Goa,4656.12,4,0.0,3529.88,1126.24,Debit Card,Express
+2025-08-23,ORD-00274,CUST-10076,Consumer,Conference Table,Furniture,North,Delhi,5378.39,6,0.0,3161.12,2217.27,Bank Transfer,Standard
+2025-12-20,ORD-00275,CUST-10271,Consumer,Office Chair,Furniture,North,Punjab,3909.87,4,0.2,2309.23,1600.63,Bank Transfer,Same Day
+2025-06-28,ORD-00276,CUST-10081,Corporate,Standing Desk,Furniture,East,West Bengal,669.14,1,0.05,534.07,135.07,Cash,Standard
+2025-01-12,ORD-00277,CUST-10016,Corporate,Standing Desk,Furniture,East,Odisha,884.32,1,0.0,568.66,315.66,UPI,Standard
+2025-02-18,ORD-00278,CUST-10076,Corporate,Keyboard,Accessories,East,Jharkhand,1551.53,6,0.2,1205.42,346.11,Credit Card,Standard
+2025-09-01,ORD-00279,CUST-10031,Corporate,Conference Table,Furniture,South,Tamil Nadu,790.5,1,0.0,636.33,154.17,Credit Card,Standard
+2025-11-26,ORD-00280,CUST-10218,Corporate,Bookshelf,Furniture,South,Telangana,2964.77,3,0.05,1772.34,1192.43,Bank Transfer,Express
+2025-02-16,ORD-00281,CUST-10341,Consumer,Standing Desk,Furniture,West,Maharashtra,604.02,1,0.1,489.82,114.2,Debit Card,Express
+2025-07-19,ORD-00282,CUST-10059,Corporate,Tablet Air,Electronics,West,Goa,3269.98,3,0.15,2159.9,1110.07,Bank Transfer,Express
+2025-07-01,ORD-00283,CUST-10256,Corporate,Printer Paper,Office Supplies,West,,1239.03,5,0.1,863.44,375.6,Debit Card,Standard
+2025-04-15,ORD-00284,CUST-10127,Small Business,Monitor 27,Electronics,West,Maharashtra,1510.41,2,0.05,915.3,595.11,Cash,Express
+2025-08-19,ORD-00285,CUST-10026,Consumer,Ink Cartridge,Office Supplies,North,Delhi,1251.23,4,0.2,1040.51,210.72,Bank Transfer,Standard
+2025-11-17,ORD-00286,CUST-10241,Consumer,Monitor 27,Electronics,East,Jharkhand,7896.1,7,0.0,5908.01,1988.09,UPI,Same Day
+2025-03-29,ORD-00287,CUST-10074,Corporate,USB Hub,Accessories,West,Rajasthan,429.12,1,0.2,313.86,115.26,Cash,Express
+2025-01-20,ORD-00288,CUST-10180,Consumer,Office Chair,Furniture,East,Jharkhand,710.25,1,0.15,618.32,91.93,Cash,Standard
+2025-05-12,ORD-00289,CUST-10178,Consumer,Keyboard,Accessories,East,Jharkhand,999.52,2,0.15,680.03,319.49,UPI,Express
+2025-04-25,ORD-00290,CUST-10210,Small Business,Bookshelf,Furniture,West,Rajasthan,4275.11,6,0.05,3622.02,653.09,Credit Card,Standard
+2025-09-23,ORD-00291,CUST-10048,Corporate,Smartphone X,Electronics,South,Karnataka,3380.26,3,0.0,2690.37,689.89,Cash,Standard
+2025-07-15,ORD-00292,CUST-10088,Consumer,Mouse,Accessories,West,Rajasthan,2375.9,5,0.1,2039.85,336.05,Cash,Standard
+2025-01-07,ORD-00293,CUST-10259,Consumer,Printer Paper,Office Supplies,South,Karnataka,233.08,1,0.1,198.67,34.42,Debit Card,Express
+2025-05-05,ORD-00294,CUST-10327,Consumer,Desk Organizer,Office Supplies,West,Goa,1423.53,6,0.1,1248.87,174.65,Debit Card,Standard
+2025-09-26,ORD-00295,CUST-10005,Corporate,Standing Desk,Furniture,South,Kerala,1044.63,1,0.15,647.15,397.48,UPI,Standard
+2025-06-24,ORD-00296,CUST-10145,Corporate,Printer Paper,Office Supplies,South,Kerala,1379.06,5,0.1,1129.18,249.88,Debit Card,Express
+2025-07-25,ORD-00297,CUST-10309,Consumer,Webcam,Accessories,South,Tamil Nadu,958.8,2,0.05,787.51,171.29,Bank Transfer,Standard
+2025-04-07,ORD-00298,CUST-10101,Consumer,Notebook Pack,Office Supplies,South,Kerala,2168.8,7,0.05,1677.16,491.64,Credit Card,Express
+2025-04-27,ORD-00299,CUST-10157,Consumer,Conference Table,Furniture,North,Haryana,3346.47,3,0.0,2220.91,,Credit Card,Standard
+2025-02-17,ORD-00300,CUST-10317,Consumer,Notebook Pack,Office Supplies,North,Delhi,750.1,2,0.0,652.24,97.85,Cash,Standard
+2025-01-30,ORD-00301,CUST-10340,Consumer,Ink Cartridge,Office Supplies,North,Delhi,924.51,3,0.0,592.91,331.6,Debit Card,Express
+2025-01-14,ORD-00302,CUST-10230,Corporate,Webcam,Accessories,West,Rajasthan,316.18,1,0.15,230.77,85.41,Credit Card,Standard
+2025-08-16,ORD-00303,CUST-10243,Consumer,Office Chair,Furniture,East,Bihar,1022.41,2,0.1,752.95,269.46,Credit Card,Express
+2025-02-27,ORD-00304,CUST-10215,Consumer,Standing Desk,Furniture,East,Bihar,4366.32,5,0.1,2744.45,1621.88,Debit Card,Standard
+2025-07-29,ORD-00305,CUST-10100,Corporate,Keyboard,Accessories,South,Tamil Nadu,1568.52,3,0.05,1249.73,318.79,Credit Card,Express
+2025-12-14,ORD-00306,CUST-10311,Consumer,Bookshelf,Furniture,East,Odisha,2318.94,3,0.1,1406.81,912.13,Debit Card,Standard
+2025-09-12,ORD-00307,CUST-10012,Consumer,Desk Organizer,Office Supplies,East,Bihar,1116.36,6,0.15,879.61,236.75,Cash,Express
+2025-07-30,ORD-00308,CUST-10021,Consumer,Conference Table,Furniture,North,Delhi,636.14,1,0.15,530.91,105.23,Bank Transfer,Standard
+2025-02-12,ORD-00309,CUST-10211,Consumer,Monitor 27,Electronics,West,Rajasthan,3285.06,3,0.1,2249.67,1035.39,Credit Card,Standard
+2025-06-28,ORD-00310,CUST-10294,Consumer,Notebook Pack,Office Supplies,West,Goa,628.01,2,0.15,497.9,130.11,Debit Card,Standard
+2025-11-22,ORD-00311,CUST-10285,Corporate,Tablet Air,Electronics,East,Jharkhand,3259.85,4,0.1,2044.03,1215.82,Debit Card,Standard
+2025-05-21,ORD-00312,CUST-10238,Consumer,Tablet Air,Electronics,East,Odisha,3538.83,3,0.1,2950.62,588.21,Bank Transfer,Standard
+2025-10-29,ORD-00313,CUST-10132,Corporate,Desk Organizer,Office Supplies,West,Rajasthan,298.14,1,0.15,258.07,40.07,Bank Transfer,Standard
+2025-09-16,ORD-00314,CUST-10126,Corporate,Printer Paper,Office Supplies,East,Jharkhand,372.09,1,0.05,232.86,139.23,Debit Card,Standard
+2025-04-08,ORD-00315,CUST-10149,Consumer,Keyboard,Accessories,East,West Bengal,1779.61,6,0.05,1401.55,378.06,Credit Card,Express
+2025-02-21,ORD-00316,CUST-10090,Consumer,Monitor 27,Electronics,East,Jharkhand,1519.79,1,0.05,1112.11,407.69,Bank Transfer,Standard
+2025-01-07,ORD-00317,CUST-10147,Consumer,Monitor 27,Electronics,East,Bihar,7024.59,6,0.1,5194.33,1830.26,UPI,Standard
+2025-04-11,ORD-00318,CUST-10037,Consumer,Mouse,Accessories,North,Delhi,3342.85,7,0.1,2647.36,695.49,Bank Transfer,Standard
+2025-05-02,ORD-00319,CUST-10112,Corporate,Smartphone X,Electronics,West,Goa,2869.1,4,0.1,2084.75,784.35,Cash,Standard
+2025-08-28,ORD-00320,CUST-10330,Consumer,Laptop Pro,Electronics,South,Karnataka,3457.5,3,0.05,2628.04,829.46,Bank Transfer,Express
+2025-07-28,ORD-00321,CUST-10248,Small Business,Smartphone X,Electronics,South,Telangana,7921.92,6,0.0,5143.46,2778.45,Debit Card,Same Day
+2025-06-24,ORD-00322,CUST-10050,Corporate,Bookshelf,Furniture,East,Bihar,4528.82,7,0.15,3140.98,1387.85,Cash,Standard
+2025-09-21,ORD-00323,CUST-10101,Corporate,Webcam,Accessories,East,Odisha,397.13,1,0.05,333.42,63.71,Debit Card,Express
+2025-10-09,ORD-00324,CUST-10091,Corporate,Ink Cartridge,Office Supplies,East,West Bengal,1821.67,7,0.15,1116.63,705.04,Debit Card,Standard
+2025-09-18,ORD-00325,CUST-10099,Corporate,Printer Paper,Office Supplies,South,Karnataka,2140.4,7,0.0,1625.14,515.25,Cash,Same Day
+2025-11-24,ORD-00326,CUST-10242,Small Business,Tablet Air,Electronics,North,Haryana,707.41,1,0.1,449.41,258.0,UPI,Standard
+2025-05-12,ORD-00327,CUST-10314,Small Business,Office Chair,Furniture,South,Kerala,766.21,1,0.1,638.99,127.22,Bank Transfer,Standard
+2025-10-28,ORD-00328,CUST-10249,Consumer,Bookshelf,Furniture,East,Odisha,3559.27,6,0.15,2682.67,876.6,Bank Transfer,Standard
+2025-06-03,ORD-00329,CUST-10171,Consumer,Tablet Air,Electronics,North,Uttar Pradesh,1590.86,1,0.0,1115.06,475.8,Debit Card,Standard
+2025-03-09,ORD-00330,CUST-10057,Consumer,Tablet Air,Electronics,West,Maharashtra,6995.3,5,0.15,4581.56,2413.75,UPI,Express
+2025-02-23,ORD-00331,CUST-10051,Consumer,Monitor 27,Electronics,North,Delhi,920.86,1,0.1,654.78,266.08,Bank Transfer,Standard
+2025-02-03,ORD-00332,CUST-10285,Corporate,Monitor 27,Electronics,West,Goa,4089.02,5,,3546.34,542.68,Credit Card,Standard
+2025-12-15,ORD-00333,CUST-10238,Consumer,Notebook Pack,Office Supplies,North,Uttar Pradesh,416.1,2,0.1,304.91,111.2,Cash,Standard
+2025-03-03,ORD-00334,CUST-10179,Corporate,Printer Paper,Office Supplies,South,Tamil Nadu,289.02,1,0.0,208.34,80.68,Bank Transfer,Same Day
+2025-11-01,ORD-00335,CUST-10203,Corporate,Tablet Air,Electronics,West,Rajasthan,1396.84,1,0.1,1122.9,273.95,Credit Card,Express
+2025-10-13,ORD-00336,CUST-10297,Consumer,Office Chair,Furniture,North,Haryana,1695.8,2,0.05,1176.4,519.4,Debit Card,Same Day
+2025-06-10,ORD-00337,CUST-10285,Corporate,Notebook Pack,Office Supplies,West,Maharashtra,738.75,4,0.05,523.2,215.55,UPI,Express
+2025-11-30,ORD-00338,CUST-10031,Consumer,Ink Cartridge,Office Supplies,North,Haryana,171.84,1,0.1,117.04,54.8,Debit Card,Same Day
+2025-11-28,ORD-00339,CUST-10139,Corporate,Keyboard,Accessories,West,Maharashtra,1886.78,6,0.1,1179.76,707.02,UPI,Standard
+2025-12-04,ORD-00340,CUST-10015,Corporate,Conference Table,Furniture,South,Karnataka,5627.92,5,0.0,4469.37,1158.55,Cash,Standard
+2025-07-01,ORD-00341,CUST-10135,Consumer,Mouse,Accessories,West,Rajasthan,1445.45,3,0.0,1216.94,228.51,Bank Transfer,Standard
+2025-04-19,ORD-00342,CUST-10223,Corporate,Laptop Pro,Electronics,South,Tamil Nadu,8857.95,7,0.0,7544.12,1313.83,Credit Card,Standard
+2025-01-16,ORD-00343,CUST-10073,Consumer,Bookshelf,Furniture,South,Telangana,3847.0,5,0.0,3247.79,599.2,Cash,Express
+2025-11-03,ORD-00344,CUST-10053,Corporate,Tablet Air,Electronics,North,Haryana,7211.57,5,0.1,5160.13,2051.44,UPI,Standard
+2025-11-15,ORD-00345,CUST-10172,Corporate,Bookshelf,Furniture,South,Karnataka,1555.4,2,0.0,1034.68,520.72,Debit Card,Standard
+2025-07-15,ORD-00346,CUST-10184,Consumer,Conference Table,Furniture,South,Telangana,4761.11,5,0.15,3672.61,1088.5,UPI,Express
+2025-01-26,ORD-00347,CUST-10250,Corporate,Monitor 27,Electronics,South,Tamil Nadu,6286.92,4,0.0,5447.06,839.86,UPI,Standard
+2025-10-28,ORD-00348,CUST-10005,Small Business,Desk Organizer,Office Supplies,West,Goa,2031.87,7,0.0,1621.67,410.2,Credit Card,Standard
+2025-04-19,ORD-00349,CUST-10087,Corporate,Monitor 27,Electronics,North,Punjab,5338.84,4,0.15,3889.1,1449.74,Credit Card,Standard
+2025-07-20,ORD-00350,CUST-10273,Corporate,Tablet Air,Electronics,West,Rajasthan,4760.26,5,0.05,3744.62,1015.64,Bank Transfer,Express
+2025-08-29,ORD-00351,CUST-10239,Corporate,Laptop Pro,Electronics,North,Delhi,3856.79,3,0.05,3130.79,726.0,Cash,Standard
+2025-02-23,ORD-00352,CUST-10315,Consumer,Bookshelf,Furniture,West,Gujarat,489.85,1,0.2,419.21,70.65,Bank Transfer,Standard
+2025-01-23,ORD-00353,CUST-10286,Corporate,Monitor 27,Electronics,North,Punjab,946.82,1,0.2,765.94,180.88,Bank Transfer,Standard
+2025-01-29,ORD-00354,CUST-10294,Small Business,Bookshelf,Furniture,North,Delhi,4411.8,7,0.1,3132.19,1279.61,Debit Card,Express
+2025-12-17,ORD-00355,CUST-10179,Consumer,Smartphone X,Electronics,East,West Bengal,4831.45,6,0.0,3198.82,1632.64,Credit Card,Standard
+2025-12-16,ORD-00356,CUST-10336,Consumer,Desk Organizer,Office Supplies,East,Jharkhand,493.65,3,0.1,360.35,133.3,Credit Card,Standard
+2025-06-05,ORD-00357,CUST-10146,Consumer,USB Hub,Accessories,North,Uttar Pradesh,1528.47,5,0.2,1036.99,491.47,Cash,Same Day
+2025-06-05,ORD-00358,CUST-10317,Consumer,Office Chair,Furniture,South,Telangana,762.7,1,0.2,658.08,104.62,Debit Card,Express
+2025-05-29,ORD-00359,CUST-10138,Consumer,Printer Paper,Office Supplies,East,Odisha,283.97,1,0.0,207.98,75.99,Debit Card,Standard
+2025-05-08,ORD-00360,CUST-10156,Consumer,USB Hub,Accessories,North,Uttar Pradesh,1422.7,4,0.05,1026.64,396.06,UPI,Standard
+2025-07-18,ORD-00361,CUST-10240,Corporate,Mouse,Accessories,South,Tamil Nadu,2878.71,5,0.05,1970.36,908.35,Debit Card,Standard
+2025-05-11,ORD-00362,CUST-10140,Consumer,Printer Paper,Office Supplies,West,Gujarat,2747.18,7,0.0,2120.33,626.84,Bank Transfer,Express
+2025-08-13,ORD-00363,CUST-10052,Consumer,Mouse,Accessories,West,Rajasthan,1702.19,6,0.1,1252.83,449.35,Debit Card,Standard
+2025-05-19,ORD-00364,CUST-10314,Corporate,USB Hub,Accessories,West,Goa,783.7,2,0.05,484.89,298.82,Bank Transfer,Same Day
+2025-08-18,ORD-00365,CUST-10159,Consumer,Notebook Pack,Office Supplies,North,Punjab,1865.85,6,0.05,1568.73,297.11,Cash,Express
+2025-12-11,ORD-00366,CUST-10325,Consumer,Office Chair,Furniture,East,Jharkhand,4205.09,4,0.0,2891.86,1313.23,UPI,Standard
+2025-03-17,ORD-00367,CUST-10140,Corporate,Tablet Air,Electronics,North,Haryana,5856.64,6,0.1,4156.89,1699.75,Cash,Standard
+2025-01-23,ORD-00368,CUST-10341,Small Business,Laptop Pro,Electronics,North,Delhi,2868.16,2,0.0,1840.5,1027.66,Cash,Express
+2025-07-12,ORD-00369,CUST-10212,Corporate,Standing Desk,Furniture,East,West Bengal,605.08,1,0.05,451.4,153.68,Debit Card,Express
+2025-02-13,ORD-00370,CUST-10269,Consumer,Office Chair,Furniture,South,Telangana,778.13,1,0.0,615.2,162.93,Bank Transfer,Express
+2025-03-26,ORD-00371,CUST-10265,Consumer,Bookshelf,Furniture,North,Delhi,5822.18,7,0.2,4915.95,906.22,UPI,Standard
+2025-10-16,ORD-00372,CUST-10071,Small Business,Notebook Pack,Office Supplies,West,Goa,322.15,1,0.0,191.84,130.32,Credit Card,Express
+2025-06-02,ORD-00373,CUST-10286,Corporate,Desk Organizer,Office Supplies,East,Odisha,2328.07,7,0.1,2030.08,297.99,UPI,Express
+2025-07-20,ORD-00374,CUST-10331,Corporate,Mouse,Accessories,East,West Bengal,1732.46,6,0.0,1370.63,361.83,Bank Transfer,Same Day
+2025-10-11,ORD-00375,CUST-10232,Corporate,Laptop Pro,Electronics,West,Goa,1815.88,2,0.0,1208.09,607.79,Cash,Standard
+2025-02-16,ORD-00376,CUST-10332,Consumer,Laptop Pro,Electronics,West,Maharashtra,5544.81,7,0.0,3556.12,1988.69,Bank Transfer,Standard
+2025-06-24,ORD-00377,CUST-10297,Consumer,Printer Paper,Office Supplies,South,Tamil Nadu,450.07,2,0.0,301.02,149.05,Bank Transfer,Standard
+2025-01-13,ORD-00378,CUST-10234,Corporate,Mouse,Accessories,East,West Bengal,548.88,2,0.0,462.55,86.33,UPI,Express
+2025-07-02,ORD-00379,CUST-10168,Small Business,Keyboard,Accessories,East,Jharkhand,1990.87,5,0.1,1328.74,662.13,Cash,Same Day
+2025-03-23,ORD-00380,CUST-10301,Consumer,Mouse,Accessories,North,Uttar Pradesh,1216.39,3,0.1,874.4,341.99,UPI,Standard
+2025-11-29,ORD-00381,CUST-10065,Corporate,USB Hub,Accessories,North,Haryana,1482.15,3,0.0,1173.45,308.7,Debit Card,Standard
+2025-04-06,ORD-00382,CUST-10197,Consumer,Smartphone X,Electronics,South,Karnataka,2093.08,2,0.05,1761.53,331.55,Bank Transfer,Standard
+2025-03-15,ORD-00383,CUST-10286,Small Business,Bookshelf,Furniture,South,Kerala,2496.07,5,0.1,1940.87,555.2,Cash,Standard
+2025-01-06,ORD-00384,CUST-10331,Consumer,Smartphone X,Electronics,East,West Bengal,1299.11,1,0.05,1046.99,252.11,Cash,Express
+2025-02-18,ORD-00385,CUST-10094,Corporate,Desk Organizer,Office Supplies,East,Odisha,368.91,2,0.05,233.15,135.76,Debit Card,Standard
+2025-03-20,ORD-00386,CUST-10033,Consumer,Webcam,Accessories,South,Karnataka,2256.13,4,0.0,1902.42,353.71,Debit Card,Standard
+2025-03-25,ORD-00387,CUST-10117,Corporate,Conference Table,Furniture,North,Uttar Pradesh,2158.04,4,0.05,1430.17,727.87,Debit Card,Same Day
+2025-09-27,ORD-00388,CUST-10303,Corporate,Printer Paper,Office Supplies,South,Karnataka,1428.93,5,0.05,883.81,545.12,Debit Card,Standard
+2025-11-20,ORD-00389,CUST-10184,Consumer,Smartphone X,Electronics,West,Goa,2513.32,2,0.2,2193.81,319.51,Bank Transfer,Standard
+2025-11-09,ORD-00390,CUST-10020,Small Business,Monitor 27,Electronics,South,Karnataka,5096.76,5,0.2,3264.43,1832.33,Bank Transfer,Standard
+2025-12-16,ORD-00391,CUST-10042,Small Business,Tablet Air,Electronics,North,Delhi,6274.77,6,0.2,3896.6,2378.16,Debit Card,Standard
+2025-11-24,ORD-00392,CUST-10119,Small Business,Smartphone X,Electronics,West,Goa,3917.56,3,0.05,3007.93,909.63,Debit Card,Standard
+2025-06-16,ORD-00393,CUST-10120,Consumer,Mouse,Accessories,North,Uttar Pradesh,628.26,2,0.0,424.49,203.77,UPI,Express
+2025-05-23,ORD-00394,CUST-10048,Corporate,Office Chair,Furniture,North,Delhi,3843.51,4,0.05,2383.0,1460.52,UPI,Standard
+2025-08-25,ORD-00395,CUST-10173,Corporate,Mouse,Accessories,West,Gujarat,2701.8,5,0.05,2054.27,647.52,Debit Card,Express
+2025-04-27,ORD-00396,CUST-10168,Corporate,Notebook Pack,Office Supplies,East,Odisha,400.23,1,0.0,323.26,76.97,Credit Card,Standard
+2025-08-09,ORD-00397,CUST-10070,Corporate,Smartphone X,Electronics,South,Kerala,4620.43,4,0.0,3779.33,841.11,Bank Transfer,Standard
+2025-12-31,ORD-00398,CUST-10082,Corporate,Smartphone X,Electronics,West,Gujarat,2022.44,2,0.05,1267.37,755.07,Cash,Standard
+2025-03-14,ORD-00399,CUST-10233,Consumer,Webcam,Accessories,East,West Bengal,1999.23,4,0.05,1493.54,505.68,Bank Transfer,Standard
+2025-10-08,ORD-00400,CUST-10334,Consumer,Smartphone X,Electronics,East,Odisha,8728.61,7,0.0,7193.28,1535.33,Cash,Standard
+2025-12-08,ORD-00401,CUST-10349,Consumer,Mouse,Accessories,East,Odisha,1294.04,4,0.1,813.08,480.96,Debit Card,Express
+2025-07-16,ORD-00402,CUST-10196,Consumer,Monitor 27,Electronics,South,Karnataka,5163.55,6,0.05,3316.57,1846.98,Cash,Standard
+2025-05-10,ORD-00403,CUST-10014,Consumer,Desk Organizer,Office Supplies,South,Telangana,561.34,3,0.15,325.98,235.35,Cash,Express
+2025-04-03,ORD-00404,CUST-10315,Consumer,Webcam,Accessories,West,Goa,2841.44,7,0.05,2095.25,746.19,UPI,Standard
+2025-03-03,ORD-00405,CUST-10333,Corporate,Tablet Air,Electronics,South,Karnataka,4881.68,6,0.1,3116.49,1765.19,Bank Transfer,Standard
+2025-04-28,ORD-00406,CUST-10098,Corporate,Monitor 27,Electronics,South,Telangana,5359.49,7,0.0,4272.98,1086.51,Debit Card,Standard
+2025-09-30,ORD-00407,CUST-10141,Consumer,Webcam,Accessories,West,Gujarat,1568.71,6,0.1,1362.68,206.03,Cash,Standard
+2025-07-08,ORD-00408,CUST-10010,Corporate,Smartphone X,Electronics,South,Telangana,8014.97,5,0.0,5150.63,2864.34,Debit Card,Express
+2025-03-22,ORD-00409,CUST-10281,Small Business,Standing Desk,Furniture,West,Maharashtra,2408.45,4,0.0,1865.9,542.55,UPI,Express
+2025-07-17,ORD-00410,CUST-10272,Small Business,Office Chair,Furniture,South,Karnataka,3794.26,7,0.1,2441.79,1352.46,Credit Card,Standard
+2025-10-23,ORD-00411,CUST-10008,Small Business,Laptop Pro,Electronics,North,Delhi,6626.78,6,0.05,3879.33,2747.45,UPI,Standard
+2025-01-05,ORD-00412,CUST-10246,Small Business,Printer Paper,Office Supplies,North,Uttar Pradesh,710.71,3,0.0,573.94,136.76,Credit Card,Express
+2025-01-08,ORD-00413,CUST-10145,Corporate,Notebook Pack,Office Supplies,West,Goa,338.0,1,0.15,240.05,97.95,UPI,Standard
+2025-12-17,ORD-00414,CUST-10191,Small Business,Bookshelf,Furniture,South,Telangana,1171.97,1,0.0,1012.62,159.35,Bank Transfer,Standard
+2025-10-01,ORD-00415,CUST-10077,Small Business,USB Hub,Accessories,West,Gujarat,736.19,2,0.1,544.99,191.2,Debit Card,Standard
+2025-07-30,ORD-00416,CUST-10286,Consumer,Laptop Pro,Electronics,West,Gujarat,1044.3,1,0.1,655.03,389.27,Bank Transfer,Standard
+2025-11-27,ORD-00417,CUST-10142,Small Business,Smartphone X,Electronics,West,Gujarat,2075.95,2,0.05,1484.16,591.79,Cash,Express
+2025-08-04,ORD-00418,CUST-10295,Corporate,Ink Cartridge,Office Supplies,North,Punjab,180.96,1,0.05,115.97,64.99,Bank Transfer,Standard
+2025-07-10,ORD-00419,CUST-10052,Corporate,Keyboard,Accessories,West,Maharashtra,2599.78,7,0.0,2192.67,407.1,Debit Card,Standard
+2025-03-19,ORD-00420,CUST-10206,Small Business,Monitor 27,Electronics,South,Kerala,774.32,1,0.1,609.6,164.72,Credit Card,Express
+2025-10-23,ORD-00421,CUST-10109,Consumer,Monitor 27,Electronics,North,Uttar Pradesh,3997.98,5,0.05,2728.11,1269.87,Bank Transfer,Standard
+2025-10-07,ORD-00422,CUST-10339,Consumer,Conference Table,Furniture,West,Maharashtra,2801.66,3,0.0,2068.59,733.06,Debit Card,Express
+2025-04-18,ORD-00423,CUST-10195,Corporate,USB Hub,Accessories,West,Maharashtra,581.75,2,0.05,454.26,127.49,Bank Transfer,Standard
+2025-09-27,ORD-00424,CUST-10252,Corporate,Smartphone X,Electronics,West,Maharashtra,3579.34,5,,2916.65,662.69,UPI,Standard
+2025-09-23,ORD-00425,CUST-10031,Small Business,Bookshelf,Furniture,North,Haryana,5231.53,7,0.15,3160.08,2071.46,UPI,Standard
+2025-02-04,ORD-00426,CUST-10237,Small Business,Notebook Pack,Office Supplies,South,Telangana,1349.14,6,0.2,791.62,557.53,UPI,Standard
+2025-02-28,ORD-00427,CUST-10036,Corporate,Standing Desk,Furniture,West,Goa,4070.38,7,0.1,2500.58,1569.8,Bank Transfer,Standard
+2025-08-06,ORD-00428,CUST-10127,Small Business,Smartphone X,Electronics,South,Karnataka,3382.17,5,0.1,2362.44,1019.73,Debit Card,Express
+2025-08-16,ORD-00429,CUST-10078,Consumer,Laptop Pro,Electronics,West,Maharashtra,4162.66,5,0.1,2997.17,1165.5,Credit Card,Express
+2025-08-29,ORD-00430,CUST-10001,Small Business,Standing Desk,Furniture,South,Kerala,1211.94,2,0.15,752.54,459.4,Credit Card,Express
+2025-05-17,ORD-00431,CUST-10206,Consumer,Office Chair,Furniture,South,Tamil Nadu,5922.01,6,0.1,4165.22,1756.79,Bank Transfer,Standard
+2025-11-01,ORD-00432,CUST-10085,Corporate,Mouse,Accessories,North,Delhi,3309.35,6,0.05,2357.87,951.48,Cash,Same Day
+2025-06-12,ORD-00433,CUST-10180,Consumer,Notebook Pack,Office Supplies,North,Delhi,491.28,2,0.1,301.02,190.26,Cash,Standard
+2025-03-17,ORD-00434,CUST-10268,Corporate,Printer Paper,Office Supplies,South,Karnataka,736.36,3,0.1,629.59,106.77,Debit Card,Express
+2025-02-12,ORD-00435,CUST-10063,Consumer,Mouse,Accessories,West,Rajasthan,2561.97,5,0.0,1946.44,615.53,Bank Transfer,Express
+2025-11-17,ORD-00436,CUST-10249,Consumer,Conference Table,Furniture,West,Gujarat,929.87,1,0.05,647.71,282.16,UPI,Standard
+2025-09-16,ORD-00437,CUST-10104,Corporate,Bookshelf,Furniture,West,Goa,3862.98,6,0.05,2827.98,1035.0,Cash,Standard
+2025-06-18,ORD-00438,CUST-10116,Corporate,USB Hub,Accessories,East,Odisha,525.61,2,0.15,354.4,171.21,UPI,Express
+2025-03-18,ORD-00439,CUST-10202,Consumer,Smartphone X,Electronics,North,Delhi,1092.6,1,0.05,913.74,178.86,Credit Card,Express
+2025-02-05,ORD-00440,CUST-10219,Corporate,Desk Organizer,Office Supplies,North,Uttar Pradesh,786.73,3,0.15,592.02,194.71,Bank Transfer,Standard
+2025-02-25,ORD-00441,CUST-10230,Consumer,Notebook Pack,Office Supplies,South,Telangana,1214.5,6,0.05,884.73,329.78,Cash,Express
+2025-02-08,ORD-00442,CUST-10069,Consumer,Smartphone X,Electronics,West,Rajasthan,1729.43,2,0.15,1475.66,253.77,UPI,Standard
+2025-07-13,ORD-00443,CUST-10203,Consumer,Conference Table,Furniture,North,Uttar Pradesh,3042.16,4,0.0,2529.24,512.93,Bank Transfer,Standard
+2025-03-14,ORD-00444,CUST-10093,Corporate,Smartphone X,Electronics,West,Rajasthan,5038.26,6,0.15,4150.72,887.54,UPI,Express
+2025-02-16,ORD-00445,CUST-10097,Corporate,Monitor 27,Electronics,West,Goa,1054.26,1,0.1,682.83,371.43,UPI,Express
+2025-04-14,ORD-00446,CUST-10332,Corporate,Office Chair,Furniture,North,Haryana,5680.52,6,0.05,3555.65,2124.87,Debit Card,Standard
+2025-09-13,ORD-00447,CUST-10036,Small Business,Tablet Air,Electronics,South,Telangana,3466.0,3,0.05,2727.84,738.16,Debit Card,Standard
+2025-07-01,ORD-00448,CUST-10145,Corporate,Desk Organizer,Office Supplies,North,Punjab,1078.85,5,0.05,777.41,301.44,Credit Card,Standard
+2025-02-26,ORD-00449,CUST-10154,Corporate,USB Hub,Accessories,West,Gujarat,584.42,2,0.05,458.83,125.58,Cash,Standard
+2025-10-01,ORD-00450,CUST-10086,Small Business,Webcam,Accessories,North,Punjab,494.23,1,0.1,399.43,94.8,Bank Transfer,Standard
+2025-06-28,ORD-00451,CUST-10275,Consumer,Laptop Pro,Electronics,West,Maharashtra,5704.61,6,0.2,3814.07,1890.54,Debit Card,Standard
+2025-03-10,ORD-00452,CUST-10171,Consumer,Monitor 27,Electronics,South,Karnataka,4345.21,6,0.1,2891.28,1453.93,Debit Card,Express
+2025-09-10,ORD-00453,CUST-10252,Consumer,Tablet Air,Electronics,North,Uttar Pradesh,6205.32,7,0.1,4512.82,1692.5,Debit Card,Standard
+2025-12-29,ORD-00454,CUST-10136,Corporate,Tablet Air,Electronics,West,Rajasthan,7064.25,5,0.05,4676.99,2387.26,UPI,Standard
+2025-07-17,ORD-00455,CUST-10314,Corporate,Mouse,Accessories,West,Maharashtra,1786.97,4,0.15,1394.18,392.8,Bank Transfer,Standard
+2025-02-28,ORD-00456,CUST-10256,Consumer,Standing Desk,Furniture,West,Maharashtra,1951.69,2,0.15,1569.2,382.49,Bank Transfer,Standard
+2025-04-23,ORD-00457,CUST-10117,Small Business,Laptop Pro,Electronics,South,Kerala,3709.05,3,0.05,2676.49,1032.56,Debit Card,Standard
+2025-08-07,ORD-00458,CUST-10337,Small Business,Mouse,Accessories,East,Odisha,1660.39,5,0.2,1323.56,336.83,Debit Card,Standard
+2025-12-31,ORD-00459,CUST-10303,Consumer,Bookshelf,Furniture,South,Telangana,2401.44,3,0.05,1760.57,640.87,Cash,Standard
+2025-12-06,ORD-00460,CUST-10208,Consumer,Laptop Pro,Electronics,North,Haryana,3148.33,4,0.15,2499.34,648.99,Bank Transfer,Standard
+2025-12-07,ORD-00461,CUST-10006,Consumer,Smartphone X,Electronics,North,Punjab,2153.98,2,0.2,1394.68,759.3,Credit Card,Standard
+2025-10-31,ORD-00462,CUST-10207,Consumer,Printer Paper,Office Supplies,West,Rajasthan,1127.0,4,0.1,903.46,223.54,UPI,Express
+2025-07-29,ORD-00463,CUST-10242,Small Business,Ink Cartridge,Office Supplies,South,Karnataka,433.38,2,0.0,344.34,89.04,Cash,Standard
+2025-08-25,ORD-00464,CUST-10128,Corporate,Monitor 27,Electronics,East,West Bengal,1406.08,1,0.1,927.99,478.09,Bank Transfer,Standard
+2025-09-25,ORD-00465,CUST-10051,Consumer,USB Hub,Accessories,North,Haryana,396.81,1,0.0,296.33,100.47,Bank Transfer,Standard
+2025-09-19,ORD-00466,CUST-10198,Corporate,USB Hub,Accessories,North,Haryana,985.02,4,0.15,824.06,160.96,Credit Card,Standard
+2025-08-22,ORD-00467,CUST-10281,Consumer,Webcam,Accessories,North,Uttar Pradesh,1092.03,3,0.05,715.12,376.91,UPI,Standard
+2025-02-18,ORD-00468,CUST-10112,Consumer,Tablet Air,Electronics,South,Telangana,1392.99,1,0.1,1115.5,277.49,Debit Card,Express
+2025-11-18,ORD-00469,CUST-10160,Consumer,Tablet Air,Electronics,West,Gujarat,5409.74,4,0.15,4685.86,723.88,Bank Transfer,Standard
+2025-01-04,ORD-00470,CUST-10001,Corporate,Webcam,Accessories,East,Bihar,875.55,2,0.0,735.35,140.2,Credit Card,Standard
+2025-06-05,ORD-00471,CUST-10247,Corporate,Laptop Pro,Electronics,East,Odisha,1545.97,1,0.05,1082.88,463.08,Debit Card,Standard
+2025-06-08,ORD-00472,CUST-10304,Small Business,Notebook Pack,Office Supplies,East,West Bengal,340.25,1,0.1,259.32,80.92,Cash,Standard
+2025-12-30,ORD-00473,CUST-10272,Consumer,Printer Paper,Office Supplies,West,Goa,1394.04,4,0.05,1223.31,170.73,Credit Card,Same Day
+2025-02-02,ORD-00474,CUST-10151,Corporate,Monitor 27,Electronics,West,Gujarat,10769.03,7,0.0,8082.5,2686.54,Credit Card,Standard
+2025-06-23,ORD-00475,CUST-10016,Consumer,Ink Cartridge,Office Supplies,West,Maharashtra,535.08,2,0.0,328.81,206.27,Credit Card,Standard
+2025-05-11,ORD-00476,CUST-10173,Consumer,Keyboard,Accessories,East,Odisha,1001.63,2,0.05,594.6,407.03,Cash,Standard
+2025-02-05,ORD-00477,CUST-10330,Small Business,Printer Paper,Office Supplies,East,West Bengal,560.38,2,0.1,457.89,102.5,Debit Card,Standard
+2025-03-23,ORD-00478,CUST-10030,Corporate,Conference Table,Furniture,North,,2813.09,3,0.1,1989.1,823.99,Cash,Standard
+2025-06-04,ORD-00479,CUST-10075,Consumer,Mouse,Accessories,North,Haryana,1996.42,6,0.0,1305.74,690.67,Cash,Standard
+2025-12-01,ORD-00480,CUST-10293,Corporate,Office Chair,Furniture,East,Bihar,2992.07,3,0.05,2047.48,944.59,Debit Card,Standard
+2025-05-22,ORD-00481,CUST-10199,Corporate,Ink Cartridge,Office Supplies,East,Odisha,1883.38,5,0.05,1520.29,363.09,UPI,Standard
+2025-11-18,ORD-00482,CUST-10060,Small Business,Webcam,Accessories,West,Goa,2491.72,7,0.05,1792.98,698.74,Credit Card,Standard
+2025-09-25,ORD-00483,CUST-10009,Corporate,Desk Organizer,Office Supplies,North,Uttar Pradesh,2538.27,7,0.1,2133.54,404.73,Debit Card,Standard
+2025-10-26,ORD-00484,CUST-10144,Consumer,Smartphone X,Electronics,East,West Bengal,4163.3,4,0.05,3332.63,830.67,Credit Card,Standard
+2025-11-08,ORD-00485,CUST-10209,Corporate,Smartphone X,Electronics,West,Rajasthan,4190.61,5,0.1,3655.06,535.54,UPI,Express
+2025-09-18,ORD-00486,CUST-10295,Consumer,Tablet Air,Electronics,East,West Bengal,5062.28,7,0.15,4285.48,776.8,Cash,Standard
+2025-09-25,ORD-00487,CUST-10310,Consumer,Standing Desk,Furniture,East,Bihar,5865.88,6,0.1,3850.15,2015.73,Credit Card,Same Day
+2025-02-26,ORD-00488,CUST-10161,Corporate,Conference Table,Furniture,West,Goa,2510.41,3,0.1,1952.39,558.02,Bank Transfer,Same Day
+2025-09-19,ORD-00489,CUST-10148,Corporate,Notebook Pack,Office Supplies,North,Haryana,250.8,1,0.0,147.01,103.79,Cash,Standard
+2025-01-18,ORD-00490,CUST-10326,Consumer,Standing Desk,Furniture,North,Delhi,966.25,1,0.0,847.72,118.53,Debit Card,Standard
+2025-09-27,ORD-00491,CUST-10272,Corporate,Desk Organizer,Office Supplies,North,Haryana,1794.73,7,0.0,1181.48,613.26,Bank Transfer,Express
+2025-08-27,ORD-00492,CUST-10074,Corporate,USB Hub,Accessories,North,Haryana,1440.4,4,0.15,1122.71,317.7,UPI,Standard
+2025-10-04,ORD-00493,CUST-10239,Corporate,Monitor 27,Electronics,North,Uttar Pradesh,3929.94,3,0.15,3280.5,649.44,Bank Transfer,Standard
+2025-08-23,ORD-00494,CUST-10251,Consumer,Ink Cartridge,Office Supplies,East,Bihar,995.01,3,0.0,625.0,370.0,Cash,Standard
+2025-05-15,ORD-00495,CUST-10082,Consumer,Desk Organizer,Office Supplies,South,Tamil Nadu,705.56,2,0.0,588.69,116.87,Cash,Standard
+2025-05-15,ORD-00496,CUST-10343,Consumer,Conference Table,Furniture,East,Odisha,5410.87,6,0.05,3158.18,2252.69,UPI,Express
+2025-08-06,ORD-00497,CUST-10104,Consumer,Laptop Pro,Electronics,East,Odisha,7468.14,5,0.1,5321.74,2146.39,Credit Card,Express
+2025-06-22,ORD-00498,CUST-10193,Consumer,Ink Cartridge,Office Supplies,North,Punjab,1487.28,7,0.1,1073.24,414.04,UPI,Express
+2025-05-05,ORD-00499,CUST-10173,Consumer,Keyboard,Accessories,East,West Bengal,975.05,3,0.1,674.96,300.09,Cash,Express
+2025-06-28,ORD-00500,CUST-10243,Consumer,Desk Organizer,Office Supplies,East,West Bengal,689.29,4,0.15,521.05,168.25,Credit Card,Express
+2025-07-15,ORD-00501,CUST-10316,Consumer,Keyboard,Accessories,North,Uttar Pradesh,436.19,1,0.05,372.71,63.49,Debit Card,Standard
+2025-03-29,ORD-00502,CUST-10138,Small Business,USB Hub,Accessories,South,Tamil Nadu,3018.26,7,0.1,2046.67,971.59,Debit Card,Same Day
+2025-08-21,ORD-00503,CUST-10135,Corporate,Office Chair,Furniture,South,Tamil Nadu,3766.15,4,0.1,2838.84,927.31,Bank Transfer,Same Day
+2025-04-25,ORD-00504,CUST-10263,Consumer,Notebook Pack,Office Supplies,East,Jharkhand,977.13,4,0.05,823.96,153.18,Cash,Express
+2025-04-08,ORD-00505,CUST-10334,Small Business,Office Chair,Furniture,East,Jharkhand,1430.13,3,0.15,1161.12,269.01,Credit Card,Express
+2025-06-02,ORD-00506,CUST-10319,Consumer,USB Hub,Accessories,South,Tamil Nadu,970.86,2,0.0,574.96,395.9,Bank Transfer,Standard
+2025-02-07,ORD-00507,CUST-10264,Consumer,Monitor 27,Electronics,East,Bihar,10497.69,7,0.1,9057.8,1439.89,Credit Card,Standard
+2025-08-09,ORD-00508,CUST-10247,Small Business,Bookshelf,Furniture,South,Karnataka,2710.06,4,0.1,1609.76,1100.3,UPI,Express
+2025-09-25,ORD-00509,CUST-10270,Consumer,Keyboard,Accessories,East,Odisha,1422.91,5,0.15,1076.61,346.3,UPI,Standard
+2025-12-15,ORD-00510,CUST-10328,Consumer,Monitor 27,Electronics,West,Gujarat,906.05,1,0.1,681.9,224.15,Credit Card,Standard
+2025-04-14,ORD-00511,CUST-10004,Consumer,Desk Organizer,Office Supplies,West,Goa,526.86,2,0.05,429.87,96.99,Debit Card,Standard
+2025-07-16,ORD-00512,CUST-10207,Corporate,Conference Table,Furniture,South,Karnataka,3687.92,6,0.15,2303.22,1384.69,Bank Transfer,Standard
+2025-07-03,ORD-00513,CUST-10012,Corporate,Keyboard,Accessories,West,Rajasthan,331.14,1,0.15,209.88,121.26,Cash,Standard
+2025-09-24,ORD-00514,CUST-10202,Consumer,Mouse,Accessories,West,Goa,438.69,1,0.1,353.43,85.27,Debit Card,Standard
+2025-08-17,ORD-00515,CUST-10139,Consumer,Monitor 27,Electronics,East,West Bengal,5431.12,6,0.15,3393.64,2037.48,Debit Card,Standard
+2025-10-22,ORD-00516,CUST-10107,Consumer,Ink Cartridge,Office Supplies,West,Goa,771.54,3,0.05,556.15,215.39,UPI,Standard
+2025-11-07,ORD-00517,CUST-10312,Corporate,Bookshelf,Furniture,East,Odisha,1043.5,2,0.1,834.27,209.23,Cash,Standard
+2025-02-11,ORD-00518,CUST-10249,Consumer,Printer Paper,Office Supplies,North,Haryana,1317.91,4,0.15,1021.87,296.04,Credit Card,Standard
+2025-05-10,ORD-00519,CUST-10199,Small Business,Desk Organizer,Office Supplies,West,Gujarat,518.97,2,0.05,333.79,185.18,Bank Transfer,Express
+2025-08-27,ORD-00520,CUST-10309,Corporate,Keyboard,Accessories,South,Telangana,344.93,1,0.1,231.51,113.42,Bank Transfer,Standard
+2025-07-18,ORD-00521,CUST-10035,Consumer,Monitor 27,Electronics,South,Karnataka,661.65,1,0.2,576.1,85.56,Cash,Standard
+2025-06-25,ORD-00522,CUST-10227,Corporate,Smartphone X,Electronics,East,West Bengal,1131.31,1,0.15,808.43,322.87,Cash,Standard
+2025-03-05,ORD-00523,CUST-10055,Consumer,Ink Cartridge,Office Supplies,West,Goa,638.34,2,0.15,378.75,259.59,Bank Transfer,Standard
+2025-07-28,ORD-00524,CUST-10082,Consumer,Notebook Pack,Office Supplies,North,Haryana,908.29,5,0.05,586.64,321.65,Bank Transfer,Express
+2025-09-28,ORD-00525,CUST-10065,Consumer,Conference Table,Furniture,West,Maharashtra,1563.08,3,0.2,1067.17,495.92,UPI,Standard
+2025-01-15,ORD-00526,CUST-10191,Corporate,Monitor 27,Electronics,East,West Bengal,882.18,1,0.0,776.18,106.0,UPI,Standard
+2025-08-04,ORD-00527,CUST-10221,Corporate,Bookshelf,Furniture,South,Tamil Nadu,865.84,1,0.1,580.81,285.03,Debit Card,Express
+2025-11-27,ORD-00528,CUST-10265,Small Business,Keyboard,Accessories,South,Kerala,2097.12,4,0.1,1232.94,864.18,Bank Transfer,Standard
+2025-07-29,ORD-00529,CUST-10155,Consumer,Laptop Pro,Electronics,North,Haryana,5866.26,6,0.15,4305.11,1561.15,Bank Transfer,Express
+2025-12-14,ORD-00530,CUST-10329,Consumer,Standing Desk,Furniture,East,West Bengal,2005.04,3,0.15,1213.21,791.83,Credit Card,Same Day
+2025-05-09,ORD-00531,CUST-10131,Corporate,Webcam,Accessories,North,Uttar Pradesh,477.29,1,0.1,316.07,161.22,Debit Card,Standard
+2025-01-02,ORD-00532,CUST-10055,Consumer,Smartphone X,Electronics,North,Punjab,2575.19,2,0.1,2260.29,314.91,Cash,Same Day
+2025-09-06,ORD-00533,CUST-10013,Consumer,Notebook Pack,Office Supplies,East,Jharkhand,901.64,4,0.05,713.55,188.09,UPI,Standard
+2025-03-19,ORD-00534,CUST-10045,Small Business,Smartphone X,Electronics,North,Delhi,1611.83,2,0.1,959.36,652.47,Credit Card,Standard
+2025-01-04,ORD-00535,CUST-10156,Small Business,Webcam,Accessories,West,Maharashtra,2477.31,7,0.1,1770.3,707.01,Cash,Standard
+2025-03-07,ORD-00536,CUST-10145,Small Business,Printer Paper,Office Supplies,West,Rajasthan,2134.41,6,0.0,1347.86,786.55,UPI,Standard
+2025-12-07,ORD-00537,CUST-10299,Consumer,Webcam,Accessories,East,Odisha,1367.66,3,0.1,843.69,523.97,Credit Card,Standard
+2025-10-13,ORD-00538,CUST-10044,Consumer,Tablet Air,Electronics,West,Gujarat,8092.51,7,0.15,6118.9,1973.6,Debit Card,Standard
+2025-04-11,ORD-00539,CUST-10092,Consumer,Standing Desk,Furniture,West,Gujarat,3014.58,3,0.1,2205.76,808.82,Bank Transfer,Standard
+2025-08-07,ORD-00540,CUST-10344,Small Business,Notebook Pack,Office Supplies,South,Kerala,207.47,1,0.15,166.57,40.9,Credit Card,Standard
+2025-05-04,ORD-00541,CUST-10010,Consumer,Monitor 27,Electronics,South,Kerala,7049.06,7,0.05,5975.43,1073.63,Bank Transfer,Standard
+2025-03-06,ORD-00542,CUST-10149,Consumer,Tablet Air,Electronics,North,Delhi,4954.65,7,0.1,3240.36,1714.29,Credit Card,Standard
+2025-12-27,ORD-00543,CUST-10070,Consumer,Tablet Air,Electronics,South,Kerala,4640.24,3,0.0,3976.21,664.03,Credit Card,Standard
+2025-10-25,ORD-00544,CUST-10187,Corporate,Mouse,Accessories,South,Kerala,2226.31,5,0.05,1637.22,589.09,Debit Card,Standard
+2025-05-13,ORD-00545,CUST-10341,Corporate,Notebook Pack,Office Supplies,West,Maharashtra,447.8,2,0.1,294.5,153.31,UPI,Express
+2025-05-10,ORD-00546,CUST-10080,Corporate,Notebook Pack,Office Supplies,East,Jharkhand,938.36,5,0.05,782.34,156.02,Bank Transfer,Standard
+2025-10-25,ORD-00547,CUST-10130,Consumer,Notebook Pack,Office Supplies,East,Odisha,1720.22,5,0.0,1016.06,704.16,Bank Transfer,Express
+2025-06-18,ORD-00548,CUST-10158,Corporate,Standing Desk,Furniture,West,Gujarat,4777.39,5,0.1,3572.78,1204.6,Cash,Standard
+2025-05-18,ORD-00549,CUST-10280,Consumer,Standing Desk,Furniture,North,Haryana,3820.91,4,0.05,3043.3,777.61,Credit Card,Standard
+2025-05-22,ORD-00550,CUST-10345,Consumer,Bookshelf,Furniture,East,West Bengal,3282.59,5,0.05,2179.62,1102.97,Credit Card,Same Day
+2025-06-13,ORD-00551,CUST-10034,Consumer,Printer Paper,Office Supplies,East,Odisha,1468.93,4,0.05,1232.5,236.43,Cash,Standard
+2025-07-10,ORD-00552,CUST-10172,Corporate,Tablet Air,Electronics,West,Maharashtra,7778.19,6,0.1,5072.04,2706.15,UPI,Standard
+2025-01-15,ORD-00553,CUST-10264,Consumer,Keyboard,Accessories,West,Gujarat,938.61,2,0.05,780.89,157.72,Debit Card,Standard
+2025-06-25,ORD-00554,CUST-10004,Small Business,Mouse,Accessories,South,Kerala,1770.18,4,0.1,1068.42,701.76,Debit Card,Standard
+2025-06-10,ORD-00555,CUST-10283,Corporate,Conference Table,Furniture,West,Goa,3152.15,3,0.1,1979.48,1172.67,Debit Card,Standard
+2025-04-11,ORD-00556,CUST-10085,Consumer,Desk Organizer,Office Supplies,West,Rajasthan,1559.76,4,0.0,1082.94,476.83,Debit Card,Standard
+2025-05-10,ORD-00557,CUST-10182,Corporate,Tablet Air,Electronics,West,Goa,1101.16,1,0.15,920.81,180.35,Bank Transfer,Standard
+2025-06-04,ORD-00558,CUST-10343,Corporate,Webcam,Accessories,East,West Bengal,1239.0,3,0.0,772.36,466.64,UPI,Same Day
+2025-05-14,ORD-00559,CUST-10223,Consumer,Keyboard,Accessories,North,Punjab,2628.18,7,0.05,2214.58,413.59,Cash,Standard
+2025-11-28,ORD-00560,CUST-10347,Corporate,Mouse,Accessories,East,Odisha,548.21,1,0.0,355.74,192.47,Cash,Standard
+2025-07-12,ORD-00561,CUST-10212,Consumer,Bookshelf,Furniture,West,Rajasthan,4458.74,5,0.1,3191.36,1267.39,UPI,Express
+2025-07-03,ORD-00562,CUST-10074,Consumer,Smartphone X,Electronics,West,Gujarat,3888.28,5,0.05,2666.66,1221.62,Cash,Standard
+2025-04-06,ORD-00563,CUST-10243,Corporate,Tablet Air,Electronics,South,Telangana,2986.26,4,0.15,1837.86,1148.4,Credit Card,Express
+2025-12-01,ORD-00564,CUST-10216,Corporate,Smartphone X,Electronics,North,Delhi,1496.89,1,0.05,1292.25,204.64,UPI,Standard
+2025-01-09,ORD-00565,CUST-10109,Consumer,Monitor 27,Electronics,North,Uttar Pradesh,1405.11,1,0.1,999.67,405.44,Credit Card,Express
+2025-07-20,ORD-00566,CUST-10027,Consumer,Laptop Pro,Electronics,North,Haryana,3084.05,2,0.05,2427.46,656.6,Bank Transfer,Same Day
+2025-03-03,ORD-00567,CUST-10227,Corporate,Keyboard,Accessories,North,Punjab,416.76,1,0.0,313.64,103.11,Cash,Standard
+2025-10-08,ORD-00568,CUST-10203,Consumer,Tablet Air,Electronics,West,Maharashtra,1395.39,1,0.05,1019.36,376.04,Bank Transfer,Express
+2025-05-19,ORD-00569,CUST-10271,Small Business,Tablet Air,Electronics,East,Odisha,2717.04,2,0.1,2078.46,638.58,Cash,Express
+2025-04-18,ORD-00570,CUST-10045,Corporate,Mouse,Accessories,East,West Bengal,720.24,2,0.05,611.85,108.39,Credit Card,Express
+2025-01-22,ORD-00571,CUST-10189,Small Business,Desk Organizer,Office Supplies,East,Jharkhand,1029.87,6,0.2,813.38,216.48,Cash,Standard
+2025-10-16,ORD-00572,CUST-10287,Consumer,Ink Cartridge,Office Supplies,South,Kerala,1824.0,5,0.1,1349.3,474.71,Bank Transfer,Standard
+2025-05-25,ORD-00573,CUST-10312,Small Business,Notebook Pack,Office Supplies,East,West Bengal,151.02,1,0.2,116.82,34.2,UPI,Standard
+2025-04-07,ORD-00574,CUST-10329,Consumer,Keyboard,Accessories,North,Haryana,2250.1,5,0.05,1714.39,535.71,UPI,Same Day
+2025-11-05,ORD-00575,CUST-10075,Consumer,Ink Cartridge,Office Supplies,South,Telangana,278.5,1,0.15,197.72,80.78,Credit Card,Standard
+2025-01-08,ORD-00576,CUST-10061,Consumer,Bookshelf,Furniture,East,Bihar,2743.52,3,0.1,2105.45,638.06,UPI,Standard
+2025-06-21,ORD-00577,CUST-10202,Consumer,Printer Paper,Office Supplies,South,Kerala,215.33,1,0.1,153.55,61.79,Credit Card,Express
+2025-02-28,ORD-00578,CUST-10162,Small Business,Standing Desk,Furniture,North,Delhi,834.54,1,0.2,673.71,160.83,Cash,Standard
+2025-02-16,ORD-00579,CUST-10083,Corporate,Standing Desk,Furniture,South,Karnataka,629.69,1,0.1,548.25,81.44,Credit Card,Standard
+2025-01-08,ORD-00580,CUST-10036,Corporate,Bookshelf,Furniture,East,Bihar,3795.24,4,0.15,3294.11,501.12,Bank Transfer,Standard
+2025-03-10,ORD-00581,CUST-10051,Corporate,Laptop Pro,Electronics,East,West Bengal,3416.71,4,0.1,2822.96,593.75,Cash,Express
+2025-12-12,ORD-00582,CUST-10119,Corporate,Desk Organizer,Office Supplies,East,Jharkhand,1014.19,3,0.0,771.32,242.87,Credit Card,Standard
+2025-06-12,ORD-00583,CUST-10259,Corporate,Monitor 27,Electronics,West,Rajasthan,6607.08,5,0.1,5317.38,1289.71,Bank Transfer,Standard
+2025-12-31,ORD-00584,CUST-10023,Small Business,Monitor 27,Electronics,East,Jharkhand,4975.18,6,0.1,3151.35,1823.83,Debit Card,Standard
+2025-04-08,ORD-00585,CUST-10037,Corporate,Laptop Pro,Electronics,South,Karnataka,4928.88,6,0.15,3567.06,1361.82,Credit Card,Standard
+2025-10-06,ORD-00586,CUST-10093,Corporate,USB Hub,Accessories,North,Delhi,2272.81,5,0.15,1493.67,779.14,Cash,Standard
+2025-02-02,ORD-00587,CUST-10306,Consumer,Office Chair,Furniture,West,Goa,2443.92,4,0.0,1420.03,1023.88,Bank Transfer,Standard
+2025-02-09,ORD-00588,CUST-10347,Small Business,Desk Organizer,Office Supplies,East,Bihar,898.92,4,0.0,782.08,116.84,Debit Card,Express
+2025-01-06,ORD-00589,CUST-10155,Consumer,Mouse,Accessories,West,Maharashtra,852.12,2,0.0,715.06,137.06,Cash,Standard
+2025-11-25,ORD-00590,CUST-10016,Consumer,Smartphone X,Electronics,West,Goa,5771.76,4,0.1,4237.11,1534.66,Cash,Standard
+2025-09-03,ORD-00591,CUST-10005,Small Business,Printer Paper,Office Supplies,South,Kerala,307.86,1,0.0,202.03,105.83,Bank Transfer,Standard
+2025-09-29,ORD-00592,CUST-10301,Consumer,Laptop Pro,Electronics,East,Bihar,6956.23,7,0.1,5480.76,1475.47,Cash,Standard
+2025-12-05,ORD-00593,CUST-10156,Consumer,Smartphone X,Electronics,East,Jharkhand,4448.52,3,0.1,3160.41,1288.11,Credit Card,Express
+2025-05-02,ORD-00594,CUST-10028,Consumer,Desk Organizer,Office Supplies,North,Haryana,1457.94,6,0.15,1196.98,260.96,Credit Card,Standard
+2025-09-21,ORD-00595,CUST-10292,Consumer,Webcam,Accessories,West,Rajasthan,2784.59,7,0.05,2450.03,334.55,Credit Card,Express
+2025-07-03,ORD-00596,CUST-10186,Small Business,Laptop Pro,Electronics,West,Rajasthan,4054.37,4,0.1,2776.12,1278.24,Bank Transfer,Express
+2025-07-18,ORD-00597,CUST-10123,Small Business,Desk Organizer,Office Supplies,North,Punjab,1763.5,7,0.0,1152.13,611.37,Cash,Express
+2025-08-30,ORD-00598,CUST-10159,Corporate,Monitor 27,Electronics,North,Haryana,3560.27,4,0.15,2350.54,1209.73,Bank Transfer,Express
+2025-06-21,ORD-00599,CUST-10079,Small Business,Desk Organizer,Office Supplies,South,Tamil Nadu,336.08,1,0.0,204.34,131.74,Debit Card,Standard
+2025-01-09,ORD-00600,CUST-10327,Corporate,Desk Organizer,Office Supplies,North,Uttar Pradesh,191.15,1,0.0,133.46,57.69,Bank Transfer,Same Day
+2025-01-28,ORD-00601,CUST-10276,Small Business,Desk Organizer,Office Supplies,East,West Bengal,334.73,1,0.0,195.89,138.84,UPI,Express
+2025-07-03,ORD-00602,CUST-10070,Consumer,Ink Cartridge,Office Supplies,North,Delhi,1351.07,7,0.15,829.98,521.08,Credit Card,Standard
+2025-07-28,ORD-00603,CUST-10258,Corporate,Tablet Air,Electronics,South,Tamil Nadu,4403.89,4,0.0,2913.21,1490.68,Bank Transfer,Standard
+2025-09-25,ORD-00604,CUST-10063,Consumer,Ink Cartridge,Office Supplies,North,Delhi,580.03,3,0.1,364.23,215.79,UPI,Standard
+2025-07-28,ORD-00605,CUST-10159,Consumer,Printer Paper,Office Supplies,South,Telangana,1100.94,4,0.1,880.36,220.58,Cash,Standard
+2025-03-10,ORD-00606,CUST-10263,Corporate,Notebook Pack,Office Supplies,South,Telangana,587.14,2,0.15,359.14,228.0,UPI,Standard
+2025-05-14,ORD-00607,CUST-10013,Consumer,Tablet Air,Electronics,South,Kerala,7516.48,7,0.0,6312.33,1204.15,Bank Transfer,Express
+2025-06-11,ORD-00608,CUST-10255,Corporate,Conference Table,Furniture,West,Goa,4645.36,7,0.0,3002.46,1642.91,Bank Transfer,Standard
+2025-12-26,ORD-00609,CUST-10080,Corporate,Bookshelf,Furniture,North,Haryana,671.2,1,0.05,411.16,260.04,Cash,Standard
+2025-07-14,ORD-00610,CUST-10245,Consumer,Tablet Air,Electronics,East,Jharkhand,9000.98,6,0.0,5247.86,3753.12,Bank Transfer,Standard
+2025-08-20,ORD-00611,CUST-10175,Consumer,Laptop Pro,Electronics,North,Delhi,2683.09,3,0.1,2131.88,551.21,Debit Card,Standard
+2025-09-26,ORD-00612,CUST-10010,Corporate,Standing Desk,Furniture,North,Haryana,1025.33,1,0.05,673.63,351.7,Bank Transfer,Standard
+2025-05-13,ORD-00613,CUST-10267,Small Business,Ink Cartridge,Office Supplies,South,Karnataka,1703.65,7,0.05,1248.52,455.13,Credit Card,Express
+2025-12-19,ORD-00614,CUST-10091,Consumer,Smartphone X,Electronics,South,Telangana,921.13,1,0.0,565.1,356.03,Debit Card,Standard
+2025-09-04,ORD-00615,CUST-10334,Small Business,Mouse,Accessories,West,Rajasthan,931.28,2,0.1,815.42,115.86,Cash,Same Day
+2025-11-06,ORD-00616,CUST-10294,Small Business,Office Chair,Furniture,North,Uttar Pradesh,871.11,1,0.0,538.01,333.1,UPI,Express
+2025-10-01,ORD-00617,CUST-10068,Corporate,Notebook Pack,Office Supplies,North,Haryana,680.42,4,0.1,478.73,201.69,Credit Card,Express
+2025-08-15,ORD-00618,CUST-10211,Consumer,Office Chair,Furniture,East,Odisha,6026.3,5,0.0,5034.95,991.36,UPI,Standard
+2025-01-12,ORD-00619,CUST-10127,Corporate,Bookshelf,Furniture,West,Rajasthan,1567.13,3,0.2,1024.07,543.06,Debit Card,Express
+2025-08-02,ORD-00620,CUST-10211,Small Business,Ink Cartridge,Office Supplies,West,Rajasthan,235.05,1,,155.15,79.89,Bank Transfer,Same Day
+2025-02-17,ORD-00621,CUST-10195,Consumer,USB Hub,Accessories,North,Punjab,402.29,1,0.0,330.9,71.39,UPI,Express
+2025-08-09,ORD-00622,CUST-10104,Small Business,Conference Table,Furniture,East,West Bengal,6197.19,7,0.0,4102.55,2094.64,Debit Card,Standard
+2025-09-14,ORD-00623,CUST-10228,Small Business,Office Chair,Furniture,South,Telangana,6193.63,6,0.05,3597.64,2595.99,Debit Card,Express
+2025-07-18,ORD-00624,CUST-10092,Corporate,Printer Paper,Office Supplies,East,Jharkhand,1283.55,7,0.0,909.23,374.32,Bank Transfer,Standard
+2025-04-23,ORD-00625,CUST-10318,Corporate,Notebook Pack,Office Supplies,South,Kerala,1563.49,4,0.0,912.71,650.79,Credit Card,Standard
+2025-01-22,ORD-00626,CUST-10332,Corporate,Laptop Pro,Electronics,East,Bihar,4562.16,4,0.15,3891.23,670.92,UPI,Express
+2025-09-02,ORD-00627,CUST-10059,Corporate,Conference Table,Furniture,South,Karnataka,6474.28,6,0.1,5001.67,1472.61,UPI,Express
+2025-09-12,ORD-00628,CUST-10255,Small Business,Office Chair,Furniture,West,Maharashtra,5541.62,5,0.0,4183.4,1358.23,Debit Card,Standard
+2025-06-24,ORD-00629,CUST-10326,Consumer,Keyboard,Accessories,North,Uttar Pradesh,2105.11,4,0.1,1348.28,756.84,Debit Card,Standard
+2025-09-19,ORD-00630,CUST-10045,Consumer,Conference Table,Furniture,South,Tamil Nadu,2739.36,3,0.05,2164.05,575.31,Cash,Express
+2025-10-12,ORD-00631,CUST-10259,Consumer,Conference Table,Furniture,South,Tamil Nadu,2545.5,4,0.2,1993.58,551.93,Debit Card,Standard
+2025-07-07,ORD-00632,CUST-10329,Small Business,Keyboard,Accessories,South,Tamil Nadu,421.82,1,0.0,252.31,169.51,UPI,Standard
+2025-01-18,ORD-00633,CUST-10079,Consumer,Standing Desk,Furniture,West,Maharashtra,1799.93,2,0.1,1519.6,280.33,Bank Transfer,Express
+2025-11-14,ORD-00634,CUST-10204,Small Business,Tablet Air,Electronics,East,Jharkhand,5815.41,6,0.15,4383.8,1431.62,UPI,Express
+2025-06-20,ORD-00635,CUST-10280,Corporate,Tablet Air,Electronics,West,Maharashtra,9944.47,7,0.0,8131.99,1812.48,Credit Card,Standard
+2025-09-03,ORD-00636,CUST-10117,Consumer,Smartphone X,Electronics,West,Maharashtra,832.0,1,0.0,548.18,283.82,Bank Transfer,Standard
+2025-11-29,ORD-00637,CUST-10084,Small Business,Monitor 27,Electronics,North,Punjab,1435.53,1,0.05,885.17,550.36,Credit Card,Standard
+2025-05-13,ORD-00638,CUST-10139,Corporate,Office Chair,Furniture,North,Delhi,587.65,1,0.15,464.67,122.97,Debit Card,Standard
+2025-08-16,ORD-00639,CUST-10118,Consumer,Notebook Pack,Office Supplies,North,Uttar Pradesh,2124.6,6,0.1,1738.27,386.33,Debit Card,Express
+2025-01-08,ORD-00640,CUST-10254,Consumer,Ink Cartridge,Office Supplies,South,Kerala,585.47,3,0.1,407.38,178.1,Cash,Express
+2025-11-20,ORD-00641,CUST-10130,Consumer,Tablet Air,Electronics,North,Punjab,2209.14,3,0.15,1297.01,912.14,Credit Card,Standard
+2025-01-22,ORD-00642,CUST-10132,Consumer,Ink Cartridge,Office Supplies,South,Karnataka,309.28,1,0.15,255.3,53.98,Cash,Standard
+2025-07-17,ORD-00643,CUST-10331,Consumer,Smartphone X,Electronics,West,Goa,9454.45,7,0.1,6068.13,3386.32,Bank Transfer,Standard
+2025-05-09,ORD-00644,CUST-10203,Corporate,USB Hub,Accessories,West,Goa,1876.4,4,0.1,1279.16,597.24,Bank Transfer,Standard
+2025-01-14,ORD-00645,CUST-10326,Consumer,Monitor 27,Electronics,North,Haryana,8808.42,6,0.1,6769.0,2039.42,UPI,Standard
+2025-06-18,ORD-00646,CUST-10249,Consumer,Notebook Pack,Office Supplies,South,Telangana,1152.35,5,0.05,702.92,449.43,UPI,Standard
+2025-12-08,ORD-00647,CUST-10310,Consumer,Bookshelf,Furniture,West,Goa,947.43,1,0.15,569.97,377.46,Bank Transfer,Express
+2025-03-02,ORD-00648,CUST-10069,Consumer,Notebook Pack,Office Supplies,East,West Bengal,1565.14,6,0.0,919.85,645.29,Debit Card,Standard
+2025-04-17,ORD-00649,CUST-10329,Small Business,Standing Desk,Furniture,North,Delhi,3671.72,4,0.0,3139.29,532.43,Credit Card,Express
+2025-03-11,ORD-00650,CUST-10331,Consumer,Printer Paper,Office Supplies,West,Gujarat,1197.71,5,0.15,806.56,391.15,Cash,Standard
+2025-02-15,ORD-00651,CUST-10015,Consumer,Monitor 27,Electronics,East,West Bengal,1430.48,2,0.05,1113.19,317.28,Credit Card,Express
+2025-03-26,ORD-00652,CUST-10125,Corporate,Webcam,Accessories,South,Kerala,2796.12,6,0.0,2451.55,344.56,Debit Card,Same Day
+2025-07-28,ORD-00653,CUST-10145,Small Business,Conference Table,Furniture,North,Haryana,7425.63,7,0.0,5798.19,1627.44,Bank Transfer,Standard
+2025-10-12,ORD-00654,CUST-10147,Corporate,Desk Organizer,Office Supplies,West,Goa,596.97,3,0.1,440.28,156.69,Cash,Standard
+2025-09-09,ORD-00655,CUST-10273,Small Business,Mouse,Accessories,South,Telangana,498.13,1,0.15,366.76,131.37,Cash,Express
+2025-10-09,ORD-00656,CUST-10245,Small Business,Keyboard,Accessories,East,West Bengal,2707.29,6,0.0,1876.35,830.93,Bank Transfer,Standard
+2025-09-19,ORD-00657,CUST-10075,Corporate,Laptop Pro,Electronics,South,Karnataka,6380.4,7,0.0,4848.69,1531.72,UPI,Standard
+2025-05-20,ORD-00658,CUST-10214,Small Business,Monitor 27,Electronics,West,Rajasthan,5098.73,4,0.05,4423.85,674.88,UPI,Standard
+2025-11-25,ORD-00659,CUST-10342,Consumer,Tablet Air,Electronics,North,Punjab,3696.28,5,0.2,3017.69,678.59,Bank Transfer,Express
+2025-03-04,ORD-00660,CUST-10155,Small Business,Smartphone X,Electronics,East,Jharkhand,1531.31,2,0.05,1083.04,448.26,Debit Card,Standard
+2025-09-13,ORD-00661,CUST-10325,Small Business,Desk Organizer,Office Supplies,West,Rajasthan,268.41,1,0.2,182.45,85.96,UPI,Standard
+2025-02-10,ORD-00662,CUST-10228,Small Business,Keyboard,Accessories,South,Karnataka,1845.65,7,0.15,1559.69,285.97,Bank Transfer,Standard
+2025-10-07,ORD-00663,CUST-10324,Corporate,Webcam,Accessories,West,Rajasthan,1173.02,4,0.05,728.13,444.88,Cash,Express
+2025-02-01,ORD-00664,CUST-10316,Corporate,Standing Desk,Furniture,West,Goa,1794.62,2,0.15,1498.29,296.34,UPI,Standard
+2025-03-20,ORD-00665,CUST-10006,Consumer,Printer Paper,Office Supplies,East,Odisha,874.64,5,0.1,574.22,300.42,Cash,Express
+2025-05-23,ORD-00666,CUST-10281,Corporate,Webcam,Accessories,North,Punjab,490.57,1,0.1,389.85,100.72,Credit Card,Express
+2025-09-11,ORD-00667,CUST-10067,Consumer,Keyboard,Accessories,South,Karnataka,513.48,1,0.05,422.01,91.47,Credit Card,Standard
+2025-01-17,ORD-00668,CUST-10289,Corporate,Monitor 27,Electronics,South,Karnataka,1491.89,2,0.15,1078.78,413.11,Bank Transfer,Standard
+2025-04-04,ORD-00669,CUST-10283,Corporate,Bookshelf,Furniture,West,Gujarat,3077.0,4,0.15,1962.15,1114.84,Credit Card,Express
+2025-05-02,ORD-00670,CUST-10091,Consumer,Mouse,Accessories,East,Bihar,778.94,3,0.15,649.19,129.75,UPI,Express
+2025-09-24,ORD-00671,CUST-10024,Consumer,Tablet Air,Electronics,West,Gujarat,2127.14,2,0.2,1468.27,658.88,Cash,Standard
+2025-12-17,ORD-00672,CUST-10147,Consumer,Standing Desk,Furniture,North,Punjab,1607.29,3,0.1,1086.86,520.43,Credit Card,Standard
+2025-08-13,ORD-00673,CUST-10107,Corporate,USB Hub,Accessories,South,Karnataka,1505.38,3,0.15,1103.45,401.93,UPI,Standard
+2025-07-05,ORD-00674,CUST-10194,Corporate,Keyboard,Accessories,North,Punjab,1165.51,4,0.15,828.13,337.39,Bank Transfer,Standard
+2025-05-03,ORD-00675,CUST-10029,Corporate,Keyboard,Accessories,North,Delhi,2009.81,4,0.0,1577.53,432.28,Credit Card,Standard
+2025-10-28,ORD-00676,CUST-10016,Consumer,Ink Cartridge,Office Supplies,East,Odisha,1475.16,7,0.0,916.31,558.85,Bank Transfer,Standard
+2025-02-09,ORD-00677,CUST-10153,Small Business,Monitor 27,Electronics,South,Telangana,5359.87,6,0.05,3809.3,1550.57,UPI,Standard
+2025-02-17,ORD-00678,CUST-10270,Corporate,Bookshelf,Furniture,East,Bihar,2190.82,3,0.15,1856.74,,Debit Card,Express
+2025-03-15,ORD-00679,CUST-10111,Consumer,Office Chair,Furniture,West,Maharashtra,6265.67,7,0.05,3701.87,2563.79,Debit Card,Express
+2025-04-08,ORD-00680,CUST-10114,Consumer,Ink Cartridge,Office Supplies,East,Jharkhand,1460.68,4,0.1,1047.6,413.08,Cash,Express
+2025-06-18,ORD-00681,CUST-10058,Corporate,Conference Table,Furniture,West,Goa,1140.26,2,0.0,887.3,252.96,Debit Card,Express
+2025-12-12,ORD-00682,CUST-10099,Consumer,Printer Paper,Office Supplies,West,Rajasthan,518.9,3,0.05,439.15,79.75,Cash,Express
+2025-08-26,ORD-00683,CUST-10105,Consumer,Standing Desk,Furniture,West,Rajasthan,4270.05,6,0.1,3237.28,1032.77,Credit Card,Standard
+2025-05-20,ORD-00684,CUST-10091,Consumer,Desk Organizer,Office Supplies,East,West Bengal,1584.11,6,0.0,1310.61,273.5,Debit Card,Express
+2025-03-19,ORD-00685,CUST-10121,Consumer,Bookshelf,Furniture,North,Haryana,2941.45,3,0.15,1902.55,1038.9,Cash,Standard
+2025-08-25,ORD-00686,CUST-10100,Consumer,Office Chair,Furniture,East,Bihar,2346.11,2,0.0,1609.06,737.05,UPI,Standard
+2025-04-03,ORD-00687,CUST-10239,Consumer,Laptop Pro,Electronics,East,Odisha,2647.89,2,0.15,2284.18,363.72,Cash,Same Day
+2025-12-23,ORD-00688,CUST-10119,Small Business,Smartphone X,Electronics,South,Telangana,879.22,1,0.0,743.64,135.58,Bank Transfer,Express
+2025-06-24,ORD-00689,CUST-10265,Corporate,USB Hub,Accessories,North,Punjab,1645.87,5,0.2,1230.1,415.77,Bank Transfer,Standard
+2025-07-21,ORD-00690,CUST-10212,Consumer,Standing Desk,Furniture,East,Odisha,3814.93,4,0.1,2756.84,1058.08,Credit Card,Express
+2025-11-26,ORD-00691,CUST-10225,Corporate,Monitor 27,Electronics,West,Gujarat,4140.41,4,0.0,2961.72,1178.69,Cash,Standard
+2025-04-22,ORD-00692,CUST-10205,Corporate,Desk Organizer,Office Supplies,South,Karnataka,1652.83,5,0.0,987.79,665.04,Cash,Standard
+2025-06-22,ORD-00693,CUST-10324,Consumer,Printer Paper,Office Supplies,West,Goa,1410.72,6,0.0,1195.89,214.83,Credit Card,Standard
+2025-07-14,ORD-00694,CUST-10090,Consumer,Laptop Pro,Electronics,East,Bihar,5643.25,6,0.1,4658.19,985.06,Debit Card,Standard
+2025-04-09,ORD-00695,CUST-10344,Consumer,Smartphone X,Electronics,South,Telangana,1308.23,1,0.15,937.84,370.39,UPI,Express
+2025-01-20,ORD-00696,CUST-10073,Corporate,Laptop Pro,Electronics,East,West Bengal,4645.35,5,0.05,3083.73,1561.62,Credit Card,Standard
+2025-04-14,ORD-00697,CUST-10049,Corporate,Desk Organizer,Office Supplies,North,Delhi,2646.76,7,0.05,1807.41,839.35,UPI,Standard
+2025-02-11,ORD-00698,CUST-10290,Consumer,Monitor 27,Electronics,North,Haryana,5558.0,6,0.1,3429.0,2129.0,Debit Card,Same Day
+2025-09-04,ORD-00699,CUST-10314,Corporate,Smartphone X,Electronics,North,Delhi,2076.69,3,0.1,1654.16,422.53,Debit Card,Standard
+2025-01-03,ORD-00700,CUST-10033,Small Business,Laptop Pro,Electronics,West,Goa,2651.42,3,0.1,1980.62,670.81,Debit Card,Standard
+2025-04-26,ORD-00701,CUST-10210,Consumer,Desk Organizer,Office Supplies,West,Rajasthan,1388.2,7,0.1,902.65,485.55,Bank Transfer,Standard
+2025-11-19,ORD-00702,CUST-10180,Corporate,Laptop Pro,Electronics,East,West Bengal,1092.4,1,0.1,837.77,254.64,Cash,Standard
+2025-07-27,ORD-00703,CUST-10078,Corporate,Keyboard,Accessories,West,Goa,994.79,4,0.2,869.22,125.57,UPI,Standard
+2025-09-03,ORD-00704,CUST-10183,Corporate,Tablet Air,Electronics,South,Kerala,1257.29,1,0.05,775.4,481.9,Credit Card,Standard
+2025-09-02,ORD-00705,CUST-10241,Corporate,Ink Cartridge,Office Supplies,West,Maharashtra,2645.84,7,0.0,1898.51,747.33,Credit Card,Express
+2025-04-19,ORD-00706,CUST-10201,Corporate,Conference Table,Furniture,North,Uttar Pradesh,799.01,1,0.0,581.88,217.13,Cash,Standard
+2025-08-19,ORD-00707,CUST-10182,Consumer,Office Chair,Furniture,South,Kerala,600.37,1,0.1,378.26,222.11,UPI,Standard
+2025-03-22,ORD-00708,CUST-10310,Consumer,Laptop Pro,Electronics,South,Tamil Nadu,3179.24,3,0.05,2350.97,828.27,UPI,Standard
+2025-08-20,ORD-00709,CUST-10079,Small Business,Webcam,Accessories,East,Odisha,859.34,2,0.2,654.64,204.7,UPI,Express
+2025-09-07,ORD-00710,CUST-10219,Consumer,USB Hub,Accessories,East,Jharkhand,1698.26,4,0.1,1065.16,633.11,Bank Transfer,Standard
+2025-11-16,ORD-00711,CUST-10111,Small Business,Monitor 27,Electronics,South,Telangana,2269.49,3,0.1,1421.65,847.84,Debit Card,Standard
+2025-12-02,ORD-00712,CUST-10341,Consumer,Smartphone X,Electronics,North,Punjab,3166.37,3,0.15,2649.95,516.42,Cash,Same Day
+2025-01-09,ORD-00713,CUST-10089,Corporate,USB Hub,Accessories,South,Karnataka,1635.05,4,0.05,1101.07,533.98,Credit Card,Standard
+2025-04-20,ORD-00714,CUST-10305,Corporate,Conference Table,Furniture,South,Telangana,2634.78,4,0.15,2026.41,608.37,Credit Card,Standard
+2025-07-19,ORD-00715,CUST-10222,Consumer,Tablet Air,Electronics,South,Karnataka,5941.93,7,0.0,4563.6,1378.34,Debit Card,Standard
+2025-04-28,ORD-00716,CUST-10076,Small Business,Tablet Air,Electronics,West,Gujarat,5940.44,4,0.1,4940.97,999.47,UPI,Standard
+2025-08-14,ORD-00717,CUST-10266,Consumer,Ink Cartridge,Office Supplies,North,Delhi,708.59,4,0.2,568.27,140.32,Cash,Same Day
+2025-11-08,ORD-00718,CUST-10085,Corporate,Ink Cartridge,Office Supplies,West,Maharashtra,956.99,5,0.15,796.38,160.61,Cash,Standard
+2025-04-05,ORD-00719,CUST-10092,Corporate,Ink Cartridge,Office Supplies,North,Delhi,364.84,2,0.15,280.04,84.8,UPI,Standard
+2025-11-23,ORD-00720,CUST-10121,Small Business,Webcam,Accessories,South,Tamil Nadu,2206.78,5,0.05,1577.49,629.29,Cash,Standard
+2025-11-18,ORD-00721,CUST-10239,Corporate,Standing Desk,Furniture,East,West Bengal,5082.46,7,0.15,3547.91,1534.55,Debit Card,Standard
+2025-11-30,ORD-00722,CUST-10138,Small Business,Tablet Air,Electronics,East,Odisha,2638.15,3,0.1,1830.11,808.04,Credit Card,Standard
+2025-01-27,ORD-00723,CUST-10200,Small Business,Conference Table,Furniture,West,Rajasthan,1520.11,2,0.1,1072.47,447.65,Cash,Express
+2025-04-18,ORD-00724,CUST-10194,Consumer,Conference Table,Furniture,South,Tamil Nadu,3031.48,3,0.0,1875.86,1155.62,Debit Card,Standard
+2025-02-15,ORD-00725,CUST-10069,Small Business,Tablet Air,Electronics,West,Goa,2013.33,2,0.0,1423.8,589.53,Credit Card,Express
+2025-02-13,ORD-00726,CUST-10082,Small Business,Laptop Pro,Electronics,West,Gujarat,7152.87,5,0.1,4984.36,2168.51,Cash,Express
+2025-01-20,ORD-00727,CUST-10108,Consumer,Bookshelf,Furniture,West,Gujarat,5325.71,7,0.0,3144.15,2181.56,Bank Transfer,Standard
+2025-06-10,ORD-00728,CUST-10078,Corporate,Notebook Pack,Office Supplies,West,Rajasthan,1018.76,5,0.1,674.97,343.79,UPI,Express
+2025-02-01,ORD-00729,CUST-10322,Consumer,Laptop Pro,Electronics,East,Jharkhand,1381.85,1,0.15,1113.18,268.67,Bank Transfer,Express
+2025-04-18,ORD-00730,CUST-10134,Corporate,Office Chair,Furniture,East,West Bengal,2814.39,3,0.15,2120.31,694.07,Bank Transfer,Standard
+2025-12-25,ORD-00731,CUST-10142,Consumer,Ink Cartridge,Office Supplies,East,Jharkhand,1294.31,5,0.0,1063.73,230.58,Credit Card,Standard
+2025-11-19,ORD-00732,CUST-10236,Corporate,Desk Organizer,Office Supplies,West,Gujarat,889.15,3,0.2,660.47,228.68,Debit Card,Standard
+2025-12-09,ORD-00733,CUST-10276,Consumer,Ink Cartridge,Office Supplies,West,Gujarat,1491.07,5,0.0,1246.87,244.2,Cash,Standard
+2025-01-14,ORD-00734,CUST-10241,Corporate,Mouse,Accessories,East,Odisha,1752.79,5,0.1,1435.22,317.57,UPI,Express
+2025-08-30,ORD-00735,CUST-10193,Consumer,Printer Paper,Office Supplies,West,Goa,943.69,3,,575.16,368.52,Bank Transfer,Standard
+2025-08-20,ORD-00736,CUST-10342,Corporate,Tablet Air,Electronics,North,Haryana,7197.46,5,0.0,6284.12,913.34,Cash,Standard
+2025-02-18,ORD-00737,CUST-10315,Corporate,Office Chair,Furniture,West,Rajasthan,2265.16,3,0.0,1323.82,941.35,Cash,Standard
+2025-11-27,ORD-00738,CUST-10071,Corporate,Desk Organizer,Office Supplies,East,West Bengal,317.9,1,0.0,241.3,76.6,Credit Card,Standard
+2025-05-28,ORD-00739,CUST-10057,Consumer,Smartphone X,Electronics,East,West Bengal,2935.82,3,0.1,2400.77,535.04,Credit Card,Express
+2025-12-23,ORD-00740,CUST-10138,Consumer,Smartphone X,Electronics,East,Jharkhand,2544.79,4,0.15,1729.36,815.43,Cash,Express
+2025-02-11,ORD-00741,CUST-10293,Consumer,Monitor 27,Electronics,West,Rajasthan,1632.37,1,0.0,1239.9,392.47,Debit Card,Express
+2025-08-26,ORD-00742,CUST-10338,Small Business,Office Chair,Furniture,West,Goa,6483.73,7,0.0,4464.94,2018.8,Debit Card,Standard
+2025-02-17,ORD-00743,CUST-10246,Consumer,Standing Desk,Furniture,South,Telangana,3453.96,4,0.1,2066.11,1387.86,Debit Card,Standard
+2025-12-13,ORD-00744,CUST-10242,Corporate,Smartphone X,Electronics,West,Gujarat,1234.43,1,0.05,719.1,515.33,Debit Card,Express
+2025-08-10,ORD-00745,CUST-10082,Consumer,Keyboard,Accessories,East,Bihar,2885.5,7,0.1,1755.71,1129.79,Bank Transfer,Standard
+2025-01-28,ORD-00746,CUST-10208,Corporate,USB Hub,Accessories,East,Bihar,1778.19,6,0.2,1083.85,694.34,Debit Card,Express
+2025-03-20,ORD-00747,CUST-10065,Consumer,Laptop Pro,Electronics,East,Jharkhand,1395.15,1,0.15,1064.87,330.28,Credit Card,Standard
+2025-05-12,ORD-00748,CUST-10189,Corporate,Keyboard,Accessories,East,Odisha,819.2,2,0.15,604.37,214.83,Debit Card,Standard
+2025-01-05,ORD-00749,CUST-10068,Consumer,Laptop Pro,Electronics,South,Telangana,3684.82,3,0.1,2640.68,1044.13,Bank Transfer,Standard
+2025-01-04,ORD-00750,CUST-10027,Consumer,USB Hub,Accessories,South,Telangana,1447.76,4,0.15,1140.22,307.54,Cash,Express
+2025-12-04,ORD-00751,CUST-10339,Consumer,Webcam,Accessories,West,Rajasthan,2218.33,6,0.0,1297.83,920.5,Debit Card,Standard
+2025-12-25,ORD-00752,CUST-10313,Consumer,Monitor 27,Electronics,East,West Bengal,2420.1,3,0.0,1600.4,819.7,Bank Transfer,Express
+2025-07-15,ORD-00753,CUST-10240,Corporate,Ink Cartridge,Office Supplies,West,Goa,1172.03,5,0.1,953.12,218.91,Debit Card,Standard
+2025-11-26,ORD-00754,CUST-10219,Small Business,Webcam,Accessories,East,Jharkhand,332.17,1,0.0,283.34,48.83,Bank Transfer,Standard
+2025-08-28,ORD-00755,CUST-10084,Corporate,Webcam,Accessories,North,Punjab,2105.71,5,0.15,1498.22,607.5,Credit Card,Express
+2025-01-11,ORD-00756,CUST-10201,Small Business,Webcam,Accessories,West,Rajasthan,3580.58,7,0.1,2164.26,1416.31,Debit Card,Standard
+2025-09-18,ORD-00757,CUST-10262,Corporate,Printer Paper,Office Supplies,East,West Bengal,799.41,4,0.2,655.22,144.2,UPI,Standard
+2025-01-07,ORD-00758,CUST-10189,Consumer,Monitor 27,Electronics,South,Karnataka,4004.26,4,0.05,3385.8,618.45,Credit Card,Same Day
+2025-10-26,ORD-00759,CUST-10099,Consumer,Webcam,Accessories,West,Rajasthan,1345.25,3,0.1,947.19,398.06,Bank Transfer,Express
+2025-05-14,ORD-00760,CUST-10138,Consumer,Printer Paper,Office Supplies,East,West Bengal,1357.25,7,0.1,886.29,470.96,UPI,Standard
+2025-02-21,ORD-00761,CUST-10295,Consumer,Notebook Pack,Office Supplies,North,Punjab,370.68,1,0.05,219.89,150.8,Credit Card,Express
+2025-04-05,ORD-00762,CUST-10090,Small Business,Office Chair,Furniture,West,Maharashtra,2159.77,3,0.1,1635.65,524.12,Bank Transfer,Standard
+2025-09-07,ORD-00763,CUST-10337,Corporate,Desk Organizer,Office Supplies,West,Goa,184.2,1,0.1,157.12,27.08,Cash,Standard
+2025-11-06,ORD-00764,CUST-10265,Corporate,Laptop Pro,Electronics,West,Gujarat,5085.97,7,0.2,3984.18,1101.79,Debit Card,Standard
+2025-07-28,ORD-00765,CUST-10312,Corporate,Printer Paper,Office Supplies,South,Tamil Nadu,1407.37,4,0.1,950.22,457.15,Debit Card,Standard
+2025-02-28,ORD-00766,CUST-10179,Consumer,Tablet Air,Electronics,West,Rajasthan,6823.95,7,0.0,5274.0,1549.95,Debit Card,Standard
+2025-11-25,ORD-00767,CUST-10079,Corporate,Printer Paper,Office Supplies,West,Maharashtra,1486.57,5,0.1,1233.29,253.28,Bank Transfer,Standard
+2025-10-16,ORD-00768,CUST-10012,Consumer,Mouse,Accessories,West,Goa,1171.7,4,0.1,846.84,324.85,Debit Card,Express
+2025-05-30,ORD-00769,CUST-10188,Consumer,Standing Desk,Furniture,West,Rajasthan,2737.96,4,0.0,2261.35,476.61,UPI,Standard
+2025-07-22,ORD-00770,CUST-10140,Consumer,Office Chair,Furniture,North,Haryana,2185.73,2,0.05,1524.7,661.02,Debit Card,Standard
+2025-12-18,ORD-00771,CUST-10040,Consumer,Smartphone X,Electronics,West,Rajasthan,3358.02,4,0.05,2298.74,1059.28,Credit Card,Express
+2025-05-18,ORD-00772,CUST-10326,Corporate,Webcam,Accessories,North,Uttar Pradesh,1396.5,5,0.0,1054.21,342.29,Bank Transfer,Same Day
+2025-01-10,ORD-00773,CUST-10340,Consumer,Printer Paper,Office Supplies,North,Haryana,1853.94,7,0.1,1333.74,520.2,UPI,Standard
+2025-02-23,ORD-00774,CUST-10131,Consumer,Bookshelf,Furniture,South,Kerala,4556.62,4,0.0,3978.54,578.08,Bank Transfer,Same Day
+2025-08-08,ORD-00775,CUST-10234,Small Business,Tablet Air,Electronics,West,Goa,6598.69,7,0.1,4849.49,1749.2,UPI,Express
+2025-12-31,ORD-00776,CUST-10145,Small Business,Tablet Air,Electronics,South,Kerala,6057.87,7,0.0,4213.56,1844.31,Cash,Standard
+2025-09-28,ORD-00777,CUST-10174,Corporate,Bookshelf,Furniture,North,Haryana,4393.5,4,0.1,3068.77,1324.73,Bank Transfer,Standard
+2025-08-14,ORD-00778,CUST-10219,Corporate,USB Hub,Accessories,West,Maharashtra,2001.54,4,0.0,1489.91,511.63,UPI,Standard
+2025-04-28,ORD-00779,CUST-10146,Corporate,Notebook Pack,Office Supplies,North,Haryana,316.67,1,0.15,217.39,99.28,Cash,Express
+2025-06-10,ORD-00780,CUST-10281,Consumer,Monitor 27,Electronics,South,Tamil Nadu,2878.93,2,0.0,2294.14,584.79,Debit Card,Standard
+2025-01-15,ORD-00781,CUST-10067,Consumer,Webcam,Accessories,West,Maharashtra,3197.94,7,0.1,2220.01,977.93,Bank Transfer,Standard
+2025-05-16,ORD-00782,CUST-10234,Consumer,Conference Table,Furniture,South,Tamil Nadu,773.3,1,0.05,537.63,235.67,UPI,Express
+2025-08-16,ORD-00783,CUST-10345,Consumer,Webcam,Accessories,East,Odisha,1088.64,3,0.05,832.91,255.73,UPI,Standard
+2025-11-27,ORD-00784,CUST-10298,Small Business,Laptop Pro,Electronics,North,Punjab,6331.96,5,0.1,3788.12,2543.84,Cash,Standard
+2025-12-03,ORD-00785,CUST-10017,Corporate,Notebook Pack,Office Supplies,South,Telangana,582.32,2,0.15,452.24,130.09,Debit Card,Express
+2025-10-27,ORD-00786,CUST-10040,Small Business,Webcam,Accessories,East,Odisha,3524.77,7,0.15,2578.34,946.43,Bank Transfer,Same Day
+2025-01-08,ORD-00787,CUST-10221,Corporate,Laptop Pro,Electronics,South,Tamil Nadu,6035.67,5,0.05,4320.98,1714.69,Cash,Express
+2025-10-24,ORD-00788,CUST-10324,Corporate,Desk Organizer,Office Supplies,East,West Bengal,248.0,1,0.0,197.35,50.65,Debit Card,Standard
+2025-03-21,ORD-00789,CUST-10296,Corporate,USB Hub,Accessories,South,Tamil Nadu,787.47,2,0.1,635.86,151.61,Credit Card,Standard
+2025-08-13,ORD-00790,CUST-10317,Corporate,Smartphone X,Electronics,North,Punjab,7085.43,6,0.1,5908.39,1177.04,Cash,Standard
+2025-12-12,ORD-00791,CUST-10053,Corporate,Laptop Pro,Electronics,West,Rajasthan,7980.64,7,0.0,5526.12,2454.52,UPI,Standard
+2025-11-21,ORD-00792,CUST-10182,Consumer,Ink Cartridge,Office Supplies,East,Odisha,2137.32,7,0.15,1449.34,687.98,Debit Card,Standard
+2025-08-31,ORD-00793,CUST-10255,Corporate,Bookshelf,Furniture,East,West Bengal,5130.2,6,0.1,4074.93,1055.27,Cash,Same Day
+2025-04-20,ORD-00794,CUST-10219,Consumer,Tablet Air,Electronics,West,Maharashtra,680.56,1,0.1,513.51,167.05,Credit Card,Express
+2025-07-10,ORD-00795,CUST-10272,Corporate,Conference Table,Furniture,West,Goa,5357.95,6,0.05,4123.16,1234.79,Credit Card,Standard
+2025-09-14,ORD-00796,CUST-10075,Consumer,Notebook Pack,Office Supplies,East,West Bengal,307.73,1,0.05,229.77,77.96,Debit Card,Standard
+2025-07-07,ORD-00797,CUST-10160,Corporate,Tablet Air,Electronics,West,Gujarat,1589.54,1,0.0,1290.4,299.14,UPI,Standard
+2025-05-28,ORD-00798,CUST-10157,Consumer,Bookshelf,Furniture,West,Maharashtra,3543.78,5,0.15,2257.43,1286.35,UPI,Standard
+2025-05-28,ORD-00799,CUST-10329,Consumer,USB Hub,Accessories,North,Punjab,1864.08,4,0.0,1391.94,472.15,Credit Card,Express
+2025-08-07,ORD-00800,CUST-10071,Corporate,Conference Table,Furniture,North,Punjab,3720.87,5,0.15,2334.59,1386.28,Cash,Standard
+2025-01-14,ORD-00801,CUST-10115,Consumer,Mouse,Accessories,North,Delhi,2303.35,6,0.15,1617.35,685.99,Credit Card,Express
+2025-12-31,ORD-00802,CUST-10008,Small Business,Conference Table,Furniture,East,Jharkhand,538.44,1,0.1,419.55,118.89,Bank Transfer,Standard
+2025-02-07,ORD-00803,CUST-10054,Consumer,Keyboard,Accessories,South,Karnataka,2297.95,4,0.0,1672.73,625.22,Debit Card,Standard
+2025-12-26,ORD-00804,CUST-10344,Consumer,Notebook Pack,Office Supplies,North,Haryana,2199.81,6,0.05,1526.4,673.41,Bank Transfer,Same Day
+2025-01-13,ORD-00805,CUST-10297,Consumer,Tablet Air,Electronics,West,Goa,4756.52,4,0.05,4021.59,734.92,Credit Card,Standard
+2025-07-07,ORD-00806,CUST-10091,Small Business,Keyboard,Accessories,West,Gujarat,1656.01,4,0.1,1344.43,311.58,Cash,Standard
+2025-06-02,ORD-00807,CUST-10246,Corporate,Standing Desk,Furniture,North,Punjab,2011.57,4,0.15,1484.31,527.26,Credit Card,Express
+2025-07-29,ORD-00808,CUST-10208,Consumer,Tablet Air,Electronics,West,Gujarat,8629.14,7,0.05,7464.34,1164.8,Bank Transfer,Standard
+2025-06-08,ORD-00809,CUST-10318,Consumer,Tablet Air,Electronics,East,Jharkhand,970.97,1,0.15,686.78,284.19,Cash,Standard
+2025-11-24,ORD-00810,CUST-10106,Corporate,Printer Paper,Office Supplies,South,Tamil Nadu,2385.78,7,0.0,1947.8,437.98,Debit Card,Standard
+2025-01-07,ORD-00811,CUST-10349,Small Business,Monitor 27,Electronics,West,Maharashtra,4507.87,6,0.05,2841.68,1666.2,Bank Transfer,Standard
+2025-12-26,ORD-00812,CUST-10130,Consumer,Laptop Pro,Electronics,West,Gujarat,8409.1,6,0.0,5598.26,2810.84,UPI,Standard
+2025-09-09,ORD-00813,CUST-10251,Consumer,Tablet Air,Electronics,South,Tamil Nadu,2730.89,3,0.1,1860.9,869.99,Debit Card,Standard
+2025-10-12,ORD-00814,CUST-10140,Consumer,Standing Desk,Furniture,North,Punjab,3982.64,4,0.0,2436.36,1546.27,Credit Card,Express
+2025-02-21,ORD-00815,CUST-10236,Consumer,Bookshelf,Furniture,West,Gujarat,2790.0,3,0.05,2038.21,751.79,Cash,Express
+2025-01-24,ORD-00816,CUST-10118,Corporate,Bookshelf,Furniture,South,Kerala,1201.48,2,0.15,766.16,435.32,Cash,Standard
+2025-05-25,ORD-00817,CUST-10296,Small Business,Smartphone X,Electronics,South,Tamil Nadu,7262.11,7,0.1,5593.68,1668.43,Bank Transfer,Standard
+2025-04-28,ORD-00818,CUST-10224,Small Business,Laptop Pro,Electronics,East,West Bengal,6065.13,4,0.0,3863.66,2201.47,Cash,Standard
+2025-10-13,ORD-00819,CUST-10102,Corporate,Desk Organizer,Office Supplies,North,Haryana,1905.92,6,0.0,1176.05,729.87,Cash,Standard
+2025-11-24,ORD-00820,CUST-10337,Consumer,Office Chair,Furniture,West,Maharashtra,539.32,1,0.1,469.6,69.72,Bank Transfer,Standard
+2025-06-06,ORD-00821,CUST-10249,Small Business,Printer Paper,Office Supplies,West,Maharashtra,1602.91,6,0.05,1246.21,356.69,Debit Card,Express
+2025-10-08,ORD-00822,CUST-10151,Consumer,Laptop Pro,Electronics,North,Haryana,5171.65,5,0.0,4452.45,719.19,Credit Card,Standard
+2025-01-22,ORD-00823,CUST-10048,Consumer,Laptop Pro,Electronics,West,Gujarat,8428.23,7,0.1,6127.04,2301.19,Cash,Standard
+2025-09-28,ORD-00824,CUST-10341,Corporate,Smartphone X,Electronics,North,Haryana,1247.25,1,0.05,735.91,511.35,UPI,Express
+2025-02-06,ORD-00825,CUST-10265,Consumer,Office Chair,Furniture,South,Karnataka,2014.45,4,0.1,1515.5,498.96,UPI,Express
+2025-09-01,ORD-00826,CUST-10234,Small Business,Bookshelf,Furniture,West,Gujarat,3669.79,4,0.05,2743.16,926.63,Cash,Standard
+2025-05-20,ORD-00827,CUST-10292,Small Business,Mouse,Accessories,North,Delhi,2079.64,4,0.0,1215.53,864.1,UPI,Standard
+2025-06-01,ORD-00828,CUST-10213,Corporate,Office Chair,Furniture,West,Gujarat,1075.24,1,0.0,901.45,173.79,UPI,Same Day
+2025-04-11,ORD-00829,CUST-10082,Corporate,Standing Desk,Furniture,South,Tamil Nadu,2251.89,4,0.05,1724.93,526.96,Debit Card,Standard
+2025-05-28,ORD-00830,CUST-10083,Consumer,Printer Paper,Office Supplies,West,Rajasthan,750.06,3,0.0,602.6,147.46,Debit Card,Express
+2025-11-16,ORD-00831,CUST-10028,Consumer,Monitor 27,Electronics,North,Uttar Pradesh,5391.59,5,0.05,3926.03,1465.56,UPI,Express
+2025-10-23,ORD-00832,CUST-10023,Corporate,Bookshelf,Furniture,North,Delhi,1147.07,2,0.15,878.1,268.96,Credit Card,Standard
+2025-05-05,ORD-00833,CUST-10256,Corporate,Bookshelf,Furniture,East,Bihar,2851.24,4,0.15,1873.95,977.29,Credit Card,Standard
+2025-04-18,ORD-00834,CUST-10299,Small Business,Standing Desk,Furniture,North,Haryana,2854.12,5,0.05,2489.16,364.96,Credit Card,Standard
+2025-07-05,ORD-00835,CUST-10058,Consumer,Smartphone X,Electronics,North,Haryana,766.49,1,0.1,536.71,229.78,UPI,Standard
+2025-09-07,ORD-00836,CUST-10201,Consumer,Ink Cartridge,Office Supplies,North,Uttar Pradesh,1791.65,6,0.1,1126.41,665.24,Bank Transfer,Standard
+2025-03-08,ORD-00837,CUST-10044,Consumer,Mouse,Accessories,North,Punjab,1842.24,6,0.15,1099.4,742.84,Debit Card,Express
+2025-09-23,ORD-00838,CUST-10146,Corporate,Monitor 27,Electronics,South,Tamil Nadu,1331.89,1,0.05,1026.69,305.2,Cash,Express
+2025-12-13,ORD-00839,CUST-10277,Corporate,Printer Paper,Office Supplies,East,Jharkhand,183.14,1,0.05,160.25,22.89,UPI,Same Day
+2025-11-05,ORD-00840,CUST-10285,Small Business,Desk Organizer,Office Supplies,East,Jharkhand,1755.86,6,0.05,1490.27,265.59,Bank Transfer,Same Day
+2025-07-20,ORD-00841,CUST-10333,Consumer,Smartphone X,Electronics,West,Goa,2215.27,2,0.0,1751.46,463.81,Cash,Express
+2025-04-27,ORD-00842,CUST-10109,Corporate,Notebook Pack,Office Supplies,South,Karnataka,2397.47,7,0.05,2103.01,294.46,Debit Card,Standard
+2025-04-29,ORD-00843,CUST-10333,Consumer,Ink Cartridge,Office Supplies,East,Bihar,1215.86,4,0.15,968.85,247.0,Bank Transfer,Standard
+2025-09-28,ORD-00844,CUST-10275,Consumer,Webcam,Accessories,East,Odisha,1017.93,3,0.15,694.0,323.93,Debit Card,Standard
+2025-06-16,ORD-00845,CUST-10119,Consumer,Webcam,Accessories,West,Rajasthan,964.46,2,0.0,733.34,231.12,Debit Card,Standard
+2025-02-08,ORD-00846,CUST-10115,Corporate,Laptop Pro,Electronics,South,Tamil Nadu,4545.01,5,0.05,2744.87,1800.14,Cash,Standard
+2025-09-05,ORD-00847,CUST-10038,Corporate,Conference Table,Furniture,East,West Bengal,899.82,1,0.05,581.74,318.08,Debit Card,Standard
+2025-02-20,ORD-00848,CUST-10323,Consumer,Conference Table,Furniture,North,Uttar Pradesh,1640.95,3,0.1,1157.3,483.65,Debit Card,Standard
+2025-12-27,ORD-00849,CUST-10072,Corporate,Smartphone X,Electronics,West,Goa,3097.81,3,0.1,1984.29,1113.52,Cash,Standard
+2025-06-02,ORD-00850,CUST-10094,Small Business,Conference Table,Furniture,South,Karnataka,1353.51,2,0.0,1172.21,181.3,Debit Card,Express
+2025-05-05,ORD-00851,CUST-10145,Consumer,USB Hub,Accessories,West,Gujarat,1453.03,3,0.15,1276.75,176.28,UPI,Standard
+2025-01-21,ORD-00852,CUST-10049,Consumer,Tablet Air,Electronics,West,Gujarat,3701.79,4,0.2,2558.97,1142.81,Bank Transfer,Standard
+2025-03-03,ORD-00853,CUST-10283,Corporate,Office Chair,Furniture,South,Karnataka,4294.02,5,0.1,3404.16,889.85,Bank Transfer,Standard
+2025-12-12,ORD-00854,CUST-10245,Corporate,Mouse,Accessories,South,Kerala,354.68,1,0.1,249.1,105.58,Credit Card,Standard
+2025-07-16,ORD-00855,CUST-10055,Small Business,Office Chair,Furniture,West,Gujarat,4717.72,7,0.1,2933.73,1783.99,Bank Transfer,Standard
+2025-11-26,ORD-00856,CUST-10057,Consumer,Office Chair,Furniture,East,West Bengal,4591.73,7,0.05,3127.33,1464.4,UPI,Standard
+2025-12-15,ORD-00857,CUST-10008,Corporate,USB Hub,Accessories,North,Uttar Pradesh,2896.94,5,0.0,1883.05,1013.9,Credit Card,Standard
+2025-01-18,ORD-00858,CUST-10333,Small Business,Conference Table,Furniture,South,Kerala,6905.66,7,0.1,4684.96,2220.7,Cash,Express
+2025-05-19,ORD-00859,CUST-10153,Consumer,Tablet Air,Electronics,East,West Bengal,2610.3,3,0.0,1682.36,927.94,Bank Transfer,Standard
+2025-11-02,ORD-00860,CUST-10230,Consumer,Tablet Air,Electronics,East,Jharkhand,7315.88,6,0.15,4489.78,2826.1,Bank Transfer,Same Day
+2025-06-30,ORD-00861,CUST-10053,Small Business,Keyboard,Accessories,North,Haryana,2357.67,6,0.05,1521.24,836.43,Bank Transfer,Express
+2025-07-05,ORD-00862,CUST-10081,Consumer,Laptop Pro,Electronics,North,Haryana,2894.33,4,0.05,2465.18,429.15,UPI,Standard
+2025-07-28,ORD-00863,CUST-10190,Corporate,Conference Table,Furniture,South,Tamil Nadu,1732.4,2,0.05,1049.08,683.32,Cash,Standard
+2025-09-14,ORD-00864,CUST-10074,Small Business,Monitor 27,Electronics,North,Uttar Pradesh,2774.86,4,0.2,1879.76,895.09,Credit Card,Standard
+2025-12-09,ORD-00865,CUST-10215,Consumer,Bookshelf,Furniture,West,Rajasthan,4866.79,7,0.0,3594.29,1272.49,Bank Transfer,Express
+2025-11-20,ORD-00866,CUST-10324,Corporate,Mouse,Accessories,South,Telangana,3548.09,7,0.0,2435.24,1112.84,Cash,Express
+2025-08-17,ORD-00867,CUST-10107,Corporate,Office Chair,Furniture,South,Kerala,2909.43,4,0.0,2139.25,770.18,Credit Card,Express
+2025-07-30,ORD-00868,CUST-10213,Small Business,USB Hub,Accessories,South,Karnataka,1030.81,2,0.1,611.3,419.51,Bank Transfer,Express
+2025-05-12,ORD-00869,CUST-10321,Small Business,Smartphone X,Electronics,West,Goa,6490.06,6,0.2,5027.01,1463.05,UPI,Standard
+2025-02-12,ORD-00870,CUST-10313,Small Business,Bookshelf,Furniture,West,Rajasthan,1062.53,1,0.05,795.88,266.65,Bank Transfer,Express
+2025-09-16,ORD-00871,CUST-10003,Consumer,Mouse,Accessories,North,Haryana,815.5,2,0.15,639.59,175.91,Debit Card,Standard
+2025-01-01,ORD-00872,CUST-10039,Corporate,Bookshelf,Furniture,West,Rajasthan,4344.61,4,0.05,3259.23,1085.38,UPI,Express
+2025-09-12,ORD-00873,CUST-10346,Small Business,Smartphone X,Electronics,South,Tamil Nadu,6805.57,7,0.1,4841.29,1964.29,Bank Transfer,Standard
+2025-07-01,ORD-00874,CUST-10324,Corporate,Webcam,Accessories,East,Bihar,1372.53,3,0.0,940.24,432.29,Cash,Express
+2025-10-15,ORD-00875,CUST-10113,Corporate,Standing Desk,Furniture,North,Uttar Pradesh,3251.9,4,0.1,2107.01,1144.89,UPI,Standard
+2025-12-13,ORD-00876,CUST-10183,Consumer,Standing Desk,Furniture,South,Telangana,3151.11,3,0.1,2300.37,850.74,Cash,Standard
+2025-07-21,ORD-00877,CUST-10201,Small Business,Webcam,Accessories,East,Jharkhand,1182.28,4,0.1,694.96,487.32,Cash,Standard
+2025-07-29,ORD-00878,CUST-10234,Consumer,Monitor 27,Electronics,East,Jharkhand,1215.35,1,0.05,824.58,390.77,Debit Card,Same Day
+2025-06-27,ORD-00879,CUST-10263,Consumer,Tablet Air,Electronics,North,Punjab,6126.7,5,0.15,4799.42,1327.28,Cash,Standard
+2025-05-17,ORD-00880,CUST-10131,Small Business,Laptop Pro,Electronics,North,Haryana,4351.78,5,0.2,2665.97,1685.82,Credit Card,Standard
+2025-02-02,ORD-00881,CUST-10312,Small Business,Office Chair,Furniture,East,Bihar,3256.0,3,0.05,1949.91,1306.09,Bank Transfer,Standard
+2025-01-12,ORD-00882,CUST-10021,Small Business,Smartphone X,Electronics,North,Delhi,1963.21,2,0.1,1522.77,440.44,Bank Transfer,Standard
+2025-09-21,ORD-00883,CUST-10012,Corporate,Notebook Pack,Office Supplies,South,Karnataka,1126.19,6,0.15,787.58,338.61,Debit Card,Express
+2025-11-30,ORD-00884,CUST-10336,Consumer,Monitor 27,Electronics,East,Odisha,2441.17,2,0.05,2003.09,438.07,Cash,Same Day
+2025-01-20,ORD-00885,CUST-10063,Corporate,Ink Cartridge,Office Supplies,West,Maharashtra,234.78,1,0.15,202.19,32.59,Cash,Express
+2025-04-30,ORD-00886,CUST-10349,Consumer,Monitor 27,Electronics,East,Jharkhand,723.4,1,0.05,627.27,96.13,Bank Transfer,Express
+2025-08-10,ORD-00887,CUST-10101,Small Business,Conference Table,Furniture,East,Odisha,3569.94,7,0.15,2526.37,1043.57,Debit Card,Standard
+2025-09-15,ORD-00888,CUST-10128,Corporate,Office Chair,Furniture,West,Goa,2055.87,3,0.0,1355.43,700.44,Cash,Standard
+2025-09-26,ORD-00889,CUST-10010,Consumer,Desk Organizer,Office Supplies,West,Gujarat,336.61,1,0.05,256.7,79.92,Debit Card,Standard
+2025-09-11,ORD-00890,CUST-10331,Consumer,Office Chair,Furniture,North,Punjab,7302.25,7,0.1,5611.47,1690.78,Bank Transfer,Express
+2025-01-31,ORD-00891,CUST-10126,Consumer,Standing Desk,Furniture,East,Jharkhand,1662.36,2,0.1,1274.54,387.82,UPI,Standard
+2025-04-03,ORD-00892,CUST-10059,Small Business,Webcam,Accessories,South,Tamil Nadu,786.6,3,0.15,532.16,254.44,Credit Card,Express
+2025-06-21,ORD-00893,CUST-10170,Corporate,Desk Organizer,Office Supplies,West,Goa,241.37,1,0.2,144.61,96.76,Cash,Standard
+2025-01-24,ORD-00894,CUST-10055,Consumer,Laptop Pro,Electronics,West,Goa,7673.29,5,0.0,4933.93,2739.35,Debit Card,Standard
+2025-05-06,ORD-00895,CUST-10277,Consumer,Webcam,Accessories,North,Punjab,2492.92,5,0.05,1561.38,931.54,Debit Card,Standard
+2025-05-21,ORD-00896,CUST-10026,Consumer,Office Chair,Furniture,South,Tamil Nadu,4277.55,6,0.05,2639.97,1637.57,Cash,Express
+2025-12-24,ORD-00897,CUST-10175,Consumer,Laptop Pro,Electronics,West,Rajasthan,1550.66,2,0.1,1330.29,220.37,Credit Card,Express
+2025-04-26,ORD-00898,CUST-10137,Small Business,Conference Table,Furniture,West,Rajasthan,3145.4,3,0.1,1837.4,1308.0,Credit Card,Standard
+2025-12-21,ORD-00899,CUST-10014,Corporate,Tablet Air,Electronics,West,Gujarat,9122.91,7,0.15,6938.49,,UPI,Express
+2025-09-13,ORD-00900,CUST-10019,Consumer,Monitor 27,Electronics,East,Jharkhand,4064.28,6,0.15,3512.52,551.76,Credit Card,Express
+2025-09-10,ORD-00901,CUST-10182,Corporate,Ink Cartridge,Office Supplies,East,Odisha,366.5,1,0.0,252.16,114.34,Debit Card,Standard
+2025-10-27,ORD-00902,CUST-10139,Consumer,Monitor 27,Electronics,West,Gujarat,3975.44,5,0.05,2934.39,1041.05,Bank Transfer,Express
+2025-11-04,ORD-00903,CUST-10046,Consumer,Mouse,Accessories,West,Goa,1589.02,6,0.1,1253.32,335.7,Credit Card,Standard
+2025-03-23,ORD-00904,CUST-10049,Corporate,Mouse,Accessories,East,West Bengal,2005.98,4,0.05,1354.34,651.64,Debit Card,Standard
+2025-06-03,ORD-00905,CUST-10282,Consumer,Notebook Pack,Office Supplies,South,Tamil Nadu,1510.67,5,0.0,1092.66,418.01,Credit Card,Standard
+2025-07-12,ORD-00906,CUST-10256,Corporate,Desk Organizer,Office Supplies,North,Haryana,261.12,1,0.05,215.45,45.66,Cash,Standard
+2025-12-23,ORD-00907,CUST-10213,Small Business,Notebook Pack,Office Supplies,East,Bihar,365.24,1,0.05,293.51,71.73,Debit Card,Standard
+2025-01-15,ORD-00908,CUST-10292,Small Business,Mouse,Accessories,West,Maharashtra,555.01,1,0.0,456.51,98.49,UPI,Standard
+2025-06-24,ORD-00909,CUST-10025,Consumer,Bookshelf,Furniture,West,Rajasthan,1005.86,2,0.15,881.34,124.52,Bank Transfer,Standard
+2025-03-20,ORD-00910,CUST-10241,Corporate,Smartphone X,Electronics,West,Rajasthan,8740.1,7,0.05,6040.27,2699.83,Credit Card,Express
+2025-03-17,ORD-00911,CUST-10264,Consumer,Standing Desk,Furniture,North,Punjab,4849.39,5,0.1,3899.53,949.86,Cash,Standard
+2025-10-06,ORD-00912,CUST-10071,Corporate,Conference Table,Furniture,South,Karnataka,5004.9,6,0.1,3807.91,1197.0,Credit Card,Standard
+2025-03-15,ORD-00913,CUST-10188,Consumer,Monitor 27,Electronics,South,Telangana,4212.26,3,0.15,3285.48,926.77,Cash,Standard
+2025-10-17,ORD-00914,CUST-10269,Corporate,Ink Cartridge,Office Supplies,South,Karnataka,2349.72,7,0.0,1884.39,465.33,Bank Transfer,Standard
+2025-12-29,ORD-00915,CUST-10212,Consumer,Smartphone X,Electronics,South,Kerala,1686.62,2,0.0,1357.6,329.03,UPI,Express
+2025-10-11,ORD-00916,CUST-10088,Small Business,Mouse,Accessories,South,Tamil Nadu,2258.53,7,0.05,1910.09,348.44,Bank Transfer,Express
+2025-03-04,ORD-00917,CUST-10233,Small Business,Laptop Pro,Electronics,West,,1432.26,1,0.05,980.81,451.45,Bank Transfer,Standard
+2025-02-21,ORD-00918,CUST-10266,Consumer,Tablet Air,Electronics,West,Goa,1581.29,1,0.05,1227.15,354.14,Debit Card,Express
+2025-06-09,ORD-00919,CUST-10004,Corporate,Laptop Pro,Electronics,East,Odisha,712.28,1,0.15,473.01,239.26,UPI,Standard
+2025-07-21,ORD-00920,CUST-10199,Consumer,Monitor 27,Electronics,North,Uttar Pradesh,4786.88,6,0.05,3630.23,1156.65,Debit Card,Same Day
+2025-10-12,ORD-00921,CUST-10177,Corporate,Smartphone X,Electronics,West,Rajasthan,2899.63,2,0.0,2335.23,564.41,Bank Transfer,Standard
+2025-06-04,ORD-00922,CUST-10129,Consumer,Monitor 27,Electronics,South,Kerala,3065.48,4,0.05,2505.42,560.06,UPI,Standard
+2025-03-02,ORD-00923,CUST-10016,Consumer,Tablet Air,Electronics,North,Delhi,2755.96,4,0.15,1945.81,810.15,Credit Card,Standard
+2025-12-28,ORD-00924,CUST-10030,Corporate,Tablet Air,Electronics,East,Odisha,7982.58,6,0.15,5848.16,2134.41,Bank Transfer,Standard
+2025-11-27,ORD-00925,CUST-10263,Corporate,Office Chair,Furniture,West,Rajasthan,2961.38,3,0.1,2014.19,947.18,Debit Card,Standard
+2025-08-27,ORD-00926,CUST-10290,Corporate,Standing Desk,Furniture,West,Rajasthan,1036.77,1,0.1,653.9,382.87,Cash,Standard
+2025-09-11,ORD-00927,CUST-10147,Corporate,Bookshelf,Furniture,West,Maharashtra,2686.09,3,0.1,1767.87,918.23,Credit Card,Standard
+2025-12-08,ORD-00928,CUST-10329,Consumer,Office Chair,Furniture,South,Karnataka,2083.93,3,0.1,1778.93,305.0,Bank Transfer,Express
+2025-06-23,ORD-00929,CUST-10325,Consumer,Monitor 27,Electronics,North,Punjab,9013.46,6,0.05,6063.27,2950.19,Debit Card,Express
+2025-02-23,ORD-00930,CUST-10234,Corporate,Monitor 27,Electronics,North,Haryana,5520.56,6,0.1,4816.29,704.27,Credit Card,Standard
+2025-08-10,ORD-00931,CUST-10204,Corporate,Smartphone X,Electronics,West,Goa,850.82,1,0.15,555.11,295.71,Cash,Express
+2025-06-14,ORD-00932,CUST-10338,Consumer,Printer Paper,Office Supplies,East,Bihar,2169.16,6,0.05,1728.65,440.51,Bank Transfer,Standard
+2025-10-19,ORD-00933,CUST-10214,Consumer,USB Hub,Accessories,East,West Bengal,451.58,1,0.1,339.67,111.91,Debit Card,Same Day
+2025-10-09,ORD-00934,CUST-10327,Corporate,Mouse,Accessories,North,Punjab,2582.76,5,0.1,2037.95,544.8,Credit Card,Standard
+2025-06-22,ORD-00935,CUST-10343,Corporate,Bookshelf,Furniture,North,Punjab,1777.98,3,0.1,1374.72,403.27,Cash,Express
+2025-05-15,ORD-00936,CUST-10069,Small Business,Bookshelf,Furniture,West,Rajasthan,3600.19,3,0.0,2851.44,748.75,UPI,Same Day
+2025-06-04,ORD-00937,CUST-10232,Consumer,Monitor 27,Electronics,South,Karnataka,4720.4,4,0.1,4020.2,700.21,UPI,Express
+2025-08-19,ORD-00938,CUST-10256,Corporate,Desk Organizer,Office Supplies,West,Gujarat,845.68,3,0.15,633.45,212.23,UPI,Express
+2025-08-21,ORD-00939,CUST-10288,Corporate,Printer Paper,Office Supplies,South,Tamil Nadu,2320.5,6,0.0,1393.12,927.38,Bank Transfer,Standard
+2025-07-06,ORD-00940,CUST-10123,Consumer,Keyboard,Accessories,West,Gujarat,2666.2,7,0.05,1763.02,903.18,UPI,Express
+2025-07-14,ORD-00941,CUST-10302,Consumer,USB Hub,Accessories,West,Goa,3088.66,6,0.0,2447.66,641.0,Bank Transfer,Standard
+2025-12-29,ORD-00942,CUST-10171,Consumer,Bookshelf,Furniture,South,Telangana,3951.73,4,0.0,2877.74,1073.99,UPI,Standard
+2025-04-03,ORD-00943,CUST-10136,Small Business,Desk Organizer,Office Supplies,West,Goa,1147.06,4,0.2,854.06,293.0,Bank Transfer,Same Day
+2025-03-05,ORD-00944,CUST-10055,Consumer,Mouse,Accessories,East,Bihar,2067.74,4,0.1,1569.36,498.38,Bank Transfer,Standard
+2025-10-19,ORD-00945,CUST-10113,Corporate,Laptop Pro,Electronics,East,Odisha,7826.99,6,0.05,5438.1,2388.88,Cash,Standard
+2025-12-08,ORD-00946,CUST-10342,Corporate,Keyboard,Accessories,West,Maharashtra,1123.76,4,0.05,912.68,211.08,Credit Card,Same Day
+2025-08-11,ORD-00947,CUST-10251,Consumer,Monitor 27,Electronics,North,Punjab,2931.17,4,0.2,2336.32,594.85,UPI,Standard
+2025-05-27,ORD-00948,CUST-10255,Small Business,Keyboard,Accessories,South,Kerala,1691.58,3,0.05,1343.6,347.98,Bank Transfer,Standard
+2025-05-08,ORD-00949,CUST-10314,Corporate,Desk Organizer,Office Supplies,South,Telangana,1077.24,3,0.1,855.97,221.27,Debit Card,Standard
+2025-06-20,ORD-00950,CUST-10094,Consumer,Laptop Pro,Electronics,East,West Bengal,6222.58,4,0.05,5271.19,951.39,Cash,Express
+2025-01-20,ORD-00951,CUST-10232,Corporate,Desk Organizer,Office Supplies,East,Jharkhand,951.22,5,0.0,721.61,229.61,UPI,Express
+2025-07-12,ORD-00952,CUST-10131,Corporate,Laptop Pro,Electronics,West,Goa,3957.67,4,0.1,3443.65,514.02,Debit Card,Standard
+2025-04-09,ORD-00953,CUST-10297,Consumer,Printer Paper,Office Supplies,West,Gujarat,2113.0,6,0.0,1301.1,811.9,UPI,Express
+2025-04-07,ORD-00954,CUST-10148,Corporate,Notebook Pack,Office Supplies,West,Goa,1893.49,6,0.1,1457.21,436.28,Debit Card,Standard
+2025-07-24,ORD-00955,CUST-10300,Corporate,Printer Paper,Office Supplies,South,Telangana,764.73,4,0.05,608.02,156.71,UPI,Express
+2025-12-18,ORD-00956,CUST-10262,Consumer,Mouse,Accessories,South,Karnataka,3010.07,7,0.1,2176.78,833.29,Bank Transfer,Express
+2025-03-17,ORD-00957,CUST-10271,Small Business,Monitor 27,Electronics,North,Delhi,1494.2,2,0.15,995.83,498.37,Bank Transfer,Same Day
+2025-11-29,ORD-00958,CUST-10324,Corporate,Tablet Air,Electronics,East,Jharkhand,7567.89,7,0.1,5638.16,1929.73,UPI,Standard
+2025-07-09,ORD-00959,CUST-10277,Corporate,Bookshelf,Furniture,East,Jharkhand,2146.46,3,0.0,1479.82,666.64,Debit Card,Standard
+2025-12-22,ORD-00960,CUST-10113,Consumer,Laptop Pro,Electronics,East,Jharkhand,2867.07,4,0.1,2444.86,422.21,Debit Card,Standard
+2025-05-20,ORD-00961,CUST-10183,Consumer,Office Chair,Furniture,East,Odisha,971.06,2,0.2,667.16,303.91,Bank Transfer,Standard
+2025-12-30,ORD-00962,CUST-10166,Consumer,Laptop Pro,Electronics,East,Jharkhand,6024.98,4,0.05,3812.08,2212.9,Debit Card,Standard
+2025-08-29,ORD-00963,CUST-10023,Corporate,Office Chair,Furniture,West,Rajasthan,3017.75,3,0.05,2272.11,745.64,Debit Card,Standard
+2025-09-02,ORD-00964,CUST-10208,Corporate,Office Chair,Furniture,West,Gujarat,5041.1,5,0.15,3522.71,1518.39,Cash,Standard
+2025-07-25,ORD-00965,CUST-10154,Corporate,Mouse,Accessories,South,Telangana,430.92,1,0.0,262.33,168.59,Debit Card,Same Day
+2025-06-14,ORD-00966,CUST-10138,Consumer,Tablet Air,Electronics,East,West Bengal,6089.74,6,0.1,4563.97,1525.77,Cash,Standard
+2025-07-11,ORD-00967,CUST-10039,Corporate,Mouse,Accessories,South,Karnataka,2340.88,7,0.15,1735.42,605.46,Cash,Standard
+2025-11-07,ORD-00968,CUST-10177,Small Business,Standing Desk,Furniture,West,Rajasthan,3886.36,4,0.0,2456.02,1430.34,Cash,Express
+2025-10-17,ORD-00969,CUST-10203,Corporate,Standing Desk,Furniture,North,Delhi,2849.62,4,0.1,2163.69,685.93,Cash,Standard
+2025-01-09,ORD-00970,CUST-10037,Corporate,Bookshelf,Furniture,West,Goa,4769.85,5,0.1,3578.38,1191.47,Bank Transfer,Standard
+2025-09-11,ORD-00971,CUST-10223,Small Business,Standing Desk,Furniture,West,Goa,2085.05,2,0.05,1693.24,391.82,Debit Card,Standard
+2025-11-01,ORD-00972,CUST-10059,Consumer,Laptop Pro,Electronics,West,Rajasthan,7921.71,6,0.15,5453.87,2467.84,Debit Card,Standard
+2025-09-29,ORD-00973,CUST-10051,Corporate,Standing Desk,Furniture,West,Goa,1435.21,2,0.0,939.53,495.68,Credit Card,Standard
+2025-07-01,ORD-00974,CUST-10141,Small Business,Laptop Pro,Electronics,South,Telangana,5853.71,5,0.05,5065.6,788.11,Cash,Express
+2025-05-03,ORD-00975,CUST-10137,Corporate,Standing Desk,Furniture,East,Bihar,1796.33,3,0.15,1344.31,452.02,Bank Transfer,Standard
+2025-09-03,ORD-00976,CUST-10321,Consumer,Desk Organizer,Office Supplies,North,Uttar Pradesh,1142.48,6,0.0,671.94,470.54,Cash,Standard
+2025-08-31,ORD-00977,CUST-10024,Small Business,Standing Desk,Furniture,East,Jharkhand,5272.49,6,0.15,4356.2,916.29,Bank Transfer,Standard
+2025-05-17,ORD-00978,CUST-10123,Consumer,Keyboard,Accessories,East,West Bengal,914.92,2,0.0,584.66,330.26,Debit Card,Standard
+2025-05-29,ORD-00979,CUST-10258,Consumer,Tablet Air,Electronics,East,West Bengal,6360.81,5,0.1,5189.22,1171.59,Credit Card,Standard
+2025-05-15,ORD-00980,CUST-10088,Consumer,Keyboard,Accessories,West,Maharashtra,1209.77,4,0.0,957.59,252.18,Cash,Same Day
+2025-01-17,ORD-00981,CUST-10344,Corporate,Printer Paper,Office Supplies,South,Telangana,1093.49,3,0.1,952.04,141.45,Bank Transfer,Standard
+2025-01-12,ORD-00982,CUST-10261,Consumer,Keyboard,Accessories,South,Telangana,2580.18,5,0.15,2243.91,336.27,Cash,Standard
+2025-01-31,ORD-00983,CUST-10332,Corporate,USB Hub,Accessories,North,Uttar Pradesh,2553.98,7,0.15,1691.56,862.42,Debit Card,Standard
+2025-06-04,ORD-00984,CUST-10333,Small Business,Smartphone X,Electronics,East,West Bengal,1235.42,1,0.2,1000.61,234.81,Debit Card,Express
+2025-07-06,ORD-00985,CUST-10039,Corporate,Bookshelf,Furniture,West,Gujarat,4524.2,7,0.1,3054.09,1470.11,UPI,Express
+2025-05-30,ORD-00986,CUST-10161,Corporate,Tablet Air,Electronics,South,Karnataka,7272.91,6,0.15,5591.12,1681.79,UPI,Standard
+2025-12-15,ORD-00987,CUST-10261,Small Business,Webcam,Accessories,East,Jharkhand,2046.31,4,0.1,1553.81,492.5,Bank Transfer,Express
+2025-03-24,ORD-00988,CUST-10004,Small Business,Ink Cartridge,Office Supplies,West,Goa,1549.06,5,0.15,923.8,625.26,Credit Card,Standard
+2025-05-24,ORD-00989,CUST-10159,Consumer,Tablet Air,Electronics,East,West Bengal,4034.7,3,0.1,2346.4,1688.3,UPI,Express
+2025-04-01,ORD-00990,CUST-10241,Consumer,USB Hub,Accessories,South,Kerala,364.29,1,0.15,217.6,146.69,Bank Transfer,Standard
+2025-04-20,ORD-00991,CUST-10278,Corporate,Tablet Air,Electronics,North,Punjab,7133.98,5,0.05,4411.53,2722.45,Bank Transfer,Express
+2025-08-02,ORD-00992,CUST-10146,Small Business,Printer Paper,Office Supplies,North,Haryana,1818.28,6,0.1,1195.15,623.13,UPI,Express
+2025-04-24,ORD-00993,CUST-10303,Corporate,Notebook Pack,Office Supplies,South,Kerala,381.0,2,0.1,324.65,56.36,Debit Card,Express
+2025-04-26,ORD-00994,CUST-10236,Consumer,Smartphone X,Electronics,West,Gujarat,5115.3,6,0.0,3762.76,1352.54,Debit Card,Standard
+2025-09-02,ORD-00995,CUST-10016,Corporate,Notebook Pack,Office Supplies,South,Kerala,2129.46,6,0.0,1744.17,385.29,UPI,Express
+2025-10-31,ORD-00996,CUST-10098,Corporate,Keyboard,Accessories,East,Bihar,2319.15,6,0.2,1928.36,390.79,Bank Transfer,Express
+2025-03-19,ORD-00997,CUST-10329,Corporate,Smartphone X,Electronics,North,Uttar Pradesh,3492.18,3,0.05,2795.43,696.75,Credit Card,Standard
+2025-02-10,ORD-00998,CUST-10001,Small Business,Bookshelf,Furniture,West,Gujarat,3508.31,3,0.0,2446.75,1061.56,Cash,Standard
+2025-03-29,ORD-00999,CUST-10038,Corporate,Tablet Air,Electronics,South,Tamil Nadu,3859.82,3,0.05,3239.0,620.82,UPI,Standard
+2025-07-30,ORD-01000,CUST-10121,Corporate,Notebook Pack,Office Supplies,West,Gujarat,1543.2,6,0.05,1238.6,304.6,Cash,Standard
+2025-12-17,ORD-01001,CUST-10348,Corporate,Laptop Pro,Electronics,West,Maharashtra,7108.4,7,0.1,5707.66,1400.74,UPI,Express
+2025-02-28,ORD-01002,CUST-10247,Corporate,Mouse,Accessories,East,Bihar,1214.72,3,0.15,1033.09,181.63,Bank Transfer,Standard
+2025-01-16,ORD-01003,CUST-10052,Corporate,Mouse,Accessories,West,Rajasthan,2959.33,7,0.2,2247.91,711.43,Bank Transfer,Express
+2025-07-12,ORD-01004,CUST-10138,Corporate,Smartphone X,Electronics,West,Rajasthan,4560.14,4,0.1,3367.99,1192.15,Debit Card,Express
+2025-12-28,ORD-01005,CUST-10329,Corporate,Standing Desk,Furniture,North,Punjab,2425.83,3,0.1,2054.8,371.03,Credit Card,Express
+2025-07-21,ORD-01006,CUST-10077,Corporate,Printer Paper,Office Supplies,East,Bihar,327.58,1,0.05,234.66,92.92,UPI,Express
+2025-12-04,ORD-01007,CUST-10202,Corporate,Notebook Pack,Office Supplies,South,Kerala,1444.91,5,0.15,1189.84,255.07,Credit Card,Standard
+2025-08-23,ORD-01008,CUST-10163,Consumer,Conference Table,Furniture,East,Bihar,5585.68,5,0.0,3329.92,2255.75,Bank Transfer,Standard
+2025-01-12,ORD-01009,CUST-10267,Corporate,Monitor 27,Electronics,North,Uttar Pradesh,5635.33,7,0.0,3270.67,2364.66,Bank Transfer,Standard
+2025-06-06,ORD-01010,CUST-10264,Corporate,Monitor 27,Electronics,East,Jharkhand,6921.87,6,0.2,5111.72,1810.15,UPI,Express
+2025-10-09,ORD-01011,CUST-10292,Consumer,Webcam,Accessories,North,Delhi,378.78,1,0.15,228.06,150.72,UPI,Same Day
+2025-07-05,ORD-01012,CUST-10042,Consumer,Bookshelf,Furniture,North,Punjab,2292.51,4,0.05,2001.27,291.23,Debit Card,Standard
+2025-03-13,ORD-01013,CUST-10159,Consumer,Mouse,Accessories,East,Bihar,2706.2,6,0.1,1574.06,1132.14,Debit Card,Same Day
+2025-03-08,ORD-01014,CUST-10243,Small Business,Conference Table,Furniture,South,Tamil Nadu,3951.04,4,0.05,3142.83,808.21,Cash,Same Day
+2025-08-31,ORD-01015,CUST-10147,Small Business,Webcam,Accessories,East,West Bengal,1705.97,4,0.05,1114.02,591.94,Bank Transfer,Standard
+2025-06-19,ORD-01016,CUST-10234,Corporate,Laptop Pro,Electronics,West,Rajasthan,8423.43,6,0.05,7330.62,1092.81,Debit Card,Express
+2025-07-29,ORD-01017,CUST-10223,Consumer,Monitor 27,Electronics,North,Punjab,5118.64,5,0.0,3554.7,1563.94,Debit Card,Express
+2025-05-17,ORD-01018,CUST-10130,Corporate,USB Hub,Accessories,South,Kerala,1533.78,5,0.1,902.15,631.64,Bank Transfer,Standard
+2025-05-04,ORD-01019,CUST-10036,Corporate,Mouse,Accessories,West,Maharashtra,1485.22,4,0.05,873.43,611.79,Debit Card,Standard
+2025-09-01,ORD-01020,CUST-10340,Small Business,Tablet Air,Electronics,East,Odisha,2024.54,2,0.1,1510.33,514.21,Bank Transfer,Standard
+2025-01-03,ORD-01021,CUST-10290,Consumer,Bookshelf,Furniture,South,Tamil Nadu,4102.94,4,0.0,3594.23,508.71,UPI,Express
+2025-06-08,ORD-01022,CUST-10314,Consumer,Bookshelf,Furniture,North,Punjab,6313.74,7,0.2,5517.78,795.96,Cash,Standard
+2025-05-16,ORD-01023,CUST-10105,Corporate,Conference Table,Furniture,South,Tamil Nadu,4692.26,5,0.1,3196.28,1495.98,Cash,Express
+2025-10-12,ORD-01024,CUST-10111,Consumer,Laptop Pro,Electronics,East,Odisha,3857.17,5,0.15,2795.72,1061.45,Debit Card,Express
+2025-09-23,ORD-01025,CUST-10114,Corporate,Webcam,Accessories,North,Uttar Pradesh,396.05,1,0.0,241.64,154.4,Debit Card,Express
+2025-06-05,ORD-01026,CUST-10011,Corporate,Tablet Air,Electronics,East,Odisha,5627.42,7,0.1,4145.45,1481.96,Debit Card,Standard
+2025-04-06,ORD-01027,CUST-10060,Consumer,Printer Paper,Office Supplies,South,Tamil Nadu,570.9,2,0.15,433.84,137.07,Cash,Standard
+2025-03-28,ORD-01028,CUST-10108,Consumer,Tablet Air,Electronics,East,Bihar,6489.19,7,0.05,4252.49,2236.7,UPI,Standard
+2025-03-19,ORD-01029,CUST-10346,Corporate,Laptop Pro,Electronics,North,Punjab,4923.42,4,0.0,3759.7,1163.73,Credit Card,Standard
+2025-04-10,ORD-01030,CUST-10072,Small Business,Notebook Pack,Office Supplies,East,West Bengal,2389.81,7,0.05,2031.12,358.69,Bank Transfer,Standard
+2025-10-05,ORD-01031,CUST-10178,Corporate,Standing Desk,Furniture,North,Delhi,6708.11,7,0.05,3892.63,2815.48,Bank Transfer,Standard
+2025-01-17,ORD-01032,CUST-10192,Consumer,Printer Paper,Office Supplies,North,Punjab,1418.36,6,0.05,920.06,498.3,Credit Card,Standard
+2025-01-10,ORD-01033,CUST-10126,Corporate,Smartphone X,Electronics,East,Jharkhand,7007.35,7,0.05,4505.56,2501.79,UPI,Standard
+2025-07-17,ORD-01034,CUST-10322,Corporate,Keyboard,Accessories,South,Kerala,2339.52,5,0.05,1443.87,895.65,Debit Card,Standard
+2025-03-23,ORD-01035,CUST-10033,Corporate,Notebook Pack,Office Supplies,East,West Bengal,1647.44,6,0.1,1037.61,609.83,Bank Transfer,Standard
+2025-10-31,ORD-01036,CUST-10305,Corporate,USB Hub,Accessories,North,Haryana,610.78,2,0.0,468.94,141.84,Bank Transfer,Express
+2025-10-02,ORD-01037,CUST-10261,Consumer,Smartphone X,Electronics,East,Odisha,1473.99,1,0.05,900.33,573.67,UPI,Standard
+2025-10-08,ORD-01038,CUST-10108,Corporate,Office Chair,Furniture,East,Odisha,3243.88,4,0.1,2600.16,643.72,UPI,Same Day
+2025-06-16,ORD-01039,CUST-10269,Corporate,Standing Desk,Furniture,East,Odisha,5246.31,6,0.0,4438.94,807.37,Credit Card,Express
+2025-06-09,ORD-01040,CUST-10151,Consumer,Bookshelf,Furniture,West,Maharashtra,3918.4,6,0.05,3361.9,556.51,Debit Card,Standard
+2025-06-05,ORD-01041,CUST-10340,Corporate,Smartphone X,Electronics,West,Gujarat,4377.34,4,0.0,3405.8,971.54,UPI,Same Day
+2025-03-13,ORD-01042,CUST-10013,Small Business,Smartphone X,Electronics,North,Delhi,4214.8,4,0.0,2694.18,1520.62,UPI,Express
+2025-07-27,ORD-01043,CUST-10011,Corporate,Bookshelf,Furniture,North,Haryana,3314.7,5,0.1,2007.35,1307.35,Debit Card,Express
+2025-11-12,ORD-01044,CUST-10191,Consumer,Laptop Pro,Electronics,North,Delhi,8886.6,7,0.0,5772.8,3113.8,Credit Card,Standard
+2025-04-04,ORD-01045,CUST-10327,Corporate,Conference Table,Furniture,West,Maharashtra,4941.03,6,0.05,4291.71,649.31,Bank Transfer,Standard
+2025-01-21,ORD-01046,CUST-10023,Consumer,Laptop Pro,Electronics,East,West Bengal,1252.45,1,0.2,1088.01,164.44,UPI,Standard
+2025-07-26,ORD-01047,CUST-10273,Corporate,Laptop Pro,Electronics,West,Gujarat,6857.53,5,0.15,4763.07,2094.46,Cash,Express
+2025-05-26,ORD-01048,CUST-10329,Corporate,Ink Cartridge,Office Supplies,North,Delhi,693.49,3,0.0,470.0,223.48,UPI,Standard
+2025-10-19,ORD-01049,CUST-10171,Consumer,Bookshelf,Furniture,South,Tamil Nadu,3537.26,6,0.05,2592.82,944.44,Debit Card,Standard
+2025-11-09,ORD-01050,CUST-10304,Consumer,Office Chair,Furniture,West,Gujarat,4128.81,4,0.05,2756.01,1372.8,Cash,Standard
+2025-12-13,ORD-01051,CUST-10265,Small Business,Office Chair,Furniture,North,Delhi,7312.58,7,0.15,6390.46,922.13,Bank Transfer,Standard
+2025-05-24,ORD-01052,CUST-10075,Consumer,Ink Cartridge,Office Supplies,West,Maharashtra,1276.52,4,0.15,825.1,451.42,Cash,Standard
+2025-11-26,ORD-01053,CUST-10299,Small Business,Standing Desk,Furniture,West,Maharashtra,2843.07,5,0.0,1963.83,879.24,UPI,Standard
+2025-02-13,ORD-01054,CUST-10245,Corporate,Ink Cartridge,Office Supplies,West,Gujarat,238.28,1,0.0,168.9,69.39,Bank Transfer,Express
+2025-05-17,ORD-01055,CUST-10005,Corporate,Mouse,Accessories,West,Gujarat,1912.29,7,0.05,1180.88,731.42,UPI,Standard
+2025-04-08,ORD-01056,CUST-10199,Consumer,Bookshelf,Furniture,North,Uttar Pradesh,1888.07,2,0.15,1311.92,576.15,Bank Transfer,Standard
+2025-12-03,ORD-01057,CUST-10230,Consumer,Mouse,Accessories,South,Telangana,1194.3,3,0.15,999.65,194.65,Credit Card,Standard
+2025-08-08,ORD-01058,CUST-10281,Consumer,Notebook Pack,Office Supplies,West,Gujarat,1782.44,6,0.0,1108.87,673.57,Bank Transfer,Standard
+2025-05-14,ORD-01059,CUST-10270,Corporate,Monitor 27,Electronics,East,Odisha,7922.84,7,0.1,5983.38,1939.46,UPI,Standard
+2025-02-25,ORD-01060,CUST-10167,Small Business,Bookshelf,Furniture,North,Punjab,2896.67,4,0.0,2033.43,863.23,Cash,Standard
+2025-10-13,ORD-01061,CUST-10105,Small Business,Ink Cartridge,Office Supplies,South,Kerala,1140.36,4,0.1,719.75,420.61,Debit Card,Same Day
+2025-08-28,ORD-01062,CUST-10068,Consumer,Webcam,Accessories,North,Uttar Pradesh,240.81,1,0.15,140.56,100.25,Debit Card,Same Day
+2025-11-08,ORD-01063,CUST-10032,Consumer,Bookshelf,Furniture,West,Rajasthan,6595.39,7,0.05,4366.17,2229.22,Debit Card,Express
+2025-06-09,ORD-01064,CUST-10224,Consumer,Laptop Pro,Electronics,North,Delhi,1423.18,1,0.0,851.84,571.34,UPI,Express
+2025-02-24,ORD-01065,CUST-10336,Small Business,Desk Organizer,Office Supplies,East,Odisha,299.48,1,0.1,207.55,91.93,Credit Card,Standard
+2025-05-03,ORD-01066,CUST-10029,Consumer,Tablet Air,Electronics,South,Tamil Nadu,4001.58,4,0.05,3293.55,708.03,Bank Transfer,Standard
+2025-08-15,ORD-01067,CUST-10246,Consumer,Ink Cartridge,Office Supplies,East,Jharkhand,312.02,1,0.15,248.34,63.68,Cash,Standard
+2025-03-29,ORD-01068,CUST-10205,Corporate,Conference Table,Furniture,North,Uttar Pradesh,1974.23,2,,1706.16,268.07,Cash,Express
+2025-01-26,ORD-01069,CUST-10061,Corporate,Desk Organizer,Office Supplies,West,Maharashtra,895.64,5,0.15,634.21,261.43,Debit Card,Standard
+2025-10-28,ORD-01070,CUST-10075,Consumer,Webcam,Accessories,East,Jharkhand,1608.2,5,0.05,1274.24,333.96,Credit Card,Standard
+2025-07-13,ORD-01071,CUST-10100,Corporate,Desk Organizer,Office Supplies,South,Tamil Nadu,974.14,3,0.0,759.44,,Debit Card,Standard
+2025-05-25,ORD-01072,CUST-10240,Consumer,Notebook Pack,Office Supplies,North,Delhi,1406.93,6,0.05,907.63,499.3,Debit Card,Standard
+2025-07-21,ORD-01073,CUST-10105,Consumer,Ink Cartridge,Office Supplies,East,Odisha,1043.76,5,0.0,700.44,343.32,Credit Card,Express
+2025-09-27,ORD-01074,CUST-10290,Consumer,Mouse,Accessories,South,Telangana,617.63,2,0.05,456.4,161.23,Credit Card,Standard
+2025-01-01,ORD-01075,CUST-10130,Consumer,Webcam,Accessories,South,Tamil Nadu,1478.91,5,0.1,1211.23,267.69,Cash,Standard
+2025-06-10,ORD-01076,CUST-10039,Small Business,Laptop Pro,Electronics,East,Jharkhand,5935.34,5,0.0,4264.8,1670.54,Credit Card,Standard
+2025-04-03,ORD-01077,CUST-10034,Corporate,Desk Organizer,Office Supplies,East,Jharkhand,1908.33,6,0.0,1237.21,671.12,UPI,Express
+2025-02-03,ORD-01078,CUST-10141,Corporate,Laptop Pro,Electronics,East,Odisha,1819.58,2,0.0,1597.66,221.92,Bank Transfer,Standard
+2025-01-14,ORD-01079,CUST-10143,Consumer,Webcam,Accessories,North,Uttar Pradesh,1024.8,2,0.0,629.92,394.88,Bank Transfer,Standard
+2025-06-10,ORD-01080,CUST-10257,Corporate,Printer Paper,Office Supplies,East,West Bengal,624.61,3,0.15,541.39,83.22,Credit Card,Express
+2025-07-18,ORD-01081,CUST-10168,Small Business,Office Chair,Furniture,West,Rajasthan,1834.46,3,0.2,1509.24,325.22,Bank Transfer,Standard
+2025-07-05,ORD-01082,CUST-10058,Consumer,Smartphone X,Electronics,South,Karnataka,6671.83,7,0.0,5548.75,1123.08,Cash,Express
+2025-10-13,ORD-01083,CUST-10075,Small Business,Conference Table,Furniture,South,Tamil Nadu,5540.84,6,0.15,4535.04,1005.8,Cash,Standard
+2025-06-17,ORD-01084,CUST-10199,Corporate,Printer Paper,Office Supplies,South,Kerala,1429.19,4,0.1,918.19,511.01,Bank Transfer,Same Day
+2025-08-04,ORD-01085,CUST-10117,Corporate,Laptop Pro,Electronics,South,Telangana,3841.92,4,0.2,2957.41,884.51,Debit Card,Standard
+2025-10-25,ORD-01086,CUST-10236,Consumer,Smartphone X,Electronics,North,Punjab,5228.02,7,0.05,4219.14,1008.88,UPI,Standard
+2025-08-28,ORD-01087,CUST-10324,Corporate,USB Hub,Accessories,North,Uttar Pradesh,1370.09,4,0.05,1101.15,268.94,Debit Card,Same Day
+2025-11-29,ORD-01088,CUST-10125,Corporate,Printer Paper,Office Supplies,North,,413.07,2,0.05,273.23,139.84,Cash,Standard
+2025-03-22,ORD-01089,CUST-10194,Small Business,Tablet Air,Electronics,East,Jharkhand,1294.42,1,0.15,821.09,473.32,Cash,Express
+2025-10-15,ORD-01090,CUST-10292,Small Business,Monitor 27,Electronics,East,Jharkhand,2229.03,3,0.1,1512.25,716.77,Bank Transfer,Standard
+2025-09-12,ORD-01091,CUST-10074,Consumer,Webcam,Accessories,West,Gujarat,2689.81,5,0.1,1947.3,742.51,Cash,Standard
+2025-08-01,ORD-01092,CUST-10179,Small Business,Notebook Pack,Office Supplies,North,Uttar Pradesh,1192.54,4,0.05,896.95,295.59,Debit Card,Standard
+2025-01-02,ORD-01093,CUST-10107,Small Business,Printer Paper,Office Supplies,West,Rajasthan,804.53,3,0.1,668.63,135.9,UPI,Standard
+2025-07-17,ORD-01094,CUST-10220,Corporate,Monitor 27,Electronics,West,Gujarat,5192.01,4,0.15,4209.22,982.79,Debit Card,Express
+2025-11-10,ORD-01095,CUST-10261,Consumer,Tablet Air,Electronics,North,Delhi,5139.41,7,0.05,4023.36,1116.05,Credit Card,Standard
+2025-08-24,ORD-01096,CUST-10050,Consumer,Smartphone X,Electronics,East,West Bengal,9213.63,7,0.1,6072.21,3141.42,Cash,Standard
+2025-01-02,ORD-01097,CUST-10066,Consumer,Printer Paper,Office Supplies,West,Maharashtra,395.43,2,0.05,286.16,109.27,Bank Transfer,Standard
+2025-04-16,ORD-01098,CUST-10009,Consumer,Smartphone X,Electronics,South,Tamil Nadu,1368.91,1,0.1,931.73,437.19,Debit Card,Standard
+2025-07-27,ORD-01099,CUST-10005,Small Business,Tablet Air,Electronics,South,Telangana,2221.82,2,0.1,1445.24,776.57,Credit Card,Standard
+2025-10-24,ORD-01100,CUST-10018,Consumer,Desk Organizer,Office Supplies,West,Goa,998.03,6,,581.93,416.11,UPI,Same Day
+2025-06-12,ORD-01101,CUST-10248,Corporate,USB Hub,Accessories,West,Gujarat,1769.51,4,0.2,1206.52,562.99,UPI,Standard
+2025-11-09,ORD-01102,CUST-10317,Corporate,Printer Paper,Office Supplies,East,Odisha,1250.99,7,0.05,821.69,429.3,Credit Card,Standard
+2025-10-18,ORD-01103,CUST-10144,Corporate,Office Chair,Furniture,South,Kerala,3071.31,5,0.05,2308.31,763.0,Credit Card,Standard
+2025-04-08,ORD-01104,CUST-10309,Consumer,Conference Table,Furniture,South,Kerala,4161.08,4,0.05,2491.2,1669.88,Credit Card,Standard
+2025-03-13,ORD-01105,CUST-10256,Corporate,Office Chair,Furniture,West,Maharashtra,1737.22,2,0.0,1148.58,588.65,Cash,Standard
+2025-11-26,ORD-01106,CUST-10283,Corporate,Office Chair,Furniture,North,Delhi,3282.76,3,0.05,1948.09,1334.67,Bank Transfer,Express
+2025-08-04,ORD-01107,CUST-10259,Corporate,Standing Desk,Furniture,West,Gujarat,1969.18,2,0.0,1521.05,448.14,Debit Card,Standard
+2025-11-06,ORD-01108,CUST-10070,Consumer,Conference Table,Furniture,East,Odisha,3710.7,4,0.05,2784.72,925.98,UPI,Express
+2025-12-03,ORD-01109,CUST-10184,Corporate,Desk Organizer,Office Supplies,South,Tamil Nadu,494.92,2,0.0,337.16,157.76,Cash,Standard
+2025-06-04,ORD-01110,CUST-10184,Consumer,Webcam,Accessories,West,Maharashtra,906.06,3,0.05,565.56,340.5,Bank Transfer,Standard
+2025-01-17,ORD-01111,CUST-10225,Corporate,Keyboard,Accessories,West,Gujarat,506.56,1,0.15,439.38,67.18,Debit Card,Express
+2025-11-28,ORD-01112,CUST-10279,Consumer,Monitor 27,Electronics,East,Odisha,4810.31,6,0.05,3633.31,1177.0,Debit Card,Express
+2025-08-02,ORD-01113,CUST-10040,Consumer,Bookshelf,Furniture,North,Punjab,5747.03,7,0.1,4504.14,1242.89,Debit Card,Same Day
+2025-02-13,ORD-01114,CUST-10237,Small Business,Laptop Pro,Electronics,South,Tamil Nadu,3394.09,4,0.15,2509.61,884.49,Cash,Standard
+2025-07-13,ORD-01115,CUST-10292,Consumer,Bookshelf,Furniture,South,Karnataka,2635.62,4,0.1,2166.37,469.25,Bank Transfer,Same Day
+2025-01-11,ORD-01116,CUST-10041,Small Business,Laptop Pro,Electronics,West,Rajasthan,9061.64,7,0.0,7692.55,1369.09,Debit Card,Express
+2025-04-16,ORD-01117,CUST-10146,Small Business,Monitor 27,Electronics,West,Maharashtra,5630.08,4,0.05,3911.85,1718.23,Bank Transfer,Express
+2025-05-07,ORD-01118,CUST-10314,Consumer,Printer Paper,Office Supplies,South,Tamil Nadu,1602.4,5,0.1,1261.1,341.3,Cash,Express
+2025-06-15,ORD-01119,CUST-10009,Consumer,Bookshelf,Furniture,West,Rajasthan,3086.87,3,0.1,2003.27,1083.6,Credit Card,Same Day
+2025-07-26,ORD-01120,CUST-10057,Consumer,USB Hub,Accessories,South,Telangana,1485.66,4,0.0,1152.21,333.45,Cash,Standard
+2025-11-03,ORD-01121,CUST-10282,Small Business,Laptop Pro,Electronics,North,Delhi,4468.77,4,0.05,3127.0,1341.76,Bank Transfer,Express
+2025-05-09,ORD-01122,CUST-10061,Corporate,Smartphone X,Electronics,West,Gujarat,3402.4,5,0.1,1980.31,1422.08,UPI,Express
+2025-09-26,ORD-01123,CUST-10246,Consumer,Bookshelf,Furniture,South,Karnataka,5036.73,5,0.05,4365.12,671.61,Cash,Express
+2025-12-10,ORD-01124,CUST-10316,Corporate,Smartphone X,Electronics,West,Goa,3692.36,4,0.1,3103.55,588.81,Bank Transfer,Express
+2025-10-01,ORD-01125,CUST-10175,Consumer,Smartphone X,Electronics,East,Odisha,1264.07,1,0.0,843.45,420.62,Credit Card,Standard
+2025-04-03,ORD-01126,CUST-10170,Corporate,Keyboard,Accessories,North,Punjab,2193.73,7,0.05,1929.01,264.72,Credit Card,Standard
+2025-09-05,ORD-01127,CUST-10151,Corporate,Tablet Air,Electronics,East,Jharkhand,8933.02,7,0.15,6031.02,2902.0,Cash,Standard
+2025-04-13,ORD-01128,CUST-10131,Consumer,Tablet Air,Electronics,North,Haryana,2848.84,2,0.05,2044.48,804.36,Cash,Express
+2025-06-24,ORD-01129,CUST-10134,Small Business,Printer Paper,Office Supplies,North,Delhi,1022.08,3,0.1,853.83,168.26,UPI,Express
+2025-08-20,ORD-01130,CUST-10194,Consumer,Standing Desk,Furniture,South,Karnataka,3881.85,7,0.05,2606.19,1275.66,Bank Transfer,Express
+2025-04-18,ORD-01131,CUST-10314,Corporate,Desk Organizer,Office Supplies,South,Kerala,1152.29,3,0.05,824.07,328.21,UPI,Express
+2025-01-02,ORD-01132,CUST-10344,Corporate,Bookshelf,Furniture,East,Bihar,3677.05,6,0.15,2866.91,810.14,Credit Card,Standard
+2025-11-02,ORD-01133,CUST-10304,Small Business,Mouse,Accessories,West,Rajasthan,2148.73,6,0.05,1330.36,818.36,Debit Card,Standard
+2025-09-23,ORD-01134,CUST-10042,Corporate,Monitor 27,Electronics,North,Uttar Pradesh,6496.31,7,0.05,4590.98,1905.33,Credit Card,Express
+2025-02-14,ORD-01135,CUST-10108,Small Business,Conference Table,Furniture,South,Tamil Nadu,624.26,1,0.15,420.02,204.24,Debit Card,Express
+2025-05-18,ORD-01136,CUST-10265,Consumer,Notebook Pack,Office Supplies,East,Bihar,1100.87,4,0.1,862.01,238.85,Debit Card,Express
+2025-04-06,ORD-01137,CUST-10191,Small Business,Keyboard,Accessories,East,Bihar,1272.87,4,0.1,790.19,482.69,Debit Card,Express
+2025-12-23,ORD-01138,CUST-10118,Consumer,Bookshelf,Furniture,East,Bihar,4921.59,6,0.0,3198.14,1723.44,Cash,Same Day
+2025-12-10,ORD-01139,CUST-10109,Corporate,Desk Organizer,Office Supplies,West,Gujarat,657.71,2,0.0,521.84,135.87,UPI,Standard
+2025-09-10,ORD-01140,CUST-10041,Consumer,Laptop Pro,Electronics,North,Delhi,4094.94,3,0.1,2566.98,1527.96,Bank Transfer,Express
+2025-06-10,ORD-01141,CUST-10117,Small Business,Monitor 27,Electronics,East,Odisha,2769.64,2,0.0,1957.05,812.6,Credit Card,Standard
+2025-01-20,ORD-01142,CUST-10148,Small Business,Monitor 27,Electronics,South,Telangana,7377.38,6,0.05,5856.64,1520.74,UPI,Standard
+2025-04-01,ORD-01143,CUST-10146,Consumer,Printer Paper,Office Supplies,South,Kerala,1279.79,7,0.15,1036.17,243.62,Debit Card,Standard
+2025-02-03,ORD-01144,CUST-10193,Corporate,Tablet Air,Electronics,South,Tamil Nadu,1423.41,1,0.05,866.09,557.32,Credit Card,Standard
+2025-10-16,ORD-01145,CUST-10096,Corporate,Notebook Pack,Office Supplies,East,Bihar,380.7,2,0.0,318.11,62.59,UPI,Standard
+2025-02-02,ORD-01146,CUST-10073,Consumer,Laptop Pro,Electronics,East,Bihar,2971.67,3,0.0,2368.99,602.68,Debit Card,Express
+2025-09-05,ORD-01147,CUST-10311,Corporate,Mouse,Accessories,North,Uttar Pradesh,1942.94,7,0.05,1324.68,618.27,Cash,Standard
+2025-12-14,ORD-01148,CUST-10142,Corporate,USB Hub,Accessories,South,Karnataka,1790.12,4,0.1,1448.46,341.66,Debit Card,Standard
+2025-04-23,ORD-01149,CUST-10090,Corporate,Smartphone X,Electronics,East,West Bengal,1846.88,2,0.15,1474.72,372.17,Bank Transfer,Standard
+2025-09-07,ORD-01150,CUST-10223,Consumer,Tablet Air,Electronics,South,Karnataka,4042.15,3,0.0,3073.12,969.04,UPI,Standard
+2025-11-17,ORD-01151,CUST-10190,Small Business,Monitor 27,Electronics,West,Goa,5333.84,5,0.0,3987.28,1346.56,UPI,Express
+2025-06-06,ORD-01152,CUST-10202,Consumer,USB Hub,Accessories,South,Telangana,1150.55,3,0.1,920.91,229.64,Credit Card,Standard
+2025-06-13,ORD-01153,CUST-10078,Corporate,Laptop Pro,Electronics,West,Maharashtra,1110.38,1,0.05,976.89,133.49,Bank Transfer,Standard
+2025-03-15,ORD-01154,CUST-10254,Consumer,Bookshelf,Furniture,West,Gujarat,3150.87,6,0.1,2374.39,776.48,Cash,Same Day
+2025-06-06,ORD-01155,CUST-10068,Consumer,Bookshelf,Furniture,East,Jharkhand,2154.89,3,0.15,1772.64,382.24,UPI,Express
+2025-11-15,ORD-01156,CUST-10293,Consumer,Ink Cartridge,Office Supplies,West,Goa,586.08,2,0.1,470.79,115.29,Debit Card,Express
+2025-08-31,ORD-01157,CUST-10149,Consumer,Office Chair,Furniture,West,Maharashtra,5265.75,6,0.05,4406.08,859.67,Credit Card,Express
+2025-03-15,ORD-01158,CUST-10144,Corporate,Bookshelf,Furniture,West,Maharashtra,2897.73,6,0.2,2510.47,387.26,Bank Transfer,Standard
+2025-07-12,ORD-01159,CUST-10136,Corporate,Webcam,Accessories,East,Jharkhand,994.93,2,0.0,634.69,360.24,Credit Card,Express
+2025-09-15,ORD-01160,CUST-10149,Corporate,Smartphone X,Electronics,North,Haryana,825.32,1,0.2,519.65,305.67,Debit Card,Standard
+2025-01-29,ORD-01161,CUST-10233,Corporate,Keyboard,Accessories,West,Goa,250.07,1,0.1,189.03,61.04,Cash,Standard
+2025-10-06,ORD-01162,CUST-10174,Consumer,Tablet Air,Electronics,North,Uttar Pradesh,4809.5,6,0.1,3437.77,1371.72,Debit Card,Standard
+2025-03-15,ORD-01163,CUST-10045,Consumer,Conference Table,Furniture,South,Tamil Nadu,3786.07,5,0.15,2844.16,941.91,Bank Transfer,Express
+2025-04-18,ORD-01164,CUST-10199,Corporate,Mouse,Accessories,West,Goa,2037.39,6,0.1,1669.47,367.93,Bank Transfer,Standard
+2025-06-01,ORD-01165,CUST-10094,Corporate,Ink Cartridge,Office Supplies,West,Rajasthan,1603.32,5,0.05,1378.08,225.24,Debit Card,Standard
+2025-07-04,ORD-01166,CUST-10038,Corporate,Printer Paper,Office Supplies,South,Karnataka,672.33,3,0.05,474.15,198.19,Credit Card,Standard
+2025-12-01,ORD-01167,CUST-10294,Consumer,Tablet Air,Electronics,South,Tamil Nadu,6563.13,5,0.1,5220.18,1342.95,Cash,Express
+2025-03-23,ORD-01168,CUST-10110,Small Business,Bookshelf,Furniture,East,West Bengal,4035.44,6,0.1,2578.81,1456.63,Credit Card,Standard
+2025-04-04,ORD-01169,CUST-10209,Consumer,Office Chair,Furniture,South,Tamil Nadu,2924.06,3,0.0,2164.87,759.19,Cash,Standard
+2025-05-19,ORD-01170,CUST-10061,Corporate,Office Chair,Furniture,West,Gujarat,6904.59,7,0.1,4049.83,2854.76,Cash,Standard
+2025-11-09,ORD-01171,CUST-10119,Consumer,Bookshelf,Furniture,East,Jharkhand,5132.47,7,0.1,3752.48,1379.99,Debit Card,Express
+2025-12-19,ORD-01172,CUST-10136,Corporate,Office Chair,Furniture,North,Delhi,3330.67,6,0.05,2476.69,853.98,Cash,Standard
+2025-06-15,ORD-01173,CUST-10047,Consumer,Monitor 27,Electronics,West,Goa,8680.77,7,0.0,6950.12,1730.65,Bank Transfer,Same Day
+2025-09-10,ORD-01174,CUST-10341,Corporate,Laptop Pro,Electronics,North,Haryana,4740.34,3,0.05,3673.03,1067.31,Bank Transfer,Standard
+2025-12-01,ORD-01175,CUST-10110,Consumer,Conference Table,Furniture,East,Bihar,1211.41,1,0.0,832.87,378.54,UPI,Standard
+2025-11-06,ORD-01176,CUST-10204,Corporate,Tablet Air,Electronics,North,Punjab,3803.36,4,0.0,2212.49,1590.87,UPI,Standard
+2025-09-06,ORD-01177,CUST-10198,Consumer,USB Hub,Accessories,East,Odisha,3003.41,6,0.05,1846.03,1157.38,UPI,Standard
+2025-07-17,ORD-01178,CUST-10151,Corporate,Printer Paper,Office Supplies,East,West Bengal,1555.62,6,0.0,1356.37,199.25,UPI,Standard
+2025-12-26,ORD-01179,CUST-10205,Consumer,Laptop Pro,Electronics,West,Goa,2550.61,3,0.05,2185.11,365.5,Cash,Standard
+2025-03-29,ORD-01180,CUST-10199,Consumer,Ink Cartridge,Office Supplies,West,Gujarat,894.15,3,0.1,605.81,288.34,UPI,Express
+2025-05-13,ORD-01181,CUST-10029,Corporate,Webcam,Accessories,North,Delhi,1676.91,4,0.05,1102.83,574.08,UPI,Standard
+2025-09-18,ORD-01182,CUST-10235,Consumer,Smartphone X,Electronics,West,Rajasthan,5969.24,6,0.2,4243.68,1725.56,Cash,Standard
+2025-01-08,ORD-01183,CUST-10040,Consumer,Smartphone X,Electronics,West,Goa,1282.4,1,0.15,1009.22,273.17,Credit Card,Standard
+2025-07-02,ORD-01184,CUST-10153,Small Business,Smartphone X,Electronics,West,Gujarat,2854.22,3,0.1,1960.99,893.23,Cash,Standard
+2025-11-08,ORD-01185,CUST-10128,Small Business,Laptop Pro,Electronics,West,Goa,2177.96,2,0.2,1307.19,870.78,Cash,Standard
+2025-03-06,ORD-01186,CUST-10157,Small Business,Notebook Pack,Office Supplies,South,Tamil Nadu,1346.54,6,0.15,943.71,402.83,Debit Card,Standard
+2025-10-21,ORD-01187,CUST-10026,Consumer,USB Hub,Accessories,East,West Bengal,1091.95,4,0.05,718.7,373.25,Cash,Standard
+2025-05-31,ORD-01188,CUST-10246,Corporate,Tablet Air,Electronics,South,Tamil Nadu,985.75,1,0.1,667.82,317.92,Cash,Standard
+2025-11-11,ORD-01189,CUST-10147,Corporate,Desk Organizer,Office Supplies,West,Rajasthan,789.62,2,0.0,496.58,293.04,UPI,Same Day
+2025-08-20,ORD-01190,CUST-10022,Consumer,Tablet Air,Electronics,North,Delhi,1072.89,1,0.1,834.34,238.56,UPI,Express
+2025-02-27,ORD-01191,CUST-10002,Corporate,Printer Paper,Office Supplies,East,Odisha,742.48,4,0.1,547.94,194.54,Credit Card,Same Day
+2025-09-26,ORD-01192,CUST-10190,Consumer,Notebook Pack,Office Supplies,East,Bihar,2352.51,7,0.0,1555.62,796.89,Debit Card,Standard
+2025-01-21,ORD-01193,CUST-10234,Small Business,Conference Table,Furniture,South,Tamil Nadu,4588.87,4,0.05,3424.03,1164.85,Bank Transfer,Express
+2025-03-30,ORD-01194,CUST-10192,Corporate,Tablet Air,Electronics,South,Karnataka,8863.73,7,0.2,6451.14,2412.6,UPI,Standard
+2025-11-21,ORD-01195,CUST-10253,Corporate,Printer Paper,Office Supplies,South,Tamil Nadu,1767.68,6,0.05,1447.36,320.32,UPI,Standard
+2025-11-16,ORD-01196,CUST-10265,Corporate,Keyboard,Accessories,West,Goa,2796.01,7,0.0,2423.57,372.44,Credit Card,Express
+2025-01-17,ORD-01197,CUST-10306,Consumer,Smartphone X,Electronics,West,Rajasthan,3845.17,3,0.0,2380.93,1464.24,Credit Card,Standard
+2025-05-19,ORD-01198,CUST-10344,Consumer,Smartphone X,Electronics,North,Haryana,9438.39,7,0.1,7977.08,1461.31,Cash,Standard
+2025-02-04,ORD-01199,CUST-10310,Corporate,Smartphone X,Electronics,West,Gujarat,2617.73,2,0.15,2071.77,545.96,Credit Card,Express
+2025-04-09,ORD-01200,CUST-10279,Corporate,Printer Paper,Office Supplies,North,Uttar Pradesh,1242.43,4,0.15,978.75,263.69,Cash,Standard
+2025-01-03,ORD-00006,CUST-10124,Small Business,Smartphone X,Electronics,South,Telangana,2837.61,2,0.0,2070.32,767.29,Debit Card,Standard
+2025-03-20,ORD-00042,CUST-10227,Consumer,Office Chair,Furniture,South,Karnataka,2524.46,3,0.0,1468.43,1056.03,Cash,Express
+2025-09-17,ORD-00118,CUST-10295,Consumer,Monitor 27,Electronics,North,Uttar Pradesh,2315.38,2,0.15,1434.48,880.9,Credit Card,Standard

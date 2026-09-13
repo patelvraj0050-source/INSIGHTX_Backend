@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: insightx-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: insightx
+      POSTGRES_USER: insightx
+      POSTGRES_PASSWORD: insightx
+    ports:
+      - "5432:5432"
+    volumes:
+      - insightx_pgdata:/var/lib/postgresql/data
+
+volumes:
+  insightx_pgdata:

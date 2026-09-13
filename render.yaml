@@ -1,0 +1,35 @@
+services:
+  - type: web
+    name: insightx-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: INSIGHTX_ALLOWED_ORIGINS
+        value: "*"
+      - key: INSIGHTX_DATABASE_URL
+        fromDatabase:
+          name: insightx-db
+          property: connectionString
+
+  - type: web
+    name: insightx-frontend
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.address 0.0.0.0 --server.port $PORT
+    envVars:
+      - key: INSIGHTX_DATABASE_URL
+        fromDatabase:
+          name: insightx-db
+          property: connectionString
+      - key: INSIGHTX_API_URL
+        value: https://insightx-api.onrender.com
+
+  - type: pserv
+    name: insightx-db
+    plan: starter
+    databaseName: insightx
+    user: insightx
